@@ -1,6 +1,13 @@
 project:
-  type: default
-  output-dir: _output
+  type: website
+  output-dir: _site
+
+website:
+  title: "Coltran's Data Blog"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
 
 format:
   html:

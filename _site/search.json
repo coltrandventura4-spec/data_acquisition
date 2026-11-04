@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/crash-data/index.html",
+    "href": "posts/crash-data/index.html",
+    "title": "Combining State Crash-Death Datasets",
+    "section": "",
+    "text": "For this project, I collected county-level motor-vehicle crash-death data and combined the state CSV exports into one dataset."
+  },
+  {
+    "objectID": "posts/crash-data/index.html#project-overview",
+    "href": "posts/crash-data/index.html#project-overview",
+    "title": "Combining State Crash-Death Datasets",
+    "section": "",
+    "text": "For this project, I collected county-level motor-vehicle crash-death data and combined the state CSV exports into one dataset."
+  },
+  {
+    "objectID": "posts/crash-data/index.html#preparing-the-data",
+    "href": "posts/crash-data/index.html#preparing-the-data",
+    "title": "Combining State Crash-Death Datasets",
+    "section": "Preparing the data",
+    "text": "Preparing the data\nI added a State column to each dataset, removed the state-total row, and combined the remaining county rows."
+  },
+  {
+    "objectID": "posts/crash-data/index.html#next-steps",
+    "href": "posts/crash-data/index.html#next-steps",
+    "title": "Combining State Crash-Death Datasets",
+    "section": "Next steps",
+    "text": "Next steps\nI will check for missing values, duplicate records, and inconsistent column types before analyzing the combined dataset."
+  },
+  {
+    "objectID": "data_scraping.html",
+    "href": "data_scraping.html",
+    "title": "Coltran's Data Blog",
+    "section": "",
+    "text": "from pathlib import Path\nimport pandas as pd\n\n\n\n\n# create the state column\ndef combine_state_data(folder):\n    csv_files = sorted(Path(folder).rglob(\"*sort.csv\"))\n    if not csv_files:\n        raise FileNotFoundError(f\"No CSV files found in: {folder}\")\n\n    dataframes = []\n\n    for file in csv_files:\n        df = pd.read_csv(file)\n        df[\"State\"] = df.iloc[0,0]\n        df = df.iloc[1:].copy()\n        dataframes.append(df)\n\n    return pd.concat(dataframes, ignore_index=True)\n\n\nall_states = combine_state_data(\"state_crash_data\")\nall_states = all_states.iloc[:, :8]\nall_states.to_csv(\"combined_data/all_states.csv\", index=False)"
+  }
+]
