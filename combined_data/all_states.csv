@@ -1,0 +1,3071 @@
+County,# Motor Vehicle Deaths,County Value**,Error Margin,Hispanic (all races),Non-Hispanic Black,Non-Hispanic White,State
+Autauga,67,17.0,13-21,,26.0,15.0,Alabama
+Baldwin,238,15.0,13-17,14.0,22.0,14.0,Alabama
+Barbour,49,28.0,21-37,,36.0,18.0,Alabama
+Bibb,33,21.0,15-30,,,,Alabama
+Blount,136,33.0,28-39,27.0,,34.0,Alabama
+Bullock,38,54.0,38-74,,,,Alabama
+Butler,50,37.0,28-49,,38.0,39.0,Alabama
+Calhoun,167,21.0,18-24,,15.0,23.0,Alabama
+Chambers,62,26.0,20-34,,21.0,30.0,Alabama
+Cherokee,52,29.0,22-38,,,,Alabama
+Chilton,80,25.0,20-32,,35.0,25.0,Alabama
+Choctaw,44,50.0,36-67,,66.0,40.0,Alabama
+Clarke,48,30.0,22-39,,33.0,28.0,Alabama
+Clay,35,37.0,26-51,,,,Alabama
+Cleburne,36,34.0,24-47,,,,Alabama
+Coffee,73,20.0,15-25,,22.0,20.0,Alabama
+Colbert,92,23.0,19-29,,18.0,26.0,Alabama
+Conecuh,26,32.0,21-46,,32.0,32.0,Alabama
+Coosa,27,37.0,24-53,,,,Alabama
+Covington,77,29.0,23-37,,,,Alabama
+Crenshaw,36,38.0,27-53,,45.0,39.0,Alabama
+Cullman,149,25.0,21-29,,,,Alabama
+Dale,79,23.0,18-29,,27.0,21.0,Alabama
+Dallas,102,39.0,31-47,,42.0,34.0,Alabama
+DeKalb,136,27.0,23-32,28.0,,28.0,Alabama
+Elmore,86,14.0,12-18,,13.0,15.0,Alabama
+Escambia,64,25.0,19-32,,22.0,23.0,Alabama
+Etowah,124,17.0,14-20,,16.0,18.0,Alabama
+Fayette,24,21.0,14-31,,,,Alabama
+Franklin,74,33.0,26-42,,,,Alabama
+Geneva,53,29.0,21-37,,,,Alabama
+Greene,25,45.0,29-67,,,,Alabama
+Hale,30,29.0,20-42,,,,Alabama
+Henry,24,20.0,13-29,,,,Alabama
+Houston,115,15.0,13-18,,13.0,16.0,Alabama
+Jackson,106,29.0,23-34,,,,Alabama
+Jefferson,800,17.0,16-18,21.0,21.0,15.0,Alabama
+Lamar,37,38.0,27-53,,,,Alabama
+Lauderdale,130,20.0,16-23,,15.0,21.0,Alabama
+Lawrence,74,32.0,25-40,,62.0,33.0,Alabama
+Lee,159,13.0,11-15,,20.0,12.0,Alabama
+Limestone,129,18.0,15-21,,16.0,19.0,Alabama
+Lowndes,26,38.0,25-55,,,,Alabama
+Macon,38,29.0,21-40,,,,Alabama
+Madison,379,14.0,13-16,17.0,17.0,13.0,Alabama
+Marengo,43,32.0,23-44,,38.0,25.0,Alabama
+Marion,33,16.0,11-22,,,,Alabama
+Marshall,166,24.0,21-28,15.0,,26.0,Alabama
+Mobile,601,21.0,19-22,14.0,20.0,22.0,Alabama
+Monroe,41,29.0,21-39,,36.0,24.0,Alabama
+Montgomery,271,17.0,15-19,31.0,20.0,12.0,Alabama
+Morgan,156,18.0,15-21,,18.0,20.0,Alabama
+Perry,23,38.0,24-57,,,,Alabama
+Pickens,36,26.0,19-37,,37.0,22.0,Alabama
+Pike,50,22.0,16-28,,23.0,21.0,Alabama
+Randolph,52,33.0,25-43,,,,Alabama
+Russell,129,32.0,26-37,,28.0,40.0,Alabama
+Shelby,175,11.0,10-13,13.0,10.0,12.0,Alabama
+St. Clair,138,22.0,18-25,,17.0,22.0,Alabama
+Sumter,39,45.0,32-62,,,,Alabama
+Talladega,160,28.0,24-33,,29.0,30.0,Alabama
+Tallapoosa,56,20.0,15-26,,20.0,19.0,Alabama
+Tuscaloosa,211,14.0,12-16,15.0,14.0,14.0,Alabama
+Walker,138,31.0,26-36,,,,Alabama
+Washington,35,32.0,22-44,,,,Alabama
+Wilcox,38,53.0,37-72,,,,Alabama
+Winston,56,34.0,26-44,,,,Alabama
+Apache,316,65.0,58-73,40.0,,35.0,Arizona
+Cochise,143,16.0,14-19,12.0,,20.0,Arizona
+Coconino,232,23.0,20-26,12.0,,12.0,Arizona
+Gila,113,30.0,24-35,18.0,,25.0,Arizona
+Graham,67,25.0,19-31,20.0,,22.0,Arizona
+Greenlee,14,21.0,12-36,,,,Arizona
+La Paz,61,46.0,35-59,,,49.0,Arizona
+Maricopa,"4,108",13.0,13-13,14.0,18.0,12.0,Arizona
+Mohave,335,22.0,20-25,18.0,,22.0,Arizona
+Navajo,326,42.0,38-47,28.0,,24.0,Arizona
+Pima,"1,113",15.0,14-16,14.0,19.0,14.0,Arizona
+Pinal,523,16.0,15-18,15.0,13.0,16.0,Arizona
+Santa Cruz,38,11.0,8-16,9.0,,24.0,Arizona
+Yavapai,278,17.0,15-19,11.0,,17.0,Arizona
+Yuma,221,15.0,13-17,13.0,,19.0,Arizona
+Arkansas,35,29.0,20-41,,40.0,27.0,Arkansas
+Ashley,35,26.0,18-36,,34.0,23.0,Arkansas
+Baxter,48,16.0,12-22,,,,Arkansas
+Benton,220,11.0,9-12,8.0,,12.0,Arkansas
+Boone,53,20.0,15-26,,,,Arkansas
+Bradley,22,30.0,19-45,,,,Arkansas
+Calhoun,16,46.0,26-74,,,,Arkansas
+Carroll,44,22.0,16-30,,,,Arkansas
+Chicot,19,27.0,16-42,,,,Arkansas
+Clark,31,20.0,14-29,,36.0,16.0,Arkansas
+Clay,40,39.0,28-54,,,,Arkansas
+Cleburne,44,25.0,18-34,,,,Arkansas
+Cleveland,22,40.0,25-61,,,,Arkansas
+Columbia,36,22.0,16-31,,35.0,16.0,Arkansas
+Conway,35,24.0,17-33,,,,Arkansas
+Craighead,120,15.0,13-18,,16.0,16.0,Arkansas
+Crawford,68,16.0,12-20,,,,Arkansas
+Crittenden,80,24.0,19-30,,29.0,18.0,Arkansas
+Cross,37,32.0,22-44,,,,Arkansas
+Dallas,18,38.0,23-60,,,,Arkansas
+Desha,28,36.0,24-52,,41.0,38.0,Arkansas
+Drew,21,17.0,10-26,,,,Arkansas
+Faulkner,132,15.0,12-17,,17.0,16.0,Arkansas
+Franklin,22,18.0,11-27,,,,Arkansas
+Fulton,26,30.0,20-44,,,,Arkansas
+Garland,152,22.0,18-25,,17.0,23.0,Arkansas
+Grant,39,31.0,22-42,,,,Arkansas
+Greene,73,23.0,18-29,,,,Arkansas
+Hempstead,30,21.0,14-30,,26.0,23.0,Arkansas
+Hot Spring,58,25.0,19-32,,,,Arkansas
+Howard,28,31.0,20-45,,65.0,24.0,Arkansas
+Independence,59,22.0,17-29,,,,Arkansas
+Izard,22,23.0,14-34,,,,Arkansas
+Jackson,30,26.0,17-36,,,,Arkansas
+Jefferson,115,25.0,20-29,,24.0,28.0,Arkansas
+Johnson,38,21.0,15-28,,,,Arkansas
+Lafayette,,,,,,,Arkansas
+Lawrence,52,45.0,34-60,,,,Arkansas
+Lee,17,28.0,16-45,,,,Arkansas
+Lincoln,19,21.0,12-32,,,,Arkansas
+Little River,21,25.0,15-38,,,,Arkansas
+Logan,38,25.0,18-35,,,,Arkansas
+Lonoke,95,18.0,15-22,,,,Arkansas
+Madison,24,20.0,13-30,,,,Arkansas
+Marion,27,23.0,15-33,,,,Arkansas
+Miller,75,25.0,20-31,,26.0,25.0,Arkansas
+Mississippi,73,26.0,20-33,,26.0,28.0,Arkansas
+Monroe,20,43.0,26-66,,,,Arkansas
+Montgomery,19,31.0,19-48,,,,Arkansas
+Nevada,16,28.0,16-45,,,,Arkansas
+Newton,15,29.0,16-47,,,,Arkansas
+Ouachita,48,30.0,22-40,,30.0,32.0,Arkansas
+Perry,22,31.0,19-46,,,,Arkansas
+Phillips,46,39.0,29-52,,37.0,47.0,Arkansas
+Pike,20,27.0,17-42,,,,Arkansas
+Poinsett,43,26.0,19-36,,,,Arkansas
+Polk,39,28.0,20-39,,,,Arkansas
+Pope,59,13.0,10-17,,,,Arkansas
+Prairie,11,19.0,10-35,,,,Arkansas
+Pulaski,516,19.0,17-20,19.0,23.0,16.0,Arkansas
+Randolph,49,38.0,28-50,,,,Arkansas
+Saline,131,15.0,12-18,,19.0,16.0,Arkansas
+Scott,30,42.0,29-61,,,,Arkansas
+Searcy,17,31.0,18-49,,,,Arkansas
+Sebastian,128,14.0,12-17,8.0,,17.0,Arkansas
+Sevier,42,37.0,26-49,,,,Arkansas
+Sharp,37,30.0,21-41,,,,Arkansas
+St. Francis,41,24.0,17-33,,22.0,29.0,Arkansas
+Stone,20,23.0,14-35,,,,Arkansas
+Union,69,26.0,20-32,,24.0,28.0,Arkansas
+Van Buren,36,32.0,22-44,,,,Arkansas
+Washington,218,13.0,11-14,14.0,18.0,13.0,Arkansas
+White,126,23.0,19-27,,,,Arkansas
+Woodruff,,,,,,,Arkansas
+Yell,39,27.0,19-37,,,,Arkansas
+Alameda,820,7.0,7-8,9.0,16.0,7.0,California
+Alpine,,,,,,,California
+Amador,65,23.0,18-29,35.0,,22.0,California
+Butte,289,19.0,17-21,16.0,45.0,20.0,California
+Calaveras,86,27.0,21-33,,,,California
+Colusa,42,28.0,20-37,28.0,,20.0,California
+Contra Costa,742,9.0,9-10,10.0,20.0,8.0,California
+Del Norte,35,18.0,13-25,,,14.0,California
+El Dorado,185,14.0,12-16,15.0,,14.0,California
+Fresno,"1,265",18.0,17-19,19.0,23.0,17.0,California
+Glenn,34,17.0,12-24,13.0,,22.0,California
+Humboldt,184,19.0,17-22,16.0,,19.0,California
+Imperial,160,13.0,11-15,12.0,,21.0,California
+Inyo,15,12.0,7-19,,,,California
+Kern,"1,278",20.0,19-21,18.0,30.0,23.0,California
+Kings,175,16.0,14-19,18.0,,14.0,California
+Lake,132,29.0,24-33,23.0,,29.0,California
+Lassen,43,20.0,15-27,,,,California
+Los Angeles,"6,701",10.0,9-10,10.0,20.0,9.0,California
+Madera,228,21.0,18-23,18.0,,24.0,California
+Marin,104,6.0,5-7,9.0,,5.0,California
+Mariposa,28,23.0,15-34,,,,California
+Mendocino,140,23.0,19-26,21.0,,21.0,California
+Merced,392,20.0,18-22,18.0,45.0,27.0,California
+Modoc,17,28.0,16-45,,,,California
+Mono,,,,,,,California
+Monterey,364,12.0,11-13,12.0,15.0,12.0,California
+Napa,78,8.0,6-10,7.0,,10.0,California
+Nevada,103,15.0,12-17,,,,California
+Orange,"1,707",8.0,7-8,9.0,11.0,8.0,California
+Placer,238,8.0,7-9,9.0,,9.0,California
+Plumas,26,19.0,13-28,,,,California
+Riverside,"2,384",14.0,13-14,13.0,20.0,15.0,California
+Sacramento,"1,405",13.0,12-14,12.0,23.0,14.0,California
+San Benito,76,17.0,13-21,15.0,,21.0,California
+San Bernardino,"2,534",17.0,16-17,15.0,25.0,19.0,California
+San Diego,"2,010",9.0,8-9,9.0,14.0,9.0,California
+San Francisco,288,5.0,4-5,6.0,18.0,4.0,California
+San Joaquin,937,17.0,16-18,16.0,33.0,18.0,California
+San Luis Obispo,184,9.0,8-11,9.0,,10.0,California
+San Mateo,289,5.0,5-6,7.0,17.0,6.0,California
+Santa Barbara,309,10.0,9-11,11.0,,10.0,California
+Santa Clara,932,7.0,7-7,11.0,10.0,7.0,California
+Santa Cruz,198,10.0,9-12,12.0,,9.0,California
+Shasta,219,17.0,15-20,10.0,,19.0,California
+Sierra,,,,,,,California
+Siskiyou,95,31.0,25-38,,,,California
+Solano,378,12.0,11-13,13.0,20.0,12.0,California
+Sonoma,319,9.0,8-10,10.0,,9.0,California
+Stanislaus,673,17.0,16-19,16.0,30.0,20.0,California
+Sutter,136,20.0,17-23,18.0,,22.0,California
+Tehama,100,22.0,18-26,18.0,,24.0,California
+Trinity,45,46.0,34-62,,,,California
+Tulare,594,18.0,17-19,17.0,28.0,20.0,California
+Tuolumne,64,17.0,13-21,,,,California
+Ventura,548,9.0,9-10,10.0,16.0,9.0,California
+Yolo,169,11.0,9-13,15.0,,11.0,California
+Yuba,133,23.0,19-27,26.0,,22.0,California
+Adams,442,12.0,11-13,13.0,18.0,11.0,Colorado
+Alamosa,19,16.0,10-26,,,,Colorado
+Arapahoe,476,10.0,9-11,13.0,13.0,10.0,Colorado
+Archuleta,16,16.0,9-27,,,,Colorado
+Baca,12,49.0,25-85,,,,Colorado
+Bent,,,,,,,Colorado
+Boulder,198,9.0,7-10,12.0,,8.0,Colorado
+Broomfield,27,5.0,3-8,,,,Colorado
+Chaffee,20,14.0,9-22,,,,Colorado
+Cheyenne,,,,,,,Colorado
+Clear Creek,11,17.0,8-30,,,,Colorado
+Conejos,11,20.0,10-35,,,,Colorado
+Costilla,13,49.0,26-85,,,,Colorado
+Crowley,11,27.0,13-48,,,,Colorado
+Custer,10,28.0,13-51,,,,Colorado
+Delta,47,21.0,16-29,,,,Colorado
+Denver,526,10.0,10-11,16.0,19.0,7.0,Colorado
+Dolores,,,,,,,Colorado
+Douglas,139,6.0,5-6,,,,Colorado
+Eagle,26,7.0,4-10,,,,Colorado
+El Paso,785,15.0,14-17,17.0,17.0,15.0,Colorado
+Elbert,24,13.0,8-19,,,,Colorado
+Fremont,36,11.0,7-15,,,,Colorado
+Garfield,67,16.0,12-20,16.0,,15.0,Colorado
+Gilpin,,,,,,,Colorado
+Grand,11,10.0,5-18,,,,Colorado
+Gunnison,15,12.0,7-20,,,,Colorado
+Hinsdale,,,,,,,Colorado
+Huerfano,15,31.0,17-51,,,,Colorado
+Jackson,,,,,,,Colorado
+Jefferson,348,9.0,8-9,11.0,,8.0,Colorado
+Kiowa,,,,,,,Colorado
+Kit Carson,19,38.0,23-60,,,,Colorado
+La Plata,53,13.0,10-18,,,,Colorado
+Lake,,,,,,,Colorado
+Larimer,256,10.0,9-11,11.0,,10.0,Colorado
+Las Animas,25,25.0,16-37,34.0,,20.0,Colorado
+Lincoln,,,,,,,Colorado
+Logan,29,19.0,13-28,,,,Colorado
+Mesa,159,15.0,12-17,12.0,,15.0,Colorado
+Mineral,,,,,,,Colorado
+Moffat,19,21.0,12-32,,,,Colorado
+Montezuma,42,23.0,16-31,,,,Colorado
+Montrose,55,18.0,14-24,22.0,,18.0,Colorado
+Morgan,75,37.0,29-46,35.0,,38.0,Colorado
+Otero,29,23.0,15-32,31.0,,18.0,Colorado
+Ouray,,,,,,,Colorado
+Park,14,11.0,6-18,,,,Colorado
+Phillips,,,,,,,Colorado
+Pitkin,,,,,,,Colorado
+Prowers,17,20.0,12-32,,,,Colorado
+Pueblo,246,21.0,18-23,23.0,,20.0,Colorado
+Rio Blanco,,,,,,,Colorado
+Rio Grande,15,19.0,11-31,,,,Colorado
+Routt,22,12.0,8-19,,,,Colorado
+Saguache,,,,,,,Colorado
+San Juan,,,,,,,Colorado
+San Miguel,,,,,,,Colorado
+Sedgwick,,,,,,,Colorado
+Summit,12,6.0,3-10,,,,Colorado
+Teller,19,11.0,7-17,,,,Colorado
+Washington,13,38.0,20-65,,,,Colorado
+Weld,369,16.0,14-17,18.0,,16.0,Colorado
+Yuma,15,21.0,12-35,,,,Colorado
+Kent,208,16.0,14-18,15.0,19.0,16.0,Delaware
+New Castle,460,12.0,11-13,10.0,15.0,11.0,Delaware
+Sussex,269,16.0,14-18,20.0,31.0,13.0,Delaware
+Alachua,272,14.0,12-16,14.0,20.0,14.0,Florida
+Baker,43,21.0,16-29,,,,Florida
+Bay,238,19.0,16-21,,21.0,20.0,Florida
+Bradford,64,33.0,25-42,,,,Florida
+Brevard,667,16.0,14-17,14.0,18.0,16.0,Florida
+Broward,"1,921",14.0,13-15,12.0,17.0,15.0,Florida
+Calhoun,26,27.0,17-39,,,,Florida
+Charlotte,226,17.0,15-19,12.0,16.0,17.0,Florida
+Citrus,262,24.0,21-27,21.0,38.0,24.0,Florida
+Clay,262,17.0,15-19,17.0,17.0,17.0,Florida
+Collier,295,11.0,10-12,13.0,12.0,9.0,Florida
+Columbia,131,26.0,22-31,,28.0,28.0,Florida
+DeSoto,84,33.0,26-41,25.0,46.0,35.0,Florida
+Dixie,39,33.0,23-45,,,,Florida
+Duval,"1,159",17.0,16-18,15.0,19.0,18.0,Florida
+Escambia,427,19.0,17-21,16.0,22.0,20.0,Florida
+Flagler,132,16.0,13-19,15.0,21.0,15.0,Florida
+Franklin,19,22.0,13-35,,,,Florida
+Gadsden,84,27.0,21-33,,29.0,25.0,Florida
+Gilchrist,42,32.0,23-44,,,,Florida
+Glades,37,40.0,28-55,,,,Florida
+Gulf,27,26.0,17-37,,,,Florida
+Hamilton,32,33.0,22-46,,,,Florida
+Hardee,75,40.0,32-51,46.0,,41.0,Florida
+Hendry,89,31.0,25-38,28.0,,34.0,Florida
+Hernando,301,22.0,19-24,14.0,27.0,23.0,Florida
+Highlands,198,27.0,23-31,19.0,28.0,30.0,Florida
+Hillsborough,"1,485",14.0,14-15,15.0,15.0,14.0,Florida
+Holmes,47,34.0,25-45,,,,Florida
+Indian River,162,14.0,12-16,13.0,15.0,14.0,Florida
+Jackson,109,33.0,27-39,,31.0,35.0,Florida
+Jefferson,21,21.0,13-31,,,,Florida
+Lafayette,16,27.0,16-45,,,,Florida
+Lake,517,19.0,18-21,14.0,18.0,22.0,Florida
+Lee,844,15.0,14-16,16.0,18.0,15.0,Florida
+Leon,255,12.0,11-14,8.0,13.0,14.0,Florida
+Levy,121,40.0,33-47,,48.0,43.0,Florida
+Liberty,14,25.0,14-41,,,,Florida
+Madison,26,20.0,13-29,,,,Florida
+Manatee,432,15.0,14-16,17.0,21.0,14.0,Florida
+Marion,674,25.0,24-27,25.0,30.0,26.0,Florida
+Martin,136,12.0,10-14,15.0,,12.0,Florida
+Miami-Dade,"2,371",13.0,12-13,11.0,20.0,10.0,Florida
+Monroe,87,16.0,13-20,17.0,,16.0,Florida
+Nassau,120,19.0,15-22,,,,Florida
+Okaloosa,230,16.0,14-18,13.0,12.0,17.0,Florida
+Okeechobee,113,39.0,32-46,42.0,,39.0,Florida
+Orange,"1,264",13.0,12-14,13.0,18.0,11.0,Florida
+Osceola,396,14.0,13-16,14.0,15.0,16.0,Florida
+Palm Beach,"1,415",13.0,13-14,15.0,16.0,13.0,Florida
+Pasco,754,19.0,17-20,12.0,20.0,21.0,Florida
+Pinellas,931,14.0,13-15,10.0,18.0,14.0,Florida
+Polk,"1,034",20.0,19-21,16.0,23.0,22.0,Florida
+Putnam,226,43.0,38-49,38.0,42.0,45.0,Florida
+Santa Rosa,175,13.0,11-15,,14.0,14.0,Florida
+Sarasota,402,13.0,12-14,12.0,22.0,13.0,Florida
+Seminole,358,11.0,10-12,9.0,17.0,11.0,Florida
+St. Johns,237,12.0,11-14,9.0,25.0,12.0,Florida
+St. Lucie,362,15.0,14-17,12.0,14.0,17.0,Florida
+Sumter,164,17.0,15-20,,29.0,17.0,Florida
+Suwannee,103,33.0,26-39,37.0,26.0,33.0,Florida
+Taylor,42,28.0,20-38,,,,Florida
+Union,28,26.0,17-37,,,,Florida
+Volusia,844,21.0,20-23,15.0,24.0,23.0,Florida
+Wakulla,63,26.0,20-34,,,,Florida
+Walton,127,24.0,19-28,,,,Florida
+Washington,41,23.0,17-31,,,,Florida
+Appling,37,29.0,20-40,,,,Georgia
+Atkinson,19,33.0,20-51,,,,Georgia
+Bacon,12,15.0,8-27,,,,Georgia
+Baker,,,,,,,Georgia
+Baldwin,65,21.0,16-27,,21.0,23.0,Georgia
+Banks,32,24.0,16-34,,,,Georgia
+Barrow,124,21.0,17-24,16.0,27.0,22.0,Georgia
+Bartow,131,17.0,14-20,,25.0,18.0,Georgia
+Ben Hill,41,35.0,25-47,,37.0,39.0,Georgia
+Berrien,29,22.0,15-32,,,,Georgia
+Bibb,259,24.0,21-27,,23.0,28.0,Georgia
+Bleckley,20,23.0,14-35,,,,Georgia
+Brantley,34,26.0,18-36,,,,Georgia
+Brooks,25,23.0,15-33,,26.0,24.0,Georgia
+Bryan,60,20.0,15-26,,34.0,19.0,Georgia
+Bulloch,90,16.0,13-20,,16.0,17.0,Georgia
+Burke,55,34.0,25-44,,33.0,38.0,Georgia
+Butts,57,32.0,24-42,,28.0,36.0,Georgia
+Calhoun,,,,,,,Georgia
+Camden,47,12.0,9-16,,17.0,12.0,Georgia
+Candler,31,41.0,28-58,,,,Georgia
+Carroll,180,21.0,18-24,,27.0,22.0,Georgia
+Catoosa,41,9.0,6-12,,,,Georgia
+Charlton,15,16.0,9-27,,,,Georgia
+Chatham,245,12.0,10-13,13.0,13.0,11.0,Georgia
+Chattahoochee,,,,,,,Georgia
+Chattooga,61,35.0,27-45,,,,Georgia
+Cherokee,166,9.0,8-10,8.0,8.0,10.0,Georgia
+Clarke,90,10.0,8-12,,19.0,7.0,Georgia
+Clay,,,,,,,Georgia
+Clayton,375,18.0,16-20,14.0,19.0,27.0,Georgia
+Clinch,15,32.0,18-53,,,,Georgia
+Cobb,543,10.0,9-11,12.0,13.0,9.0,Georgia
+Coffee,64,21.0,16-27,,25.0,20.0,Georgia
+Colquitt,82,26.0,20-32,34.0,19.0,26.0,Georgia
+Columbia,111,10.0,8-12,,11.0,11.0,Georgia
+Cook,41,34.0,24-46,,,,Georgia
+Coweta,131,13.0,10-15,,17.0,12.0,Georgia
+Crawford,23,27.0,17-40,,,,Georgia
+Crisp,33,22.0,15-31,,21.0,26.0,Georgia
+Dade,21,19.0,11-28,,,,Georgia
+Dawson,33,17.0,12-24,,,,Georgia
+Decatur,57,29.0,22-38,,33.0,30.0,Georgia
+DeKalb,728,14.0,13-15,18.0,18.0,6.0,Georgia
+Dodge,39,27.0,20-38,,,,Georgia
+Dooly,19,22.0,13-34,,,,Georgia
+Dougherty,105,17.0,14-21,,16.0,25.0,Georgia
+Douglas,145,14.0,12-16,13.0,13.0,17.0,Georgia
+Early,22,30.0,19-46,,32.0,31.0,Georgia
+Echols,,,,,,,Georgia
+Effingham,61,13.0,10-17,,,,Georgia
+Elbert,32,24.0,16-33,,37.0,20.0,Georgia
+Emanuel,36,23.0,16-31,,22.0,26.0,Georgia
+Evans,21,28.0,17-43,,,,Georgia
+Fannin,51,28.0,21-37,,,,Georgia
+Fayette,83,10.0,8-13,,14.0,9.0,Georgia
+Floyd,136,20.0,16-23,15.0,14.0,23.0,Georgia
+Forsyth,120,7.0,6-8,8.0,,8.0,Georgia
+Franklin,48,29.0,21-38,,,,Georgia
+Fulton,868,12.0,11-12,8.0,20.0,6.0,Georgia
+Gilmer,48,22.0,16-29,,,,Georgia
+Glascock,,,,,,,Georgia
+Glynn,93,16.0,13-19,,14.0,16.0,Georgia
+Gordon,70,17.0,13-22,,,,Georgia
+Grady,48,27.0,20-36,,38.0,22.0,Georgia
+Greene,29,22.0,15-31,,29.0,18.0,Georgia
+Gwinnett,638,10.0,9-10,11.0,11.0,9.0,Georgia
+Habersham,66,20.0,16-26,19.0,,22.0,Georgia
+Hall,191,13.0,11-15,10.0,18.0,14.0,Georgia
+Hancock,29,49.0,33-70,,,,Georgia
+Haralson,62,29.0,22-37,,,,Georgia
+Harris,47,19.0,14-25,,25.0,19.0,Georgia
+Hart,40,22.0,15-29,,,,Georgia
+Heard,32,39.0,26-55,,,,Georgia
+Henry,258,15.0,13-17,9.0,19.0,14.0,Georgia
+Houston,147,13.0,11-15,,11.0,15.0,Georgia
+Irwin,21,32.0,20-49,,,,Georgia
+Jackson,89,16.0,13-20,,,,Georgia
+Jasper,24,23.0,15-34,,,,Georgia
+Jeff Davis,34,32.0,22-45,,,,Georgia
+Jefferson,35,32.0,23-45,,30.0,37.0,Georgia
+Jenkins,25,41.0,27-61,,,,Georgia
+Johnson,13,20.0,10-33,,,,Georgia
+Jones,40,20.0,14-27,,,,Georgia
+Lamar,28,21.0,14-30,,34.0,16.0,Georgia
+Lanier,17,23.0,14-38,,,,Georgia
+Laurens,89,26.0,21-32,,30.0,23.0,Georgia
+Lee,41,19.0,13-25,,,,Georgia
+Liberty,74,16.0,13-21,,17.0,19.0,Georgia
+Lincoln,15,27.0,15-45,,,,Georgia
+Long,23,17.0,11-26,,,,Georgia
+Lowndes,109,13.0,11-16,,17.0,12.0,Georgia
+Lumpkin,50,21.0,16-28,,,,Georgia
+Macon,25,29.0,18-42,,,,Georgia
+Madison,55,26.0,19-33,,,,Georgia
+Marion,14,25.0,14-42,,,,Georgia
+McDuffie,36,24.0,17-33,,24.0,25.0,Georgia
+McIntosh,26,29.0,19-42,,,,Georgia
+Meriwether,41,28.0,20-38,,33.0,27.0,Georgia
+Miller,19,47.0,28-74,,,,Georgia
+Mitchell,37,24.0,17-34,,22.0,30.0,Georgia
+Monroe,42,21.0,15-29,,30.0,20.0,Georgia
+Montgomery,26,42.0,27-61,,,,Georgia
+Morgan,42,30.0,22-41,,,,Georgia
+Murray,55,20.0,15-25,,,,Georgia
+Muscogee,206,15.0,13-17,13.0,16.0,15.0,Georgia
+Newton,152,19.0,16-22,,19.0,22.0,Georgia
+Oconee,28,10.0,6-14,,,,Georgia
+Oglethorpe,28,26.0,17-38,,,,Georgia
+Paulding,175,15.0,12-17,,15.0,15.0,Georgia
+Peach,49,25.0,19-33,,27.0,22.0,Georgia
+Pickens,47,20.0,15-27,,,,Georgia
+Pierce,31,22.0,15-32,,,,Georgia
+Pike,28,21.0,14-30,,,,Georgia
+Polk,85,28.0,23-35,,38.0,30.0,Georgia
+Pulaski,14,19.0,10-31,,,,Georgia
+Putnam,50,32.0,24-42,,30.0,33.0,Georgia
+Quitman,,,,,,,Georgia
+Rabun,35,29.0,20-41,,,,Georgia
+Randolph,18,39.0,23-62,,,,Georgia
+Richmond,262,18.0,16-21,,18.0,22.0,Georgia
+Rockdale,103,16.0,13-19,,17.0,19.0,Georgia
+Schley,,,,,,,Georgia
+Screven,33,34.0,23-47,,43.0,30.0,Georgia
+Seminole,22,37.0,23-55,,,,Georgia
+Spalding,123,26.0,21-31,,26.0,28.0,Georgia
+Stephens,53,29.0,21-38,,,,Georgia
+Stewart,10,25.0,12-46,,,,Georgia
+Sumter,30,15.0,10-21,,16.0,15.0,Georgia
+Talbot,14,33.0,18-56,,,,Georgia
+Taliaferro,,,,,,,Georgia
+Tattnall,27,16.0,10-23,,,,Georgia
+Taylor,21,38.0,23-58,,,,Georgia
+Telfair,25,25.0,16-37,,,,Georgia
+Terrell,23,38.0,24-57,,,,Georgia
+Thomas,68,22.0,17-27,,25.0,21.0,Georgia
+Tift,57,20.0,15-26,,16.0,23.0,Georgia
+Toombs,61,32.0,25-42,,22.0,39.0,Georgia
+Towns,24,28.0,18-41,,,,Georgia
+Treutlen,13,28.0,15-48,,,,Georgia
+Troup,114,23.0,19-28,,25.0,24.0,Georgia
+Turner,20,34.0,21-53,,44.0,32.0,Georgia
+Twiggs,11,20.0,10-35,,,,Georgia
+Union,21,12.0,7-18,,,,Georgia
+Upson,43,23.0,16-31,,25.0,22.0,Georgia
+Walker,91,19.0,15-23,,,,Georgia
+Walton,130,19.0,16-22,,23.0,18.0,Georgia
+Ware,57,23.0,17-29,,16.0,27.0,Georgia
+Warren,,,,,,,Georgia
+Washington,42,30.0,22-40,,33.0,29.0,Georgia
+Wayne,42,20.0,14-27,,,,Georgia
+Webster,,,,,,,Georgia
+Wheeler,18,34.0,20-53,,,,Georgia
+White,44,21.0,15-28,,,,Georgia
+Whitfield,118,16.0,13-19,12.0,,19.0,Georgia
+Wilcox,12,20.0,10-34,,,,Georgia
+Wilkes,13,19.0,10-33,,,,Georgia
+Wilkinson,21,34.0,21-52,,,,Georgia
+Worth,46,32.0,24-43,,30.0,32.0,Georgia
+Ada,283,8.0,7-9,8.0,,8.0,Idaho
+Adams,11,35.0,17-63,,,,Idaho
+Bannock,66,11.0,8-14,,,10.0,Idaho
+Bear Lake,,,,,,,Idaho
+Benewah,21,31.0,19-47,,,,Idaho
+Bingham,72,21.0,17-27,20.0,,17.0,Idaho
+Blaine,21,13.0,8-19,,,,Idaho
+Boise,18,32.0,19-51,,,,Idaho
+Bonner,60,18.0,14-23,,,,Idaho
+Bonneville,111,13.0,10-15,14.0,,13.0,Idaho
+Boundary,13,15.0,8-25,,,,Idaho
+Butte,11,59.0,30-106,,,,Idaho
+Camas,,,,,,,Idaho
+Canyon,242,15.0,13-16,14.0,,15.0,Idaho
+Caribou,12,24.0,12-42,,,,Idaho
+Cassia,46,27.0,20-36,35.0,,24.0,Idaho
+Clark,,,,,,,Idaho
+Clearwater,11,18.0,9-32,,,,Idaho
+Custer,11,36.0,18-65,,,,Idaho
+Elmore,34,17.0,12-24,,,,Idaho
+Franklin,20,20.0,12-31,,,,Idaho
+Fremont,24,25.0,16-38,,,,Idaho
+Gem,28,21.0,14-30,,,,Idaho
+Gooding,25,23.0,15-34,,,,Idaho
+Idaho,37,31.0,22-43,,,,Idaho
+Jefferson,38,17.0,12-24,,,,Idaho
+Jerome,37,22.0,15-30,28.0,,18.0,Idaho
+Kootenai,127,11.0,9-12,,,,Idaho
+Latah,24,8.0,5-13,,,,Idaho
+Lemhi,16,28.0,16-46,,,,Idaho
+Lewis,,,,,,,Idaho
+Lincoln,,,,,,,Idaho
+Madison,20,6.0,4-10,,,,Idaho
+Minidoka,29,19.0,13-28,,,,Idaho
+Nez Perce,56,19.0,15-25,,,18.0,Idaho
+Oneida,,,,,,,Idaho
+Owyhee,28,33.0,22-48,,,,Idaho
+Payette,21,12.0,7-18,,,,Idaho
+Power,12,22.0,11-38,,,,Idaho
+Shoshone,19,20.0,12-32,,,,Idaho
+Teton,18,21.0,13-33,,,,Idaho
+Twin Falls,113,18.0,15-21,20.0,,18.0,Idaho
+Valley,14,17.0,9-29,,,,Idaho
+Washington,17,23.0,13-37,,,,Idaho
+Adams,53,12.0,9-15,,,,Illinois
+Alexander,13,34.0,18-58,,,,Illinois
+Bond,21,18.0,11-28,,,,Illinois
+Boone,47,13.0,9-17,14.0,,12.0,Illinois
+Brown,,,,,,,Illinois
+Bureau,62,27.0,21-35,,,,Illinois
+Calhoun,,,,,,,Illinois
+Carroll,19,18.0,11-28,,,,Illinois
+Cass,19,22.0,13-34,,,,Illinois
+Champaign,129,9.0,7-10,,12.0,10.0,Illinois
+Christian,38,16.0,12-23,,,,Illinois
+Clark,21,20.0,12-30,,,,Illinois
+Clay,16,17.0,10-28,,,,Illinois
+Clinton,45,17.0,13-23,,,,Illinois
+Coles,50,15.0,11-19,,,,Illinois
+Cook,"2,939",8.0,8-8,7.0,15.0,6.0,Illinois
+Crawford,19,15.0,9-23,,,,Illinois
+Cumberland,12,16.0,8-28,,,,Illinois
+De Witt,11,10.0,5-18,,,,Illinois
+DeKalb,82,11.0,9-14,17.0,,10.0,Illinois
+Douglas,25,18.0,12-27,,,,Illinois
+DuPage,332,5.0,5-6,6.0,9.0,5.0,Illinois
+Edgar,21,18.0,11-27,,,,Illinois
+Edwards,,,,,,,Illinois
+Effingham,22,9.0,6-14,,,,Illinois
+Fayette,32,21.0,15-30,,,,Illinois
+Ford,17,18.0,11-29,,,,Illinois
+Franklin,57,21.0,16-28,,,,Illinois
+Fulton,39,16.0,12-23,,,,Illinois
+Gallatin,10,29.0,14-54,,,,Illinois
+Greene,15,17.0,10-28,,,,Illinois
+Grundy,49,13.0,10-18,,,,Illinois
+Hamilton,,,,,,,Illinois
+Hancock,23,19.0,12-28,,,,Illinois
+Hardin,,,,,,,Illinois
+Henderson,13,29.0,15-49,,,,Illinois
+Henry,32,9.0,6-13,,,,Illinois
+Iroquois,59,31.0,24-40,,,,Illinois
+Jackson,63,16.0,13-21,,,,Illinois
+Jasper,10,15.0,7-28,,,,Illinois
+Jefferson,38,15.0,10-20,,,,Illinois
+Jersey,33,22.0,15-31,,,,Illinois
+Jo Daviess,18,12.0,7-19,,,,Illinois
+Johnson,13,14.0,8-25,,,,Illinois
+Kane,268,7.0,6-8,8.0,14.0,7.0,Illinois
+Kankakee,121,16.0,13-19,,20.0,17.0,Illinois
+Kendall,76,8.0,6-10,7.0,,9.0,Illinois
+Knox,40,12.0,8-16,,,,Illinois
+Lake,387,8.0,7-9,9.0,16.0,7.0,Illinois
+LaSalle,104,14.0,11-16,,,,Illinois
+Lawrence,22,20.0,13-31,,,,Illinois
+Lee,35,15.0,10-20,,,,Illinois
+Livingston,41,16.0,12-22,,,,Illinois
+Logan,25,13.0,8-19,,,,Illinois
+Macon,102,14.0,11-17,,16.0,14.0,Illinois
+Macoupin,58,19.0,14-24,,,,Illinois
+Madison,240,13.0,11-15,,19.0,13.0,Illinois
+Marion,47,18.0,13-24,,,,Illinois
+Marshall,20,25.0,15-38,,,,Illinois
+Mason,25,27.0,18-40,,,,Illinois
+Massac,15,15.0,9-25,,,,Illinois
+McDonough,21,10.0,6-16,,,,Illinois
+McHenry,181,8.0,7-10,11.0,,8.0,Illinois
+McLean,91,8.0,6-9,,14.0,7.0,Illinois
+Menard,23,27.0,17-41,,,,Illinois
+Mercer,13,12.0,6-20,,,,Illinois
+Monroe,14,6.0,3-10,,,,Illinois
+Montgomery,33,17.0,11-23,,,,Illinois
+Morgan,38,16.0,12-23,,,,Illinois
+Moultrie,20,20.0,12-30,,,,Illinois
+Ogle,50,14.0,10-18,,,,Illinois
+Peoria,131,10.0,9-12,,18.0,10.0,Illinois
+Perry,24,16.0,11-24,,,,Illinois
+Piatt,17,15.0,9-24,,,,Illinois
+Pike,30,28.0,19-41,,,,Illinois
+Pope,11,39.0,20-70,,,,Illinois
+Pulaski,13,36.0,19-61,,,,Illinois
+Putnam,,,,,,,Illinois
+Randolph,63,29.0,22-37,,,,Illinois
+Richland,25,23.0,15-34,,,,Illinois
+Rock Island,91,9.0,7-11,7.0,17.0,9.0,Illinois
+Saline,37,23.0,16-31,,,,Illinois
+Sangamon,151,11.0,9-13,,8.0,12.0,Illinois
+Schuyler,13,27.0,14-47,,,,Illinois
+Scott,,,,,,,Illinois
+Shelby,33,22.0,15-31,,,,Illinois
+St. Clair,272,15.0,13-17,,23.0,12.0,Illinois
+Stark,12,32.0,17-56,,,,Illinois
+Stephenson,40,13.0,9-18,,,,Illinois
+Tazewell,97,11.0,9-13,,,,Illinois
+Union,,,,,,,Illinois
+Vermilion,87,17.0,13-21,,21.0,17.0,Illinois
+Wabash,11,14.0,7-25,,,,Illinois
+Warren,14,12.0,7-20,,,,Illinois
+Washington,20,21.0,13-32,,,,Illinois
+Wayne,25,22.0,14-33,,,,Illinois
+White,20,21.0,13-32,,,,Illinois
+Whiteside,55,14.0,11-19,,,,Illinois
+Will,392,8.0,7-9,7.0,11.0,9.0,Illinois
+Williamson,72,15.0,12-19,,,,Illinois
+Winnebago,261,13.0,12-15,13.0,19.0,13.0,Illinois
+Woodford,39,15.0,10-20,,,,Illinois
+Adams,41,16.0,12-22,,,,Indiana
+Allen,290,11.0,10-12,10.0,16.0,10.0,Indiana
+Bartholomew,87,15.0,12-18,,,,Indiana
+Benton,23,38.0,24-57,,,,Indiana
+Blackford,17,20.0,12-33,,,,Indiana
+Boone,44,9.0,6-12,,,,Indiana
+Brown,18,17.0,10-27,,,,Indiana
+Carroll,37,26.0,18-36,,,,Indiana
+Cass,41,16.0,11-21,,,,Indiana
+Clark,110,13.0,11-15,,18.0,13.0,Indiana
+Clay,25,14.0,9-20,,,,Indiana
+Clinton,42,18.0,13-25,,,,Indiana
+Crawford,15,20.0,11-34,,,,Indiana
+Daviess,26,11.0,7-16,,,,Indiana
+Dearborn,42,12.0,9-16,,,,Indiana
+Decatur,29,16.0,10-22,,,,Indiana
+DeKalb,36,12.0,8-16,,,,Indiana
+Delaware,113,14.0,12-17,,,,Indiana
+Dubois,31,10.0,7-15,,,,Indiana
+Elkhart,214,15.0,13-17,9.0,14.0,17.0,Indiana
+Fayette,29,18.0,12-26,,,,Indiana
+Floyd,58,10.0,8-14,,,,Indiana
+Fountain,22,19.0,12-29,,,,Indiana
+Franklin,27,17.0,11-25,,,,Indiana
+Fulton,32,23.0,15-32,,,,Indiana
+Gibson,35,15.0,10-21,,,,Indiana
+Grant,78,17.0,13-21,,,,Indiana
+Greene,57,26.0,20-33,,,,Indiana
+Hamilton,125,5.0,4-6,,12.0,5.0,Indiana
+Hancock,74,13.0,10-17,,,,Indiana
+Harrison,64,23.0,18-29,,,,Indiana
+Hendricks,87,7.0,6-9,,10.0,7.0,Indiana
+Henry,71,21.0,16-26,,,,Indiana
+Howard,109,19.0,15-22,,,,Indiana
+Huntington,39,15.0,11-21,,,,Indiana
+Jackson,64,20.0,16-26,,,,Indiana
+Jasper,51,22.0,16-29,,,,Indiana
+Jay,40,28.0,20-38,,,,Indiana
+Jefferson,52,23.0,17-30,,,,Indiana
+Jennings,47,24.0,18-32,,,,Indiana
+Johnson,93,8.0,7-10,,,,Indiana
+Knox,54,21.0,16-28,,,,Indiana
+Kosciusko,106,19.0,15-23,21.0,,19.0,Indiana
+LaGrange,31,11.0,8-16,,,,Indiana
+Lake,396,12.0,10-13,9.0,19.0,10.0,Indiana
+LaPorte,112,14.0,12-17,,20.0,15.0,Indiana
+Lawrence,46,14.0,11-19,,,,Indiana
+Madison,148,16.0,14-19,,13.0,17.0,Indiana
+Marion,999,15.0,14-16,13.0,20.0,14.0,Indiana
+Marshall,54,17.0,13-22,,,,Indiana
+Martin,13,19.0,10-32,,,,Indiana
+Miami,46,18.0,14-25,,,,Indiana
+Monroe,67,7.0,5-8,,,,Indiana
+Montgomery,39,15.0,10-20,,,,Indiana
+Morgan,71,14.0,11-18,,,,Indiana
+Newton,30,31.0,21-44,,,,Indiana
+Noble,48,14.0,11-19,,,,Indiana
+Ohio,,,,,,,Indiana
+Orange,26,19.0,12-28,,,,Indiana
+Owen,31,21.0,14-30,,,,Indiana
+Parke,15,13.0,7-21,,,,Indiana
+Perry,22,16.0,10-25,,,,Indiana
+Pike,13,15.0,8-26,,,,Indiana
+Porter,126,10.0,9-12,11.0,,11.0,Indiana
+Posey,23,13.0,8-19,,,,Indiana
+Pulaski,19,22.0,13-34,,,,Indiana
+Putnam,44,17.0,12-23,,,,Indiana
+Randolph,36,21.0,15-29,,,,Indiana
+Ripley,32,16.0,11-22,,,,Indiana
+Rush,20,17.0,10-26,,,,Indiana
+Scott,48,28.0,21-38,,,,Indiana
+Shelby,53,17.0,13-22,,,,Indiana
+Spencer,24,17.0,11-25,,,,Indiana
+St. Joseph,227,12.0,10-13,14.0,16.0,12.0,Indiana
+Starke,48,30.0,22-39,,,,Indiana
+Steuben,37,15.0,11-21,,,,Indiana
+Sullivan,30,21.0,14-30,,,,Indiana
+Switzerland,21,29.0,18-44,,,,Indiana
+Tippecanoe,104,8.0,6-9,,,,Indiana
+Tipton,16,15.0,9-24,,,,Indiana
+Union,13,26.0,14-45,,,,Indiana
+Vanderburgh,140,11.0,9-13,,14.0,11.0,Indiana
+Vermillion,14,13.0,7-22,,,,Indiana
+Vigo,86,12.0,9-14,,,,Indiana
+Wabash,27,12.0,8-18,,,,Indiana
+Warren,,,,,,,Indiana
+Warrick,46,10.0,8-14,,,,Indiana
+Washington,51,26.0,19-34,,,,Indiana
+Wayne,60,13.0,10-17,,,,Indiana
+Wells,24,12.0,8-18,,,,Indiana
+White,34,20.0,14-28,,,,Indiana
+Whitley,45,19.0,14-25,,,,Indiana
+Adair,,,,,,,Iowa
+Adams,,,,,,,Iowa
+Allamakee,18,19.0,11-29,,,,Iowa
+Appanoose,17,20.0,11-32,,,,Iowa
+Audubon,17,44.0,26-70,,,,Iowa
+Benton,27,15.0,10-22,,,,Iowa
+Black Hawk,84,9.0,7-11,,14.0,9.0,Iowa
+Boone,28,15.0,10-22,,,,Iowa
+Bremer,17,10.0,6-15,,,,Iowa
+Buchanan,17,12.0,7-19,,,,Iowa
+Buena Vista,15,11.0,6-18,,,,Iowa
+Butler,13,13.0,7-22,,,,Iowa
+Calhoun,,,,,,,Iowa
+Carroll,18,13.0,7-20,,,,Iowa
+Cass,12,13.0,7-23,,,,Iowa
+Cedar,12,9.0,5-16,,,,Iowa
+Cerro Gordo,42,14.0,10-19,,,,Iowa
+Cherokee,,,,,,,Iowa
+Chickasaw,10,12.0,6-22,,,,Iowa
+Clarke,17,26.0,15-41,,,,Iowa
+Clay,10,9.0,4-16,,,,Iowa
+Clayton,20,17.0,10-26,,,,Iowa
+Clinton,53,16.0,12-21,,,,Iowa
+Crawford,24,21.0,13-31,,,,Iowa
+Dallas,38,6.0,4-8,,,,Iowa
+Davis,13,20.0,11-35,,,,Iowa
+Decatur,13,24.0,13-41,,,,Iowa
+Delaware,20,17.0,10-26,,,,Iowa
+Des Moines,33,12.0,8-17,,,,Iowa
+Dickinson,19,15.0,9-24,,,,Iowa
+Dubuque,50,7.0,5-10,,,,Iowa
+Emmet,13,20.0,11-34,,,,Iowa
+Fayette,22,16.0,10-24,,,,Iowa
+Floyd,15,14.0,8-23,,,,Iowa
+Franklin,16,23.0,13-37,,,,Iowa
+Fremont,,,,,,,Iowa
+Greene,10,16.0,8-30,,,,Iowa
+Grundy,,,,,,,Iowa
+Guthrie,,,,,,,Iowa
+Hamilton,17,16.0,10-26,,,,Iowa
+Hancock,12,16.0,8-28,,,,Iowa
+Hardin,16,14.0,8-22,,,,Iowa
+Harrison,17,17.0,10-27,,,,Iowa
+Henry,19,14.0,8-21,,,,Iowa
+Howard,,,,,,,Iowa
+Humboldt,10,15.0,7-28,,,,Iowa
+Ida,12,25.0,13-44,,,,Iowa
+Iowa,21,18.0,11-28,,,,Iowa
+Jackson,21,16.0,10-24,,,,Iowa
+Jasper,28,11.0,7-15,,,,Iowa
+Jefferson,16,13.0,8-22,,,,Iowa
+Johnson,66,6.0,5-8,,12.0,6.0,Iowa
+Jones,17,12.0,7-19,,,,Iowa
+Keokuk,10,14.0,7-26,,,,Iowa
+Kossuth,12,12.0,6-20,,,,Iowa
+Lee,35,15.0,10-21,,,,Iowa
+Linn,139,9.0,7-10,,17.0,8.0,Iowa
+Louisa,19,25.0,15-39,,,,Iowa
+Lucas,16,26.0,15-43,,,,Iowa
+Lyon,,,,,,,Iowa
+Madison,21,18.0,11-28,,,,Iowa
+Mahaska,17,11.0,6-18,,,,Iowa
+Marion,33,14.0,10-20,,,,Iowa
+Marshall,54,19.0,15-25,19.0,,21.0,Iowa
+Mills,15,14.0,8-24,,,,Iowa
+Mitchell,13,18.0,9-30,,,,Iowa
+Monona,16,27.0,15-43,,,,Iowa
+Monroe,,,,,,,Iowa
+Montgomery,11,16.0,8-28,,,,Iowa
+Muscatine,31,10.0,7-15,,,,Iowa
+O'Brien,13,13.0,7-23,,,,Iowa
+Osceola,10,24.0,11-44,,,,Iowa
+Page,21,20.0,12-30,,,,Iowa
+Palo Alto,14,22.0,12-38,,,,Iowa
+Plymouth,18,10.0,6-16,,,,Iowa
+Pocahontas,,,,,,,Iowa
+Polk,287,8.0,7-9,12.0,14.0,8.0,Iowa
+Pottawattamie,90,14.0,11-17,,,,Iowa
+Poweshiek,13,10.0,5-17,,,,Iowa
+Ringgold,,,,,,,Iowa
+Sac,12,18.0,9-31,,,,Iowa
+Scott,100,8.0,7-10,,17.0,8.0,Iowa
+Shelby,,,,,,,Iowa
+Sioux,32,13.0,9-18,,,,Iowa
+Story,36,5.0,4-7,,,,Iowa
+Tama,14,12.0,6-20,,,,Iowa
+Taylor,10,24.0,11-44,,,,Iowa
+Union,17,20.0,12-32,,,,Iowa
+Van Buren,,,,,,,Iowa
+Wapello,30,12.0,8-17,,,,Iowa
+Warren,39,11.0,8-14,,,,Iowa
+Washington,18,12.0,7-18,,,,Iowa
+Wayne,10,22.0,11-41,,,,Iowa
+Webster,41,16.0,12-22,,,,Iowa
+Winnebago,11,15.0,7-27,,,,Iowa
+Winneshiek,23,16.0,10-25,,,,Iowa
+Woodbury,85,12.0,9-14,,,,Iowa
+Worth,,,,,,,Iowa
+Wright,10,11.0,5-21,,,,Iowa
+Allen,,,,,,,Kansas
+Anderson,16,29.0,17-47,,,,Kansas
+Atchison,29,26.0,17-37,,,,Kansas
+Barber,13,43.0,23-74,,,,Kansas
+Barton,39,22.0,15-30,,,,Kansas
+Bourbon,20,20.0,12-30,,,,Kansas
+Brown,24,36.0,23-54,,,,Kansas
+Butler,74,16.0,12-20,,,,Kansas
+Chase,,,,,,,Kansas
+Chautauqua,,,,,,,Kansas
+Cherokee,40,29.0,21-40,,,,Kansas
+Cheyenne,,,,,,,Kansas
+Clark,10,73.0,35-134,,,,Kansas
+Clay,14,25.0,14-42,,,,Kansas
+Cloud,10,16.0,8-30,,,,Kansas
+Coffey,,,,,,,Kansas
+Comanche,,,,,,,Kansas
+Cowley,43,18.0,13-24,,,,Kansas
+Crawford,24,9.0,6-13,,,,Kansas
+Decatur,,,,,,,Kansas
+Dickinson,26,20.0,13-29,,,,Kansas
+Doniphan,,,,,,,Kansas
+Douglas,66,8.0,6-10,,,,Kansas
+Edwards,,,,,,,Kansas
+Elk,,,,,,,Kansas
+Ellis,22,11.0,7-17,,,,Kansas
+Ellsworth,,,,,,,Kansas
+Finney,46,18.0,13-24,13.0,,20.0,Kansas
+Ford,48,20.0,15-27,23.0,,18.0,Kansas
+Franklin,31,17.0,12-24,,,,Kansas
+Geary,35,15.0,10-21,,,,Kansas
+Gove,,,,,,,Kansas
+Graham,,,,,,,Kansas
+Grant,13,26.0,14-44,,,,Kansas
+Gray,11,27.0,13-48,,,,Kansas
+Greeley,,,,,,,Kansas
+Greenwood,15,36.0,20-59,,,,Kansas
+Hamilton,,,,,,,Kansas
+Harper,12,32.0,16-55,,,,Kansas
+Harvey,30,13.0,8-18,,,,Kansas
+Haskell,,,,,,,Kansas
+Hodgeman,,,,,,,Kansas
+Jackson,20,22.0,13-33,,,,Kansas
+Jefferson,27,21.0,14-30,,,,Kansas
+Jewell,,,,,,,Kansas
+Johnson,232,5.0,5-6,3.0,8.0,6.0,Kansas
+Kearny,,,,,,,Kansas
+Kingman,11,22.0,11-39,,,,Kansas
+Kiowa,,,,,,,Kansas
+Labette,24,17.0,11-26,,,,Kansas
+Lane,,,,,,,Kansas
+Leavenworth,73,13.0,10-16,,,,Kansas
+Lincoln,,,,,,,Kansas
+Linn,20,29.0,18-45,,,,Kansas
+Logan,,,,,,,Kansas
+Lyon,31,14.0,9-19,,,,Kansas
+Marion,18,22.0,13-34,,,,Kansas
+Marshall,14,20.0,11-34,,,,Kansas
+McPherson,45,22.0,16-29,,,,Kansas
+Meade,17,60.0,35-96,,,,Kansas
+Miami,49,20.0,15-27,,,,Kansas
+Mitchell,,,,,,,Kansas
+Montgomery,47,21.0,16-28,,,,Kansas
+Morris,,,,,,,Kansas
+Morton,,,,,,,Kansas
+Nemaha,15,21.0,12-35,,,,Kansas
+Neosho,20,18.0,11-28,,,,Kansas
+Ness,,,,,,,Kansas
+Norton,11,29.0,15-52,,,,Kansas
+Osage,22,20.0,12-30,,,,Kansas
+Osborne,,,,,,,Kansas
+Ottawa,,,,,,,Kansas
+Pawnee,,,,,,,Kansas
+Phillips,10,28.0,14-52,,,,Kansas
+Pottawatomie,28,16.0,11-23,,,,Kansas
+Pratt,10,15.0,7-28,,,,Kansas
+Rawlins,,,,,,,Kansas
+Reno,71,16.0,13-21,,,,Kansas
+Republic,11,34.0,17-61,,,,Kansas
+Rice,13,20.0,10-34,,,,Kansas
+Riley,37,7.0,5-10,,,,Kansas
+Rooks,11,32.0,16-58,,,,Kansas
+Rush,,,,,,,Kansas
+Russell,11,23.0,12-41,,,,Kansas
+Saline,52,14.0,10-18,,,,Kansas
+Scott,13,38.0,20-64,,,,Kansas
+Sedgwick,505,14.0,13-15,11.0,18.0,14.0,Kansas
+Seward,20,13.0,8-21,,,,Kansas
+Shawnee,170,14.0,12-16,15.0,26.0,12.0,Kansas
+Sheridan,,,,,,,Kansas
+Sherman,,,,,,,Kansas
+Smith,,,,,,,Kansas
+Stafford,12,42.0,22-73,,,,Kansas
+Stanton,,,,,,,Kansas
+Stevens,12,32.0,16-56,,,,Kansas
+Sumner,31,20.0,13-28,,,,Kansas
+Thomas,13,24.0,13-41,,,,Kansas
+Trego,,,,,,,Kansas
+Wabaunsee,,,,,,,Kansas
+Wallace,,,,,,,Kansas
+Washington,,,,,,,Kansas
+Wichita,,,,,,,Kansas
+Wilson,23,38.0,24-58,,,,Kansas
+Woodson,,,,,,,Kansas
+Wyandotte,211,18.0,16-21,15.0,23.0,19.0,Kansas
+Adair,37,27.0,19-38,,,,Kentucky
+Allen,31,21.0,14-30,,,,Kentucky
+Anderson,21,13.0,8-20,,,,Kentucky
+Ballard,22,40.0,25-61,,,,Kentucky
+Barren,59,19.0,14-24,,,,Kentucky
+Bath,26,29.0,19-43,,,,Kentucky
+Bell,50,28.0,21-38,,,,Kentucky
+Boone,70,7.0,6-9,,,,Kentucky
+Bourbon,30,21.0,14-31,,,,Kentucky
+Boyd,28,8.0,6-12,,,,Kentucky
+Boyle,32,15.0,10-21,,,,Kentucky
+Bracken,12,21.0,11-36,,,,Kentucky
+Breathitt,37,41.0,29-56,,,,Kentucky
+Breckinridge,67,46.0,36-59,,,,Kentucky
+Bullitt,84,15.0,12-18,,,,Kentucky
+Butler,24,27.0,17-41,,,,Kentucky
+Caldwell,19,21.0,13-34,,,,Kentucky
+Calloway,44,16.0,12-22,,,,Kentucky
+Campbell,45,7.0,5-9,,,,Kentucky
+Carlisle,,,,,,,Kentucky
+Carroll,18,24.0,14-38,,,,Kentucky
+Carter,43,23.0,17-31,,,,Kentucky
+Casey,28,25.0,17-36,,,,Kentucky
+Christian,94,19.0,15-23,,27.0,17.0,Kentucky
+Clark,52,20.0,15-27,,,,Kentucky
+Clay,32,23.0,16-32,,,,Kentucky
+Clinton,24,35.0,22-52,,,,Kentucky
+Crittenden,21,34.0,21-51,,,,Kentucky
+Cumberland,17,38.0,22-61,,,,Kentucky
+Daviess,91,13.0,10-16,,,,Kentucky
+Edmonson,18,21.0,12-33,,,,Kentucky
+Elliott,,,,,,,Kentucky
+Estill,12,12.0,6-21,,,,Kentucky
+Fayette,199,9.0,8-10,14.0,12.0,8.0,Kentucky
+Fleming,21,20.0,12-31,,,,Kentucky
+Floyd,76,31.0,24-38,,,,Kentucky
+Franklin,42,12.0,8-16,,,,Kentucky
+Fulton,15,35.0,19-57,,,,Kentucky
+Gallatin,12,19.0,10-34,,,,Kentucky
+Garrard,23,19.0,12-28,,,,Kentucky
+Grant,47,27.0,20-35,,,,Kentucky
+Graves,56,22.0,16-28,,,,Kentucky
+Grayson,68,37.0,28-46,,,,Kentucky
+Green,14,18.0,10-30,,,,Kentucky
+Greenup,40,16.0,12-22,,,,Kentucky
+Hancock,11,18.0,9-32,,,,Kentucky
+Hardin,154,20.0,17-23,,23.0,21.0,Kentucky
+Harlan,49,27.0,20-36,,,,Kentucky
+Harrison,33,25.0,17-35,,,,Kentucky
+Hart,36,27.0,19-37,,,,Kentucky
+Henderson,49,16.0,12-21,,,,Kentucky
+Henry,22,20.0,12-30,,,,Kentucky
+Hickman,12,39.0,20-68,,,,Kentucky
+Hopkins,47,15.0,11-20,,,,Kentucky
+Jackson,25,27.0,17-40,,,,Kentucky
+Jefferson,784,15.0,14-16,14.0,21.0,13.0,Kentucky
+Jessamine,51,13.0,10-18,,,,Kentucky
+Johnson,37,24.0,17-33,,,,Kentucky
+Kenton,90,8.0,6-9,,,,Kentucky
+Knott,29,29.0,19-41,,,,Kentucky
+Knox,46,21.0,16-29,,,,Kentucky
+Larue,29,28.0,19-41,,,,Kentucky
+Laurel,88,20.0,16-25,,,,Kentucky
+Lawrence,26,24.0,15-34,,,,Kentucky
+Lee,12,24.0,12-42,,,,Kentucky
+Leslie,24,34.0,22-51,,,,Kentucky
+Letcher,40,27.0,19-36,,,,Kentucky
+Lewis,30,33.0,22-47,,,,Kentucky
+Lincoln,47,27.0,20-36,,,,Kentucky
+Livingston,17,27.0,16-43,,,,Kentucky
+Logan,51,26.0,20-35,,,,Kentucky
+Lyon,11,18.0,9-33,,,,Kentucky
+Madison,70,11.0,8-13,,,,Kentucky
+Magoffin,29,35.0,23-50,,,,Kentucky
+Marion,43,31.0,23-42,,,,Kentucky
+Marshall,53,24.0,18-31,,,,Kentucky
+Martin,13,17.0,9-28,,,,Kentucky
+Mason,20,17.0,10-26,,,,Kentucky
+McCracken,78,17.0,13-21,,24.0,16.0,Kentucky
+McCreary,31,26.0,18-37,,,,Kentucky
+McLean,15,23.0,13-39,,,,Kentucky
+Meade,52,25.0,19-33,,,,Kentucky
+Menifee,13,29.0,16-50,,,,Kentucky
+Mercer,35,22.0,16-31,,,,Kentucky
+Metcalfe,15,21.0,12-35,,,,Kentucky
+Monroe,17,22.0,13-36,,,,Kentucky
+Montgomery,48,24.0,18-32,,,,Kentucky
+Morgan,19,20.0,12-31,,,,Kentucky
+Muhlenberg,62,29.0,22-37,,,,Kentucky
+Nelson,65,20.0,15-25,,,,Kentucky
+Nicholas,24,46.0,30-69,,,,Kentucky
+Ohio,37,22.0,16-31,,,,Kentucky
+Oldham,49,10.0,8-14,,,,Kentucky
+Owen,24,31.0,20-46,,,,Kentucky
+Owsley,24,81.0,52-121,,,,Kentucky
+Pendleton,23,22.0,14-34,,,,Kentucky
+Perry,61,33.0,25-42,,,,Kentucky
+Pike,119,30.0,24-35,,,,Kentucky
+Powell,24,27.0,17-40,,,,Kentucky
+Pulaski,91,20.0,16-24,,,,Kentucky
+Robertson,,,,,,,Kentucky
+Rockcastle,23,20.0,13-30,,,,Kentucky
+Rowan,31,18.0,12-26,,,,Kentucky
+Russell,23,18.0,12-27,,,,Kentucky
+Scott,59,15.0,11-19,,,,Kentucky
+Shelby,35,10.0,7-14,,,,Kentucky
+Simpson,22,16.0,10-25,,,,Kentucky
+Spencer,15,11.0,6-18,,,,Kentucky
+Taylor,35,19.0,13-27,,,,Kentucky
+Todd,32,37.0,25-52,,,,Kentucky
+Trigg,34,34.0,23-47,,,,Kentucky
+Trimble,16,27.0,15-44,,,,Kentucky
+Union,20,20.0,13-32,,,,Kentucky
+Warren,114,12.0,10-14,,17.0,12.0,Kentucky
+Washington,17,20.0,12-32,,,,Kentucky
+Wayne,31,22.0,15-31,,,,Kentucky
+Webster,22,24.0,15-37,,,,Kentucky
+Whitley,50,20.0,15-26,,,,Kentucky
+Wolfe,18,38.0,22-59,,,,Kentucky
+Woodford,29,15.0,10-22,,,,Kentucky
+,86,,16-25,,20.0,20.0,Louisiana
+,51,,22-40,,,,Louisiana
+,167,,16-22,,28.0,16.0,Louisiana
+,31,,14-29,,28.0,17.0,Louisiana
+,67,,19-31,,20.0,27.0,Louisiana
+,45,,13-23,,,,Louisiana
+,25,,18-41,,,,Louisiana
+,112,,10-15,,15.0,13.0,Louisiana
+,338,,18-23,,22.0,20.0,Louisiana
+,261,,16-21,26.0,19.0,18.0,Louisiana
+,18,,16-42,,,,Louisiana
+,,,,,,,Louisiana
+,12,,10-33,,,,Louisiana
+,27,,17-38,,32.0,21.0,Louisiana
+,41,,22-42,,,,Louisiana
+,47,,18-33,,32.0,21.0,Louisiana
+,566,,17-20,21.0,23.0,14.0,Louisiana
+,12,,13-43,,,,Louisiana
+,42,,23-42,,32.0,33.0,Louisiana
+,60,,20-34,,38.0,24.0,Louisiana
+,43,,22-42,,32.0,30.0,Louisiana
+,58,,28-48,,,,Louisiana
+,96,,16-24,,20.0,22.0,Louisiana
+,52,,18-31,,29.0,20.0,Louisiana
+,21,,12-30,,,,Louisiana
+,294,,9-11,10.0,12.0,9.0,Louisiana
+,51,,17-30,,,,Louisiana
+,210,,11-14,12.0,14.0,12.0,Louisiana
+,149,,18-25,,27.0,20.0,Louisiana
+,25,,16-35,,,,Louisiana
+,48,,11-19,,12.0,15.0,Louisiana
+,229,,20-26,,17.0,24.0,Louisiana
+,16,,13-36,,,,Louisiana
+,48,,20-37,,27.0,28.0,Louisiana
+,63,,18-31,,30.0,22.0,Louisiana
+,369,,12-15,17.0,17.0,9.0,Louisiana
+,204,,16-21,,20.0,19.0,Louisiana
+,16,,6-16,,,,Louisiana
+,42,,20-38,,35.0,27.0,Louisiana
+,185,,18-23,,16.0,24.0,Louisiana
+,21,,23-57,,45.0,35.0,Louisiana
+,36,,18-36,,,,Louisiana
+,49,,22-40,,42.0,34.0,Louisiana
+,49,,11-20,,17.0,17.0,Louisiana
+,54,,11-19,,22.0,12.0,Louisiana
+,37,,36-70,,61.0,40.0,Louisiana
+,34,,17-33,,31.0,19.0,Louisiana
+,58,,15-26,,23.0,17.0,Louisiana
+,142,,21-29,,31.0,21.0,Louisiana
+,77,,17-26,,32.0,17.0,Louisiana
+,61,,14-23,,22.0,16.0,Louisiana
+,260,,12-16,12.0,23.0,13.0,Louisiana
+,209,,19-25,29.0,24.0,21.0,Louisiana
+,,,,,,,Louisiana
+,125,,14-19,,28.0,13.0,Louisiana
+,30,,13-28,,33.0,16.0,Louisiana
+,73,,14-22,,22.0,18.0,Louisiana
+,66,,15-25,,,,Louisiana
+,88,,22-34,,32.0,25.0,Louisiana
+,61,,18-30,,16.0,29.0,Louisiana
+,42,,16-30,,28.0,16.0,Louisiana
+,22,,19-46,,,,Louisiana
+,20,,11-29,,,,Louisiana
+,31,,22-46,,,,Louisiana
+Androscoggin,92,12.0,10-15,,,,Maine
+Aroostook,55,12.0,9-15,,,,Maine
+Cumberland,157,7.0,6-9,,,,Maine
+Franklin,35,17.0,12-23,,,,Maine
+Hancock,70,18.0,14-23,,,,Maine
+Kennebec,107,12.0,10-15,,,,Maine
+Knox,34,12.0,8-17,,,,Maine
+Lincoln,39,16.0,11-22,,,,Maine
+Oxford,69,17.0,13-21,,,,Maine
+Penobscot,145,14.0,11-16,,,,Maine
+Piscataquis,14,12.0,6-20,,,,Maine
+Sagadahoc,16,6.0,4-10,,,,Maine
+Somerset,66,19.0,14-24,,,,Maine
+Waldo,55,20.0,15-26,,,,Maine
+Washington,45,20.0,15-27,,,,Maine
+York,155,10.0,9-12,,,,Maine
+Allegany,46,9.0,7-13,,,,Maryland
+Anne Arundel,354,9.0,8-10,9.0,8.0,9.0,Maryland
+Baltimore,551,9.0,9-10,12.0,11.0,9.0,Maryland
+Baltimore City,411,10.0,9-11,11.0,12.0,7.0,Maryland
+Calvert,79,12.0,10-15,,17.0,12.0,Maryland
+Caroline,51,22.0,16-29,,,,Maryland
+Carroll,121,10.0,8-12,,,,Maryland
+Cecil,122,17.0,14-20,,19.0,17.0,Maryland
+Charles,178,15.0,13-18,,17.0,16.0,Maryland
+Dorchester,28,12.0,8-18,,,,Maryland
+Frederick,153,8.0,7-9,7.0,9.0,9.0,Maryland
+Garrett,29,14.0,10-21,,,,Maryland
+Harford,149,8.0,7-10,,9.0,9.0,Maryland
+Howard,139,6.0,5-7,9.0,11.0,5.0,Maryland
+Kent,26,19.0,13-28,,,,Maryland
+Montgomery,429,6.0,5-6,8.0,7.0,5.0,Maryland
+Prince George's,764,12.0,11-13,10.0,14.0,8.0,Maryland
+Queen Anne's,35,10.0,7-14,,,,Maryland
+Somerset,27,15.0,10-22,,,,Maryland
+St. Mary's,111,14.0,11-16,,18.0,13.0,Maryland
+Talbot,30,11.0,8-16,,,,Maryland
+Washington,137,13.0,11-15,,11.0,14.0,Maryland
+Wicomico,100,14.0,11-16,,20.0,13.0,Maryland
+Worcester,49,13.0,10-18,,26.0,12.0,Maryland
+Barnstable,120,8.0,6-9,,,,Massachusetts
+Berkshire,84,9.0,8-12,,,,Massachusetts
+Bristol,341,9.0,8-9,8.0,11.0,9.0,Massachusetts
+Dukes,,,,,,,Massachusetts
+Essex,276,5.0,4-6,5.0,,5.0,Massachusetts
+Franklin,39,8.0,6-11,,,,Massachusetts
+Hampden,340,10.0,9-12,12.0,10.0,10.0,Massachusetts
+Hampshire,60,5.0,4-7,,,,Massachusetts
+Middlesex,450,4.0,4-4,4.0,5.0,4.0,Massachusetts
+Nantucket,,,,,,,Massachusetts
+Norfolk,253,5.0,4-6,5.0,7.0,5.0,Massachusetts
+Plymouth,286,8.0,7-9,9.0,7.0,8.0,Massachusetts
+Suffolk,226,4.0,4-5,5.0,6.0,4.0,Massachusetts
+Worcester,393,7.0,6-7,6.0,6.0,7.0,Massachusetts
+Alcona,11,15.0,8-27,,,,Michigan
+Alger,,,,,,,Michigan
+Allegan,112,13.0,11-16,22.0,,12.0,Michigan
+Alpena,19,9.0,6-15,,,,Michigan
+Antrim,27,16.0,11-24,,,,Michigan
+Arenac,20,19.0,12-29,,,,Michigan
+Baraga,12,21.0,11-36,,,,Michigan
+Barry,86,20.0,16-24,,,,Michigan
+Bay,78,11.0,9-13,,,,Michigan
+Benzie,21,17.0,10-25,,,,Michigan
+Berrien,126,12.0,10-14,,14.0,11.0,Michigan
+Branch,47,15.0,11-20,,,,Michigan
+Calhoun,152,16.0,14-19,,28.0,16.0,Michigan
+Cass,71,20.0,15-25,,,,Michigan
+Charlevoix,24,13.0,8-19,,,,Michigan
+Cheboygan,21,12.0,7-18,,,,Michigan
+Chippewa,27,10.0,7-15,,,,Michigan
+Clare,49,23.0,17-30,,,,Michigan
+Clinton,48,9.0,6-11,,,,Michigan
+Crawford,14,15.0,8-24,,,,Michigan
+Delta,34,13.0,9-19,,,,Michigan
+Dickinson,31,17.0,12-25,,,,Michigan
+Eaton,108,14.0,11-17,25.0,,14.0,Michigan
+Emmet,20,8.0,5-13,,,,Michigan
+Genesee,428,15.0,14-17,12.0,23.0,13.0,Michigan
+Gladwin,29,16.0,11-23,,,,Michigan
+Gogebic,11,11.0,5-19,,,,Michigan
+Grand Traverse,65,10.0,8-13,,,,Michigan
+Gratiot,44,15.0,11-21,,,,Michigan
+Hillsdale,62,19.0,15-25,,,,Michigan
+Houghton,19,7.0,4-12,,,,Michigan
+Huron,36,17.0,12-23,,,,Michigan
+Ingham,193,10.0,8-11,19.0,13.0,9.0,Michigan
+Ionia,63,14.0,11-18,,,,Michigan
+Iosco,29,16.0,11-24,,,,Michigan
+Iron,16,20.0,12-33,,,,Michigan
+Isabella,58,12.0,9-16,,,,Michigan
+Jackson,136,12.0,10-14,,13.0,12.0,Michigan
+Kalamazoo,214,12.0,10-13,12.0,19.0,11.0,Michigan
+Kalkaska,24,19.0,12-28,,,,Michigan
+Kent,438,10.0,9-10,8.0,18.0,9.0,Michigan
+Keweenaw,,,,,,,Michigan
+Lake,19,22.0,13-35,,,,Michigan
+Lapeer,79,13.0,10-16,,,,Michigan
+Leelanau,23,15.0,9-22,,,,Michigan
+Lenawee,113,16.0,13-19,19.0,,17.0,Michigan
+Livingston,123,9.0,7-11,,,,Michigan
+Luce,,,,,,,Michigan
+Mackinac,10,13.0,6-24,,,,Michigan
+Macomb,512,8.0,8-9,9.0,13.0,8.0,Michigan
+Manistee,26,15.0,10-22,,,,Michigan
+Marquette,41,9.0,6-12,,,,Michigan
+Mason,37,18.0,13-25,,,,Michigan
+Mecosta,32,11.0,7-15,,,,Michigan
+Menominee,28,17.0,12-25,,,,Michigan
+Midland,71,12.0,9-15,,,,Michigan
+Missaukee,19,18.0,11-28,,,,Michigan
+Monroe,122,11.0,9-13,,,,Michigan
+Montcalm,112,24.0,20-29,,,,Michigan
+Montmorency,,,,,,,Michigan
+Muskegon,168,14.0,12-16,14.0,11.0,14.0,Michigan
+Newaygo,71,20.0,16-26,,,,Michigan
+Oakland,562,6.0,6-7,6.0,10.0,6.0,Michigan
+Oceana,29,15.0,10-22,,,,Michigan
+Ogemaw,31,21.0,14-30,,,,Michigan
+Ontonagon,12,29.0,15-52,,,,Michigan
+Osceola,29,18.0,12-26,,,,Michigan
+Oscoda,23,39.0,25-59,,,,Michigan
+Otsego,16,9.0,5-15,,,,Michigan
+Ottawa,160,8.0,7-9,9.0,,7.0,Michigan
+Presque Isle,13,14.0,8-25,,,,Michigan
+Roscommon,34,20.0,14-28,,,,Michigan
+Saginaw,162,12.0,10-14,15.0,14.0,11.0,Michigan
+Sanilac,55,19.0,14-25,,,,Michigan
+Schoolcraft,,,,,,,Michigan
+Shiawassee,55,12.0,9-15,,,,Michigan
+St. Clair,140,13.0,10-15,,,,Michigan
+St. Joseph,91,21.0,17-26,,,,Michigan
+Tuscola,68,18.0,14-23,,,,Michigan
+Van Buren,85,16.0,13-20,,,,Michigan
+Washtenaw,166,6.0,5-7,,12.0,7.0,Michigan
+Wayne,"1,428",12.0,11-12,8.0,17.0,9.0,Michigan
+Wexford,32,14.0,9-19,,,,Michigan
+Aitkin,21,19.0,12-29,,,,Minnesota
+Anoka,181,7.0,6-8,,6.0,8.0,Minnesota
+Becker,32,13.0,9-19,,,,Minnesota
+Beltrami,53,16.0,12-21,,,13.0,Minnesota
+Benton,31,11.0,7-15,,,,Minnesota
+Big Stone,,,,,,,Minnesota
+Blue Earth,27,6.0,4-8,,,,Minnesota
+Brown,18,10.0,6-16,,,,Minnesota
+Carlton,26,10.0,7-15,,,,Minnesota
+Carver,40,5.0,4-7,,,,Minnesota
+Cass,43,20.0,15-27,,,19.0,Minnesota
+Chippewa,,,,,,,Minnesota
+Chisago,44,11.0,8-15,,,,Minnesota
+Clay,26,6.0,4-8,,,,Minnesota
+Clearwater,12,20.0,10-34,,,,Minnesota
+Cook,,,,,,,Minnesota
+Cottonwood,14,18.0,10-30,,,,Minnesota
+Crow Wing,53,11.0,9-15,,,,Minnesota
+Dakota,150,5.0,4-6,6.0,5.0,5.0,Minnesota
+Dodge,17,12.0,7-19,,,,Minnesota
+Douglas,37,14.0,10-19,,,,Minnesota
+Faribault,16,17.0,9-27,,,,Minnesota
+Fillmore,26,18.0,11-26,,,,Minnesota
+Freeborn,26,12.0,8-18,,,,Minnesota
+Goodhue,44,13.0,10-18,,,,Minnesota
+Grant,,,,,,,Minnesota
+Hennepin,485,5.0,5-6,6.0,11.0,5.0,Minnesota
+Houston,10,8.0,4-14,,,,Minnesota
+Hubbard,14,9.0,5-16,,,,Minnesota
+Isanti,44,15.0,11-20,,,,Minnesota
+Itasca,41,13.0,9-18,,,,Minnesota
+Jackson,15,22.0,12-36,,,,Minnesota
+Kanabec,25,22.0,14-32,,,,Minnesota
+Kandiyohi,27,9.0,6-13,,,,Minnesota
+Kittson,,,,,,,Minnesota
+Koochiching,,,,,,,Minnesota
+Lac qui Parle,,,,,,,Minnesota
+Lake,,,,,,,Minnesota
+Lake of the Woods,,,,,,,Minnesota
+Le Sueur,15,7.0,4-12,,,,Minnesota
+Lincoln,,,,,,,Minnesota
+Lyon,21,12.0,7-18,,,,Minnesota
+Mahnomen,10,26.0,13-48,,,,Minnesota
+Marshall,11,17.0,9-31,,,,Minnesota
+Martin,16,12.0,7-19,,,,Minnesota
+McLeod,35,14.0,10-19,,,,Minnesota
+Meeker,20,12.0,7-19,,,,Minnesota
+Mille Lacs,33,18.0,12-25,,,,Minnesota
+Morrison,35,15.0,10-21,,,,Minnesota
+Mower,19,7.0,4-11,,,,Minnesota
+Murray,,,,,,,Minnesota
+Nicollet,20,8.0,5-13,,,,Minnesota
+Nobles,19,12.0,7-19,,,,Minnesota
+Norman,13,29.0,15-50,,,,Minnesota
+Olmsted,72,6.0,5-8,,,,Minnesota
+Otter Tail,49,12.0,9-16,,,,Minnesota
+Pennington,,,,,,,Minnesota
+Pine,36,17.0,12-24,,,,Minnesota
+Pipestone,10,16.0,7-29,,,,Minnesota
+Polk,24,11.0,7-16,,,,Minnesota
+Pope,12,15.0,8-27,,,,Minnesota
+Ramsey,222,6.0,5-7,7.0,9.0,5.0,Minnesota
+Red Lake,,,,,,,Minnesota
+Redwood,22,21.0,13-31,,,,Minnesota
+Renville,15,15.0,8-24,,,,Minnesota
+Rice,46,10.0,7-13,,,,Minnesota
+Rock,10,15.0,7-28,,,,Minnesota
+Roseau,11,10.0,5-18,,,,Minnesota
+Scott,58,5.0,4-7,,,,Minnesota
+Sherburne,60,9.0,7-11,,,,Minnesota
+Sibley,15,14.0,8-24,,,,Minnesota
+St. Louis,153,11.0,9-13,,,,Minnesota
+Stearns,111,10.0,8-12,,16.0,9.0,Minnesota
+Steele,15,6.0,3-10,,,,Minnesota
+Stevens,,,,,,,Minnesota
+Swift,18,27.0,16-43,,,,Minnesota
+Todd,25,14.0,9-21,,,,Minnesota
+Traverse,,,,,,,Minnesota
+Wabasha,26,17.0,11-25,,,,Minnesota
+Wadena,16,16.0,9-27,,,,Minnesota
+Waseca,13,10.0,5-17,,,,Minnesota
+Washington,102,5.0,4-7,,,,Minnesota
+Watonwan,,,,,,,Minnesota
+Wilkin,10,23.0,11-42,,,,Minnesota
+Winona,27,8.0,5-11,,,,Minnesota
+Wright,75,8.0,6-9,,,,Minnesota
+Yellow Medicine,11,16.0,8-29,,,,Minnesota
+Adams,52,25.0,19-33,,27.0,29.0,Mississippi
+Alcorn,72,29.0,22-36,,,,Mississippi
+Amite,32,37.0,25-52,,50.0,30.0,Mississippi
+Attala,50,40.0,30-52,,46.0,38.0,Mississippi
+Benton,33,59.0,41-83,,62.0,62.0,Mississippi
+Bolivar,68,32.0,25-41,,37.0,22.0,Mississippi
+Calhoun,38,40.0,28-54,,38.0,44.0,Mississippi
+Carroll,19,28.0,17-43,,,,Mississippi
+Chickasaw,45,38.0,28-51,,46.0,32.0,Mississippi
+Choctaw,22,39.0,24-58,,,,Mississippi
+Claiborne,26,42.0,27-61,,,,Mississippi
+Clarke,39,36.0,26-49,,,,Mississippi
+Clay,28,21.0,14-30,,19.0,26.0,Mississippi
+Coahoma,46,31.0,22-41,,,,Mississippi
+Copiah,70,36.0,28-45,,41.0,28.0,Mississippi
+Covington,62,48.0,37-61,,54.0,45.0,Mississippi
+DeSoto,222,17.0,15-19,19.0,18.0,17.0,Mississippi
+Forrest,106,20.0,16-24,,21.0,18.0,Mississippi
+Franklin,17,32.0,18-51,,,,Mississippi
+George,75,43.0,34-54,,,,Mississippi
+Greene,26,27.0,18-40,,,,Mississippi
+Grenada,46,31.0,23-42,,38.0,27.0,Mississippi
+Hancock,60,18.0,14-24,,,,Mississippi
+Harrison,260,18.0,16-20,18.0,17.0,18.0,Mississippi
+Hinds,408,26.0,23-28,38.0,26.0,24.0,Mississippi
+Holmes,66,56.0,43-71,,,,Mississippi
+Humphreys,23,42.0,27-63,,,,Mississippi
+Issaquena,,,,,,,Mississippi
+Itawamba,41,25.0,18-34,,,,Mississippi
+Jackson,187,19.0,16-21,,15.0,21.0,Mississippi
+Jasper,50,44.0,32-58,,47.0,39.0,Mississippi
+Jefferson,24,48.0,31-72,,,,Mississippi
+Jefferson Davis,46,59.0,43-79,,61.0,58.0,Mississippi
+Jones,112,24.0,19-28,,22.0,26.0,Mississippi
+Kemper,19,29.0,18-45,,,,Mississippi
+Lafayette,67,17.0,13-22,,23.0,16.0,Mississippi
+Lamar,82,18.0,15-23,,13.0,21.0,Mississippi
+Lauderdale,112,22.0,18-26,,16.0,27.0,Mississippi
+Lawrence,30,35.0,24-50,,36.0,36.0,Mississippi
+Leake,50,32.0,24-43,,25.0,26.0,Mississippi
+Lee,144,24.0,20-28,,33.0,21.0,Mississippi
+Leflore,53,27.0,20-36,,27.0,29.0,Mississippi
+Lincoln,71,29.0,23-37,,26.0,32.0,Mississippi
+Lowndes,94,23.0,19-28,,20.0,24.0,Mississippi
+Madison,98,13.0,11-16,,22.0,7.0,Mississippi
+Marion,57,33.0,25-43,,37.0,32.0,Mississippi
+Marshall,124,51.0,42-60,95.0,49.0,50.0,Mississippi
+Monroe,72,30.0,23-37,,24.0,33.0,Mississippi
+Montgomery,22,32.0,20-49,,,,Mississippi
+Neshoba,69,34.0,26-43,,,30.0,Mississippi
+Newton,57,39.0,29-50,,46.0,32.0,Mississippi
+Noxubee,28,39.0,26-56,,,,Mississippi
+Oktibbeha,51,14.0,11-19,,24.0,9.0,Mississippi
+Panola,101,43.0,35-51,,41.0,48.0,Mississippi
+Pearl River,110,28.0,23-33,,34.0,28.0,Mississippi
+Perry,34,41.0,29-58,,77.0,35.0,Mississippi
+Pike,92,33.0,27-41,,29.0,39.0,Mississippi
+Pontotoc,59,27.0,20-34,,33.0,28.0,Mississippi
+Prentiss,45,26.0,19-34,,,,Mississippi
+Quitman,19,42.0,25-66,,,,Mississippi
+Rankin,155,14.0,12-16,,13.0,15.0,Mississippi
+Scott,96,49.0,40-60,,50.0,53.0,Mississippi
+Sharkey,12,43.0,22-75,,,,Mississippi
+Simpson,53,29.0,22-38,,41.0,24.0,Mississippi
+Smith,29,27.0,18-39,,,,Mississippi
+Stone,37,29.0,20-39,,,,Mississippi
+Sunflower,51,29.0,22-38,,31.0,26.0,Mississippi
+Tallahatchie,34,37.0,26-52,,41.0,40.0,Mississippi
+Tate,67,34.0,26-43,,30.0,35.0,Mississippi
+Tippah,36,24.0,17-33,,,,Mississippi
+Tishomingo,52,39.0,29-51,,,,Mississippi
+Tunica,22,33.0,20-49,,,,Mississippi
+Union,50,25.0,19-33,,,,Mississippi
+Walthall,33,33.0,23-47,,50.0,21.0,Mississippi
+Warren,81,26.0,21-32,,22.0,32.0,Mississippi
+Washington,90,29.0,24-36,,30.0,31.0,Mississippi
+Wayne,44,31.0,23-42,,43.0,25.0,Mississippi
+Webster,25,36.0,23-54,,,,Mississippi
+Wilkinson,24,41.0,26-60,,,,Mississippi
+Winston,31,25.0,17-35,,26.0,24.0,Mississippi
+Yalobusha,40,46.0,33-63,,30.0,60.0,Mississippi
+Yazoo,44,23.0,17-31,,22.0,31.0,Mississippi
+Adair,25,14.0,9-21,,,,Missouri
+Andrew,21,17.0,10-26,,,,Missouri
+Atchison,,,,,,,Missouri
+Audrain,27,15.0,10-22,,,,Missouri
+Barry,77,31.0,24-39,,,,Missouri
+Barton,16,19.0,11-32,,,,Missouri
+Bates,30,26.0,18-38,,,,Missouri
+Benton,43,31.0,23-42,,,,Missouri
+Bollinger,18,22.0,13-35,,,,Missouri
+Boone,117,9.0,7-11,,11.0,9.0,Missouri
+Buchanan,85,14.0,11-17,,,,Missouri
+Butler,61,21.0,16-26,,,,Missouri
+Caldwell,24,38.0,24-57,,,,Missouri
+Callaway,54,17.0,13-22,,,,Missouri
+Camden,61,19.0,15-25,,,,Missouri
+Cape Girardeau,77,14.0,11-17,,27.0,13.0,Missouri
+Carroll,26,43.0,28-64,,,,Missouri
+Carter,11,27.0,14-49,,,,Missouri
+Cass,105,14.0,11-17,,,,Missouri
+Cedar,23,23.0,14-34,,,,Missouri
+Chariton,,,,,,,Missouri
+Christian,82,13.0,10-16,,,,Missouri
+Clark,11,23.0,12-42,,,,Missouri
+Clay,184,10.0,9-12,,12.0,11.0,Missouri
+Clinton,19,13.0,8-20,,,,Missouri
+Cole,65,12.0,9-15,,,,Missouri
+Cooper,19,16.0,9-25,,,,Missouri
+Crawford,39,24.0,17-33,,,,Missouri
+Dade,14,26.0,14-44,,,,Missouri
+Dallas,30,25.0,17-36,,,,Missouri
+Daviess,,,,,,,Missouri
+DeKalb,18,22.0,13-35,,,,Missouri
+Dent,28,27.0,18-38,,,,Missouri
+Douglas,19,21.0,13-33,,,,Missouri
+Dunklin,51,26.0,19-34,,,,Missouri
+Franklin,145,20.0,17-23,,,,Missouri
+Gasconade,29,28.0,19-40,,,,Missouri
+Gentry,,,,,,,Missouri
+Greene,285,14.0,12-15,,,,Missouri
+Grundy,18,26.0,16-41,,,,Missouri
+Harrison,11,19.0,9-34,,,,Missouri
+Henry,38,25.0,17-34,,,,Missouri
+Hickory,30,47.0,32-67,,,,Missouri
+Holt,,,,,,,Missouri
+Howard,15,21.0,12-35,,,,Missouri
+Howell,69,24.0,19-31,,,,Missouri
+Iron,17,25.0,14-40,,,,Missouri
+Jackson,773,16.0,14-17,12.0,24.0,13.0,Missouri
+Jasper,130,15.0,13-18,15.0,,15.0,Missouri
+Jefferson,275,17.0,15-19,,,,Missouri
+Johnson,57,15.0,11-19,,,,Missouri
+Knox,,,,,,,Missouri
+Laclede,60,24.0,18-31,,,,Missouri
+Lafayette,48,21.0,15-28,,,,Missouri
+Lawrence,75,28.0,22-35,,,,Missouri
+Lewis,,,,,,,Missouri
+Lincoln,98,23.0,19-28,,,,Missouri
+Linn,13,16.0,8-27,,,,Missouri
+Livingston,15,14.0,8-24,,,,Missouri
+Macon,17,16.0,9-26,,,,Missouri
+Madison,19,22.0,13-34,,,,Missouri
+Maries,13,22.0,11-37,,,,Missouri
+Marion,34,17.0,12-24,,,,Missouri
+McDonald,53,33.0,24-43,,,,Missouri
+Mercer,,,,,,,Missouri
+Miller,34,19.0,13-27,,,,Missouri
+Mississippi,23,26.0,16-39,,,,Missouri
+Moniteau,22,20.0,13-30,,,,Missouri
+Monroe,11,18.0,9-32,,,,Missouri
+Montgomery,16,20.0,11-32,,,,Missouri
+Morgan,37,25.0,18-35,,,,Missouri
+New Madrid,33,28.0,20-40,,,,Missouri
+Newton,83,20.0,16-25,,,,Missouri
+Nodaway,18,12.0,7-19,,,,Missouri
+Oregon,30,44.0,30-63,,,,Missouri
+Osage,12,13.0,7-22,,,,Missouri
+Ozark,23,36.0,23-55,,,,Missouri
+Pemiscot,30,27.0,19-39,,,,Missouri
+Perry,22,16.0,10-25,,,,Missouri
+Pettis,50,17.0,12-22,,,,Missouri
+Phelps,50,16.0,12-21,,,,Missouri
+Pike,24,19.0,12-28,,,,Missouri
+Platte,65,9.0,7-11,,,,Missouri
+Polk,37,16.0,12-23,,,,Missouri
+Pulaski,48,13.0,10-17,,,,Missouri
+Putnam,,,,,,,Missouri
+Ralls,19,26.0,16-41,,,,Missouri
+Randolph,25,15.0,9-21,,,,Missouri
+Ray,39,24.0,17-33,,,,Missouri
+Reynolds,20,46.0,28-72,,,,Missouri
+Ripley,30,35.0,24-50,,,,Missouri
+Saline,24,15.0,10-22,,,,Missouri
+Schuyler,,,,,,,Missouri
+Scotland,10,30.0,14-55,,,,Missouri
+Scott,46,17.0,13-23,,,,Missouri
+Shannon,25,46.0,30-68,,,,Missouri
+Shelby,12,29.0,15-50,,,,Missouri
+St. Charles,227,8.0,7-9,,13.0,8.0,Missouri
+St. Clair,26,39.0,26-57,,,,Missouri
+St. Francois,103,22.0,18-26,,,,Missouri
+St. Louis,868,12.0,12-13,13.0,25.0,9.0,Missouri
+St. Louis City,369,18.0,16-20,15.0,26.0,11.0,Missouri
+Ste. Genevieve,29,23.0,15-33,,,,Missouri
+Stoddard,34,17.0,12-24,,,,Missouri
+Stone,68,30.0,24-38,,,,Missouri
+Sullivan,10,24.0,11-44,,,,Missouri
+Taney,64,16.0,13-21,,,,Missouri
+Texas,37,21.0,15-29,,,,Missouri
+Vernon,24,17.0,11-25,,,,Missouri
+Warren,39,15.0,11-21,,,,Missouri
+Washington,49,29.0,21-38,,,,Missouri
+Wayne,26,31.0,20-45,,,,Missouri
+Webster,53,19.0,14-25,,,,Missouri
+Worth,,,,,,,Missouri
+Wright,34,26.0,18-36,,,,Missouri
+Beaverhead,,,,,,,Montana
+Big Horn,80,87.0,69-109,,,50.0,Montana
+Blaine,11,23.0,12-41,,,,Montana
+Broadwater,,,,,,,Montana
+Carbon,15,20.0,11-32,,,,Montana
+Carter,,,,,,,Montana
+Cascade,86,15.0,12-18,,,,Montana
+Chouteau,11,27.0,14-49,,,,Montana
+Custer,10,12.0,6-22,,,,Montana
+Daniels,,,,,,,Montana
+Dawson,,,,,,,Montana
+Deer Lodge,10,15.0,7-28,,,,Montana
+Fallon,,,,,,,Montana
+Fergus,20,25.0,15-39,,,,Montana
+Flathead,129,17.0,14-20,,,,Montana
+Gallatin,82,10.0,8-12,,,,Montana
+Garfield,,,,,,,Montana
+Glacier,34,35.0,25-50,,,,Montana
+Golden Valley,,,,,,,Montana
+Granite,,,,,,,Montana
+Hill,24,21.0,13-31,,,,Montana
+Jefferson,12,14.0,7-24,,,,Montana
+Judith Basin,,,,,,,Montana
+Lake,56,25.0,19-33,,,23.0,Montana
+Lewis and Clark,59,12.0,9-15,,,,Montana
+Liberty,,,,,,,Montana
+Lincoln,41,29.0,21-39,,,,Montana
+Madison,,,,,,,Montana
+McCone,,,,,,,Montana
+Meagher,,,,,,,Montana
+Mineral,,,,,,,Montana
+Missoula,123,15.0,12-17,,,13.0,Montana
+Musselshell,,,,,,,Montana
+Park,23,19.0,12-29,,,,Montana
+Petroleum,,,,,,,Montana
+Phillips,,,,,,,Montana
+Pondera,14,33.0,18-56,,,,Montana
+Powder River,,,,,,,Montana
+Powell,,,,,,,Montana
+Prairie,,,,,,,Montana
+Ravalli,47,15.0,11-20,,,,Montana
+Richland,10,13.0,6-24,,,,Montana
+Roosevelt,27,36.0,23-52,,,,Montana
+Rosebud,36,60.0,42-82,,,34.0,Montana
+Sanders,38,43.0,31-59,,,,Montana
+Sheridan,,,,,,,Montana
+Silver Bow,33,13.0,9-19,,,,Montana
+Stillwater,11,17.0,8-30,,,,Montana
+Sweet Grass,,,,,,,Montana
+Teton,13,30.0,16-51,,,,Montana
+Toole,,,,,,,Montana
+Treasure,,,,,,,Montana
+Valley,21,40.0,25-62,,,,Montana
+Wheatland,,,,,,,Montana
+Wibaux,,,,,,,Montana
+Yellowstone,171,15.0,13-17,,,15.0,Montana
+Adams,33,15.0,10-21,,,,Nebraska
+Antelope,,,,,,,Nebraska
+Arthur,,,,,,,Nebraska
+Banner,,,,,,,Nebraska
+Blaine,,,,,,,Nebraska
+Boone,,,,,,,Nebraska
+Box Butte,15,20.0,11-33,,,,Nebraska
+Boyd,,,,,,,Nebraska
+Brown,,,,,,,Nebraska
+Buffalo,39,11.0,8-15,,,,Nebraska
+Burt,16,35.0,20-56,,,,Nebraska
+Butler,15,26.0,15-43,,,,Nebraska
+Cass,37,20.0,14-27,,,,Nebraska
+Cedar,12,20.0,11-36,,,,Nebraska
+Chase,,,,,,,Nebraska
+Cherry,12,30.0,16-53,,,,Nebraska
+Cheyenne,14,21.0,12-36,,,,Nebraska
+Clay,,,,,,,Nebraska
+Colfax,14,19.0,10-32,,,,Nebraska
+Cuming,13,21.0,11-36,,,,Nebraska
+Custer,16,21.0,12-35,,,,Nebraska
+Dakota,18,13.0,7-20,,,,Nebraska
+Dawes,10,17.0,8-31,,,,Nebraska
+Dawson,28,17.0,11-24,26.0,,11.0,Nebraska
+Deuel,,,,,,,Nebraska
+Dixon,,,,,,,Nebraska
+Dodge,45,17.0,13-23,,,,Nebraska
+Douglas,374,9.0,8-10,11.0,15.0,8.0,Nebraska
+Dundy,,,,,,,Nebraska
+Fillmore,11,28.0,14-51,,,,Nebraska
+Franklin,,,,,,,Nebraska
+Frontier,,,,,,,Nebraska
+Furnas,,,,,,,Nebraska
+Gage,12,8.0,4-14,,,,Nebraska
+Garden,,,,,,,Nebraska
+Garfield,,,,,,,Nebraska
+Gosper,,,,,,,Nebraska
+Grant,,,,,,,Nebraska
+Greeley,,,,,,,Nebraska
+Hall,59,14.0,10-18,11.0,,15.0,Nebraska
+Hamilton,11,17.0,8-30,,,,Nebraska
+Harlan,,,,,,,Nebraska
+Hayes,,,,,,,Nebraska
+Hitchcock,,,,,,,Nebraska
+Holt,15,21.0,12-35,,,,Nebraska
+Hooker,,,,,,,Nebraska
+Howard,,,,,,,Nebraska
+Jefferson,,,,,,,Nebraska
+Johnson,,,,,,,Nebraska
+Kearney,,,,,,,Nebraska
+Keith,,,,,,,Nebraska
+Keya Paha,,,,,,,Nebraska
+Kimball,11,45.0,23-81,,,,Nebraska
+Knox,11,19.0,9-34,,,,Nebraska
+Lancaster,186,8.0,7-9,13.0,14.0,8.0,Nebraska
+Lincoln,43,18.0,13-24,,,,Nebraska
+Logan,,,,,,,Nebraska
+Loup,,,,,,,Nebraska
+Madison,38,15.0,11-21,,,,Nebraska
+McPherson,,,,,,,Nebraska
+Merrick,13,24.0,13-41,,,,Nebraska
+Morrill,,,,,,,Nebraska
+Nance,,,,,,,Nebraska
+Nemaha,,,,,,,Nebraska
+Nuckolls,,,,,,,Nebraska
+Otoe,,,,,,,Nebraska
+Pawnee,,,,,,,Nebraska
+Perkins,,,,,,,Nebraska
+Phelps,14,22.0,12-37,,,,Nebraska
+Pierce,10,20.0,9-36,,,,Nebraska
+Platte,34,14.0,10-20,,,,Nebraska
+Polk,18,49.0,29-78,,,,Nebraska
+Red Willow,15,20.0,11-33,,,,Nebraska
+Richardson,,,,,,,Nebraska
+Rock,,,,,,,Nebraska
+Saline,20,20.0,12-31,,,,Nebraska
+Sarpy,102,8.0,6-9,10.0,,8.0,Nebraska
+Saunders,32,21.0,14-29,,,,Nebraska
+Scotts Bluff,62,25.0,19-32,26.0,,25.0,Nebraska
+Seward,14,11.0,6-19,,,,Nebraska
+Sheridan,10,28.0,13-51,,,,Nebraska
+Sherman,,,,,,,Nebraska
+Sioux,,,,,,,Nebraska
+Stanton,,,,,,,Nebraska
+Thayer,11,32.0,16-57,,,,Nebraska
+Thomas,,,,,,,Nebraska
+Thurston,24,49.0,32-73,,,,Nebraska
+Valley,,,,,,,Nebraska
+Washington,19,13.0,8-20,,,,Nebraska
+Wayne,,,,,,,Nebraska
+Webster,,,,,,,Nebraska
+Wheeler,,,,,,,Nebraska
+York,18,18.0,11-29,,,,Nebraska
+Carson City,60,15.0,12-19,13.0,,18.0,Nevada
+Churchill,52,29.0,22-39,,,,Nevada
+Clark,"1,715",11.0,10-11,9.0,15.0,12.0,Nevada
+Douglas,34,10.0,7-14,,,,Nevada
+Elko,66,18.0,14-23,18.0,,15.0,Nevada
+Esmeralda,,,,,,,Nevada
+Eureka,,,,,,,Nevada
+Humboldt,23,19.0,12-29,,,,Nevada
+Lander,,,,,,,Nevada
+Lincoln,,,,,,,Nevada
+Lyon,90,22.0,18-27,21.0,,23.0,Nevada
+Mineral,16,51.0,29-82,,,,Nevada
+Nye,76,22.0,17-27,,,,Nevada
+Pershing,10,22.0,10-40,,,,Nevada
+Storey,,,,,,,Nevada
+Washoe,394,12.0,11-13,9.0,,13.0,Nevada
+White Pine,10,15.0,7-28,,,,Nevada
+Belknap,47,11.0,8-14,,,,New Hampshire
+Carroll,52,15.0,11-19,,,,New Hampshire
+Cheshire,66,12.0,10-16,,,,New Hampshire
+Coos,40,18.0,13-25,,,,New Hampshire
+Grafton,63,10.0,8-13,,,,New Hampshire
+Hillsborough,229,8.0,7-9,5.0,,8.0,New Hampshire
+Merrimack,101,9.0,8-11,,,,New Hampshire
+Rockingham,153,7.0,6-8,,,,New Hampshire
+Strafford,78,8.0,7-11,,,,New Hampshire
+Sullivan,40,13.0,9-18,,,,New Hampshire
+Atlantic,247,13.0,11-15,13.0,19.0,12.0,New Jersey
+Bergen,298,5.0,4-5,5.0,7.0,5.0,New Jersey
+Burlington,261,8.0,7-9,7.0,11.0,8.0,New Jersey
+Camden,376,10.0,9-11,12.0,14.0,9.0,New Jersey
+Cape May,74,11.0,9-14,,,,New Jersey
+Cumberland,199,19.0,16-21,18.0,24.0,19.0,New Jersey
+Essex,366,6.0,6-7,6.0,9.0,4.0,New Jersey
+Gloucester,237,11.0,10-13,11.0,15.0,11.0,New Jersey
+Hudson,211,4.0,4-5,4.0,10.0,4.0,New Jersey
+Hunterdon,51,6.0,4-8,,,,New Jersey
+Mercer,195,7.0,6-8,7.0,13.0,7.0,New Jersey
+Middlesex,354,6.0,5-7,6.0,7.0,8.0,New Jersey
+Monmouth,270,6.0,5-7,7.0,11.0,6.0,New Jersey
+Morris,143,4.0,3-5,7.0,,4.0,New Jersey
+Ocean,351,8.0,7-9,11.0,15.0,7.0,New Jersey
+Passaic,195,5.0,5-6,5.0,8.0,5.0,New Jersey
+Salem,84,19.0,15-23,,28.0,17.0,New Jersey
+Somerset,115,5.0,4-6,7.0,8.0,5.0,New Jersey
+Sussex,83,8.0,7-10,,,,New Jersey
+Union,250,6.0,6-7,7.0,8.0,5.0,New Jersey
+Warren,86,11.0,9-14,12.0,,11.0,New Jersey
+Bernalillo,814,17.0,16-18,19.0,31.0,13.0,New Mexico
+Catron,11,43.0,21-77,,,,New Mexico
+Chaves,85,19.0,15-23,18.0,,18.0,New Mexico
+Cibola,59,31.0,24-41,17.0,,,New Mexico
+Colfax,17,20.0,12-32,,,,New Mexico
+Curry,62,18.0,14-23,21.0,,17.0,New Mexico
+De Baca,,,,,,,New Mexico
+Dona Ana,221,14.0,12-16,15.0,,15.0,New Mexico
+Eddy,98,24.0,19-29,22.0,,27.0,New Mexico
+Grant,41,21.0,15-29,24.0,,20.0,New Mexico
+Guadalupe,,,,,,,New Mexico
+Harding,,,,,,,New Mexico
+Hidalgo,,,,,,,New Mexico
+Lea,134,27.0,22-31,28.0,,28.0,New Mexico
+Lincoln,32,23.0,16-32,,,,New Mexico
+Los Alamos,14,10.0,6-17,,,,New Mexico
+Luna,52,30.0,23-40,26.0,,39.0,New Mexico
+McKinley,212,43.0,37-48,14.0,,,New Mexico
+Mora,13,43.0,23-73,,,,New Mexico
+Otero,79,17.0,13-21,15.0,,15.0,New Mexico
+Quay,13,22.0,12-38,,,,New Mexico
+Rio Arriba,87,32.0,25-39,34.0,,,New Mexico
+Roosevelt,34,26.0,18-36,33.0,,20.0,New Mexico
+San Juan,281,33.0,29-36,18.0,,17.0,New Mexico
+San Miguel,39,20.0,15-28,,,,New Mexico
+Sandoval,164,16.0,13-18,14.0,,10.0,New Mexico
+Santa Fe,120,11.0,9-13,13.0,,9.0,New Mexico
+Sierra,21,27.0,17-41,,,,New Mexico
+Socorro,33,29.0,20-40,22.0,,31.0,New Mexico
+Taos,58,25.0,19-32,27.0,,22.0,New Mexico
+Torrance,43,40.0,29-53,44.0,,37.0,New Mexico
+Union,,,,,,,New Mexico
+Valencia,108,20.0,16-24,23.0,,16.0,New Mexico
+Albany,117,5.0,4-6,7.0,9.0,5.0,New York
+Allegany,32,10.0,7-14,,,,New York
+Bronx,436,4.0,4-5,4.0,4.0,7.0,New York
+Broome,76,6.0,4-7,,,,New York
+Cattaraugus,62,12.0,9-15,,,,New York
+Cayuga,44,8.0,6-11,,,,New York
+Chautauqua,63,7.0,5-9,,,,New York
+Chemung,58,10.0,8-13,,,,New York
+Chenango,43,13.0,9-18,,,,New York
+Clinton,37,7.0,5-9,,,,New York
+Columbia,42,10.0,7-13,,,,New York
+Cortland,23,7.0,4-11,,,,New York
+Delaware,38,12.0,9-17,,,,New York
+Dutchess,190,9.0,8-10,8.0,10.0,10.0,New York
+Erie,397,6.0,5-7,6.0,10.0,6.0,New York
+Essex,18,7.0,4-11,,,,New York
+Franklin,32,9.0,6-13,,,,New York
+Fulton,45,12.0,9-16,,,,New York
+Genesee,47,12.0,9-16,,,,New York
+Greene,41,12.0,9-17,,,,New York
+Hamilton,,,,,,,New York
+Herkimer,34,8.0,6-11,,,,New York
+Jefferson,85,11.0,9-13,,,,New York
+Kings,680,4.0,3-4,4.0,5.0,3.0,New York
+Lewis,15,8.0,5-13,,,,New York
+Livingston,44,10.0,7-14,,,,New York
+Madison,52,11.0,8-14,,,,New York
+Monroe,362,7.0,6-8,8.0,11.0,6.0,New York
+Montgomery,31,9.0,6-13,,,,New York
+Nassau,599,6.0,6-7,7.0,10.0,6.0,New York
+New York,306,3.0,2-3,4.0,4.0,2.0,New York
+Niagara,146,10.0,8-12,,14.0,10.0,New York
+Oneida,146,9.0,8-11,,10.0,10.0,New York
+Onondaga,227,7.0,6-8,10.0,9.0,7.0,New York
+Ontario,65,8.0,6-11,,,,New York
+Orange,211,8.0,7-9,6.0,9.0,8.0,New York
+Orleans,35,12.0,9-17,,,,New York
+Oswego,106,13.0,10-15,,,,New York
+Otsego,28,7.0,4-10,,,,New York
+Putnam,43,6.0,5-8,,,,New York
+Queens,664,4.0,4-4,4.0,5.0,4.0,New York
+Rensselaer,66,6.0,5-8,,,,New York
+Richmond,130,4.0,3-5,5.0,5.0,3.0,New York
+Rockland,126,5.0,4-6,7.0,7.0,5.0,New York
+Saratoga,115,7.0,6-8,,,,New York
+Schenectady,80,7.0,6-9,,16.0,6.0,New York
+Schoharie,34,16.0,11-22,,,,New York
+Schuyler,10,8.0,4-15,,,,New York
+Seneca,23,10.0,6-15,,,,New York
+St. Lawrence,79,10.0,8-13,,,,New York
+Steuben,60,9.0,7-12,,,,New York
+Suffolk,984,9.0,9-10,12.0,14.0,8.0,New York
+Sullivan,75,14.0,11-17,18.0,,14.0,New York
+Tioga,44,13.0,9-18,,,,New York
+Tompkins,56,8.0,6-10,,,,New York
+Ulster,119,9.0,8-11,8.0,,10.0,New York
+Warren,39,9.0,6-12,,,,New York
+Washington,58,14.0,10-18,,,,New York
+Wayne,80,13.0,10-16,,,,New York
+Westchester,285,4.0,4-5,5.0,6.0,4.0,New York
+Wyoming,33,12.0,8-17,,,,New York
+Yates,24,14.0,9-21,,,,New York
+Alamance,177,15.0,13-17,12.0,20.0,15.0,North Carolina
+Alexander,54,21.0,16-27,,,,North Carolina
+Alleghany,20,26.0,16-40,,,,North Carolina
+Anson,55,33.0,25-44,,32.0,37.0,North Carolina
+Ashe,28,15.0,10-21,,,,North Carolina
+Avery,18,15.0,9-23,,,,North Carolina
+Beaufort,60,19.0,14-24,,28.0,17.0,North Carolina
+Bertie,37,29.0,20-40,,32.0,23.0,North Carolina
+Bladen,94,43.0,34-52,,48.0,39.0,North Carolina
+Brunswick,188,18.0,16-21,,32.0,17.0,North Carolina
+Buncombe,234,13.0,11-14,10.0,25.0,12.0,North Carolina
+Burke,119,19.0,16-22,,25.0,20.0,North Carolina
+Cabarrus,197,13.0,11-14,14.0,20.0,11.0,North Carolina
+Caldwell,90,16.0,13-19,,,,North Carolina
+Camden,,,,,,,North Carolina
+Carteret,73,15.0,12-19,,,,North Carolina
+Caswell,49,31.0,23-41,,22.0,36.0,North Carolina
+Catawba,195,17.0,15-20,10.0,20.0,18.0,North Carolina
+Chatham,92,17.0,14-21,18.0,16.0,18.0,North Carolina
+Cherokee,45,22.0,16-30,,,,North Carolina
+Chowan,19,19.0,12-30,,,,North Carolina
+Clay,,,,,,,North Carolina
+Cleveland,158,23.0,19-26,,20.0,25.0,North Carolina
+Columbus,136,37.0,30-43,,43.0,35.0,North Carolina
+Craven,101,14.0,11-17,,16.0,15.0,North Carolina
+Cumberland,467,20.0,18-22,17.0,24.0,20.0,North Carolina
+Currituck,20,10.0,6-15,,,,North Carolina
+Dare,22,8.0,5-13,,,,North Carolina
+Davidson,218,18.0,16-21,12.0,14.0,20.0,North Carolina
+Davie,37,12.0,9-17,,,,North Carolina
+Duplin,131,34.0,28-40,27.0,48.0,32.0,North Carolina
+Durham,245,11.0,9-12,12.0,14.0,8.0,North Carolina
+Edgecombe,123,35.0,29-41,,38.0,31.0,North Carolina
+Forsyth,337,13.0,11-14,13.0,13.0,13.0,North Carolina
+Franklin,120,24.0,20-28,,27.0,26.0,North Carolina
+Gaston,250,16.0,14-18,8.0,17.0,17.0,North Carolina
+Gates,35,45.0,32-63,,68.0,37.0,North Carolina
+Graham,11,19.0,9-34,,,,North Carolina
+Granville,98,23.0,19-28,,25.0,23.0,North Carolina
+Greene,30,21.0,14-29,,19.0,24.0,North Carolina
+Guilford,515,14.0,12-15,13.0,18.0,12.0,North Carolina
+Halifax,110,32.0,26-38,,40.0,24.0,North Carolina
+Harnett,209,22.0,19-25,16.0,25.0,23.0,North Carolina
+Haywood,73,17.0,13-21,,,,North Carolina
+Henderson,105,13.0,10-15,11.0,,13.0,North Carolina
+Hertford,40,26.0,18-35,,27.0,27.0,North Carolina
+Hoke,94,25.0,20-30,,30.0,20.0,North Carolina
+Hyde,,,,,,,North Carolina
+Iredell,172,13.0,11-15,,23.0,13.0,North Carolina
+Jackson,42,14.0,10-19,,,,North Carolina
+Johnston,261,17.0,15-19,14.0,22.0,17.0,North Carolina
+Jones,21,32.0,20-49,,,,North Carolina
+Lee,105,24.0,19-28,18.0,30.0,24.0,North Carolina
+Lenoir,94,24.0,20-30,34.0,21.0,26.0,North Carolina
+Lincoln,97,16.0,13-19,,,,North Carolina
+Macon,44,17.0,12-23,,,,North Carolina
+Madison,33,22.0,15-30,,,,North Carolina
+Martin,30,19.0,13-28,,25.0,17.0,North Carolina
+McDowell,44,14.0,10-19,,,,North Carolina
+Mecklenburg,750,10.0,9-10,11.0,14.0,7.0,North Carolina
+Mitchell,20,19.0,12-29,,,,North Carolina
+Montgomery,68,36.0,28-46,,60.0,35.0,North Carolina
+Moore,143,20.0,17-23,21.0,31.0,19.0,North Carolina
+Nash,136,20.0,17-24,20.0,19.0,22.0,North Carolina
+New Hanover,193,12.0,10-13,10.0,20.0,11.0,North Carolina
+Northampton,37,29.0,20-40,,35.0,20.0,North Carolina
+Onslow,203,14.0,12-16,8.0,15.0,16.0,North Carolina
+Orange,90,9.0,7-11,12.0,13.0,8.0,North Carolina
+Pamlico,19,22.0,13-34,,,,North Carolina
+Pasquotank,45,16.0,12-21,,16.0,18.0,North Carolina
+Pender,94,21.0,17-26,,44.0,17.0,North Carolina
+Perquimans,15,16.0,9-26,,,,North Carolina
+Person,57,21.0,16-27,,26.0,20.0,North Carolina
+Pitt,188,15.0,13-17,13.0,20.0,13.0,North Carolina
+Polk,25,18.0,11-26,,,,North Carolina
+Randolph,211,21.0,18-24,14.0,28.0,22.0,North Carolina
+Richmond,70,23.0,18-29,,30.0,20.0,North Carolina
+Robeson,401,46.0,41-50,26.0,39.0,40.0,North Carolina
+Rockingham,121,19.0,16-22,,17.0,21.0,North Carolina
+Rowan,197,19.0,17-22,10.0,25.0,20.0,North Carolina
+Rutherford,109,24.0,19-28,,,,North Carolina
+Sampson,131,30.0,25-36,25.0,39.0,30.0,North Carolina
+Scotland,75,31.0,24-39,,28.0,30.0,North Carolina
+Stanly,89,20.0,16-25,,20.0,21.0,North Carolina
+Stokes,72,23.0,18-29,,,,North Carolina
+Surry,98,20.0,16-24,,,,North Carolina
+Swain,17,17.0,10-27,,,,North Carolina
+Transylvania,26,11.0,7-16,,,,North Carolina
+Tyrrell,,,,,,,North Carolina
+Union,189,11.0,10-13,14.0,17.0,10.0,North Carolina
+Vance,95,31.0,25-38,,36.0,27.0,North Carolina
+Wake,626,8.0,7-9,10.0,14.0,6.0,North Carolina
+Warren,48,35.0,26-47,,43.0,31.0,North Carolina
+Washington,19,24.0,14-37,,,,North Carolina
+Watauga,34,9.0,6-12,,,,North Carolina
+Wayne,162,19.0,16-22,22.0,16.0,21.0,North Carolina
+Wilkes,103,22.0,18-26,30.0,,20.0,North Carolina
+Wilson,112,20.0,16-24,16.0,27.0,16.0,North Carolina
+Yadkin,66,25.0,19-32,,,,North Carolina
+Yancey,22,17.0,11-26,,,,North Carolina
+Adams,,,,,,,North Dakota
+Barnes,,,,,,,North Dakota
+Benson,24.0,54.0,34-80,,,,North Dakota
+Billings,,,,,,,North Dakota
+Bottineau,,,,,,,North Dakota
+Bowman,,,,,,,North Dakota
+Burke,,,,,,,North Dakota
+Burleigh,53.0,8.0,6-10,,,,North Dakota
+Cass,82.0,6.0,5-8,,,,North Dakota
+Cavalier,,,,,,,North Dakota
+Dickey,,,,,,,North Dakota
+Divide,,,,,,,North Dakota
+Dunn,,,,,,,North Dakota
+Eddy,,,,,,,North Dakota
+Emmons,,,,,,,North Dakota
+Foster,,,,,,,North Dakota
+Golden Valley,,,,,,,North Dakota
+Grand Forks,57.0,11.0,9-15,,,,North Dakota
+Grant,,,,,,,North Dakota
+Griggs,,,,,,,North Dakota
+Hettinger,,,,,,,North Dakota
+Kidder,,,,,,,North Dakota
+LaMoure,,,,,,,North Dakota
+Logan,,,,,,,North Dakota
+McHenry,11.0,28.0,14-51,,,,North Dakota
+McIntosh,,,,,,,North Dakota
+McKenzie,30.0,30.0,21-43,,,,North Dakota
+McLean,15.0,22.0,12-37,,,,North Dakota
+Mercer,12.0,21.0,11-36,,,,North Dakota
+Morton,25.0,11.0,7-16,,,,North Dakota
+Mountrail,38.0,54.0,39-75,,,52.0,North Dakota
+Nelson,,,,,,,North Dakota
+Oliver,,,,,,,North Dakota
+Pembina,12.0,25.0,13-44,,,,North Dakota
+Pierce,,,,,,,North Dakota
+Ramsey,15.0,19.0,10-31,,,,North Dakota
+Ransom,,,,,,,North Dakota
+Renville,,,,,,,North Dakota
+Richland,20.0,17.0,11-27,,,,North Dakota
+Rolette,45.0,48.0,35-65,,,,North Dakota
+Sargent,,,,,,,North Dakota
+Sheridan,,,,,,,North Dakota
+Sioux,10.0,35.0,17-65,,,,North Dakota
+Slope,,,,,,,North Dakota
+Stark,33.0,15.0,10-21,,,,North Dakota
+Steele,,,,,,,North Dakota
+Stutsman,17.0,12.0,7-18,,,,North Dakota
+Towner,,,,,,,North Dakota
+Traill,,,,,,,North Dakota
+Walsh,13.0,18.0,9-30,,,,North Dakota
+Ward,53.0,11.0,8-14,,,,North Dakota
+Wells,,,,,,,North Dakota
+Williams,49.0,19.0,14-25,,,,North Dakota
+Adams,31,16.0,11-23,,,,Ohio
+Allen,85,12.0,10-15,,16.0,12.0,Ohio
+Ashland,54,15.0,11-19,,,,Ohio
+Ashtabula,114,17.0,14-20,,,,Ohio
+Athens,55,12.0,9-16,,,,Ohio
+Auglaize,36,11.0,8-16,,,,Ohio
+Belmont,46,10.0,7-13,,,,Ohio
+Brown,48,16.0,12-21,,,,Ohio
+Butler,242,9.0,8-10,10.0,10.0,9.0,Ohio
+Carroll,37,20.0,14-27,,,,Ohio
+Champaign,36,13.0,9-18,,,,Ohio
+Clark,152,16.0,14-19,,20.0,16.0,Ohio
+Clermont,148,10.0,9-12,,,,Ohio
+Clinton,43,15.0,11-20,,,,Ohio
+Columbiana,95,13.0,11-16,,,,Ohio
+Coshocton,43,17.0,12-23,,,,Ohio
+Crawford,45,15.0,11-21,,,,Ohio
+Cuyahoga,759,9.0,8-9,8.0,15.0,6.0,Ohio
+Darke,65,18.0,14-23,,,,Ohio
+Defiance,43,16.0,12-22,,,,Ohio
+Delaware,86,6.0,5-7,,,,Ohio
+Erie,55,11.0,8-14,,,,Ohio
+Fairfield,147,13.0,11-15,,11.0,14.0,Ohio
+Fayette,33,16.0,11-23,,,,Ohio
+Franklin,942,10.0,10-11,11.0,15.0,9.0,Ohio
+Fulton,57,19.0,15-25,,,,Ohio
+Gallia,43,21.0,15-28,,,,Ohio
+Geauga,59,9.0,7-12,,,,Ohio
+Greene,103,9.0,7-10,,,,Ohio
+Guernsey,40,15.0,11-20,,,,Ohio
+Hamilton,507,9.0,8-10,7.0,14.0,7.0,Ohio
+Hancock,62,12.0,9-15,,,,Ohio
+Hardin,35,16.0,11-22,,,,Ohio
+Harrison,22,21.0,13-32,,,,Ohio
+Henry,34,18.0,12-25,,,,Ohio
+Highland,53,18.0,13-23,,,,Ohio
+Hocking,38,19.0,14-27,,,,Ohio
+Holmes,28,9.0,6-13,,,,Ohio
+Huron,63,15.0,12-20,,,,Ohio
+Jackson,52,23.0,17-30,,,,Ohio
+Jefferson,45,10.0,7-13,,,,Ohio
+Knox,51,12.0,9-15,,,,Ohio
+Lake,105,6.0,5-8,,14.0,6.0,Ohio
+Lawrence,64,16.0,12-20,,,,Ohio
+Licking,144,12.0,10-13,,,,Ohio
+Logan,63,20.0,15-25,,,,Ohio
+Lorain,185,8.0,7-10,10.0,12.0,8.0,Ohio
+Lucas,372,12.0,11-14,12.0,16.0,12.0,Ohio
+Madison,40,13.0,9-18,,,,Ohio
+Mahoning,160,10.0,8-12,,14.0,10.0,Ohio
+Marion,79,17.0,14-22,,,,Ohio
+Medina,96,8.0,6-9,,,,Ohio
+Meigs,28,18.0,12-26,,,,Ohio
+Mercer,46,16.0,12-21,,,,Ohio
+Miami,91,12.0,10-15,,,,Ohio
+Monroe,25,26.0,17-39,,,,Ohio
+Montgomery,495,13.0,12-14,8.0,23.0,11.0,Ohio
+Morgan,19,19.0,12-30,,,,Ohio
+Morrow,47,19.0,14-25,,,,Ohio
+Muskingum,90,15.0,12-18,,,,Ohio
+Noble,12,12.0,6-21,,,,Ohio
+Ottawa,37,13.0,9-18,,,,Ohio
+Paulding,28,21.0,14-31,,,,Ohio
+Perry,48,19.0,14-25,,,,Ohio
+Pickaway,52,13.0,9-16,,,,Ohio
+Pike,47,24.0,18-32,,,,Ohio
+Portage,111,10.0,8-12,,,,Ohio
+Preble,60,21.0,16-27,,,,Ohio
+Putnam,20,8.0,5-13,,,,Ohio
+Richland,105,12.0,10-15,,,,Ohio
+Ross,83,15.0,12-19,,,,Ohio
+Sandusky,68,17.0,13-21,,,,Ohio
+Scioto,79,15.0,12-19,,,,Ohio
+Seneca,40,10.0,7-14,,,,Ohio
+Shelby,48,14.0,10-19,,,,Ohio
+Stark,260,10.0,9-11,,16.0,10.0,Ohio
+Summit,342,9.0,8-10,,14.0,9.0,Ohio
+Trumbull,153,11.0,9-13,,19.0,11.0,Ohio
+Tuscarawas,83,13.0,10-16,,,,Ohio
+Union,34,8.0,5-11,,,,Ohio
+Van Wert,20,10.0,6-16,,,,Ohio
+Vinton,23,26.0,16-38,,,,Ohio
+Warren,139,8.0,7-10,,,,Ohio
+Washington,57,14.0,10-18,,,,Ohio
+Wayne,124,15.0,13-18,,,,Ohio
+Williams,56,22.0,16-28,,,,Ohio
+Wood,93,10.0,8-12,,,,Ohio
+Wyandot,36,24.0,17-33,,,,Ohio
+Adair,50,34.0,25-45,,,30.0,Oklahoma
+Alfalfa,11,27.0,14-49,,,,Oklahoma
+Atoka,22,22.0,14-34,,,,Oklahoma
+Beaver,21,58.0,36-89,,,,Oklahoma
+Beckham,31,20.0,14-29,,,,Oklahoma
+Blaine,25,39.0,26-58,,,,Oklahoma
+Bryan,85,25.0,20-31,,,27.0,Oklahoma
+Caddo,52,27.0,20-35,,,25.0,Oklahoma
+Canadian,126,12.0,10-14,,,12.0,Oklahoma
+Carter,71,21.0,16-26,,,,Oklahoma
+Cherokee,63,19.0,14-24,,,18.0,Oklahoma
+Choctaw,36,35.0,25-49,,97.0,30.0,Oklahoma
+Cimarron,,,,,,,Oklahoma
+Cleveland,206,10.0,9-12,8.0,11.0,11.0,Oklahoma
+Coal,18,47.0,28-75,,,,Oklahoma
+Comanche,113,13.0,11-16,9.0,17.0,14.0,Oklahoma
+Cotton,10,25.0,12-47,,,,Oklahoma
+Craig,32,32.0,22-45,,,32.0,Oklahoma
+Creek,104,21.0,17-25,,,,Oklahoma
+Custer,45,23.0,16-30,,,,Oklahoma
+Delaware,72,24.0,19-31,,,25.0,Oklahoma
+Dewey,14,43.0,23-72,,,,Oklahoma
+Ellis,,,,,,,Oklahoma
+Garfield,72,17.0,13-21,,,,Oklahoma
+Garvin,63,33.0,26-43,,,,Oklahoma
+Grady,67,17.0,13-22,,,,Oklahoma
+Grant,,,,,,,Oklahoma
+Greer,,,,,,,Oklahoma
+Harmon,,,,,,,Oklahoma
+Harper,,,,,,,Oklahoma
+Haskell,24,28.0,18-42,,,,Oklahoma
+Hughes,39,42.0,30-57,,,38.0,Oklahoma
+Jackson,35,20.0,14-28,,,,Oklahoma
+Jefferson,12,30.0,15-52,,,,Oklahoma
+Johnston,47,63.0,46-84,,,51.0,Oklahoma
+Kay,49,16.0,12-21,,,,Oklahoma
+Kingfisher,22,20.0,13-31,,,,Oklahoma
+Kiowa,14,23.0,13-39,,,,Oklahoma
+Latimer,18,26.0,15-41,,,,Oklahoma
+Le Flore,100,29.0,23-35,,,30.0,Oklahoma
+Lincoln,68,28.0,22-36,,,,Oklahoma
+Logan,62,18.0,14-23,,,,Oklahoma
+Love,23,32.0,20-48,,,,Oklahoma
+Major,19,36.0,21-56,,,,Oklahoma
+Marshall,28,24.0,16-35,,,,Oklahoma
+Mayes,60,21.0,16-27,,,22.0,Oklahoma
+McClain,63,21.0,16-27,,,,Oklahoma
+McCurtain,78,35.0,28-44,,63.0,31.0,Oklahoma
+McIntosh,41,30.0,21-41,,,25.0,Oklahoma
+Murray,33,34.0,23-48,,,,Oklahoma
+Muskogee,88,19.0,15-23,,21.0,20.0,Oklahoma
+Noble,20,26.0,16-40,,,,Oklahoma
+Nowata,18,26.0,15-41,,,,Oklahoma
+Okfuskee,29,36.0,24-51,,,,Oklahoma
+Oklahoma,795,14.0,13-15,10.0,20.0,14.0,Oklahoma
+Okmulgee,56,21.0,16-27,,,24.0,Oklahoma
+Osage,66,20.0,16-26,,,,Oklahoma
+Ottawa,74,34.0,27-43,,,38.0,Oklahoma
+Pawnee,27,24.0,16-35,,,,Oklahoma
+Payne,80,14.0,11-17,,,,Oklahoma
+Pittsburg,77,25.0,20-31,,,,Oklahoma
+Pontotoc,68,25.0,20-32,,,26.0,Oklahoma
+Pottawatomie,107,21.0,17-25,,,21.0,Oklahoma
+Pushmataha,33,43.0,30-60,,,,Oklahoma
+Roger Mills,,,,,,,Oklahoma
+Rogers,100,15.0,12-18,,,,Oklahoma
+Seminole,54,32.0,24-42,,,31.0,Oklahoma
+Sequoyah,62,22.0,17-28,,,,Oklahoma
+Stephens,64,21.0,16-27,,,,Oklahoma
+Texas,34,24.0,16-33,31.0,,20.0,Oklahoma
+Tillman,11,22.0,11-39,,,,Oklahoma
+Tulsa,654,14.0,13-15,12.0,19.0,13.0,Oklahoma
+Wagoner,86,15.0,12-18,,,14.0,Oklahoma
+Washington,45,12.0,9-16,,,,Oklahoma
+Washita,20,26.0,16-40,,,,Oklahoma
+Woods,12,20.0,10-34,,,,Oklahoma
+Woodward,27,19.0,13-28,,,,Oklahoma
+Baker,21,18.0,11-28,,,,Oregon
+Benton,47,7.0,5-9,,,,Oregon
+Clackamas,305,10.0,9-12,11.0,,11.0,Oregon
+Clatsop,66,23.0,18-30,,,,Oregon
+Columbia,60,16.0,12-21,,,,Oregon
+Coos,98,22.0,18-26,,,,Oregon
+Crook,30,17.0,12-24,,,,Oregon
+Curry,43,26.0,19-36,,,,Oregon
+Deschutes,179,13.0,11-15,8.0,,13.0,Oregon
+Douglas,173,22.0,19-26,20.0,,23.0,Oregon
+Gilliam,,,,,,,Oregon
+Grant,,,,,,,Oregon
+Harney,11,21.0,11-38,,,,Oregon
+Hood River,12,7.0,4-13,,,,Oregon
+Jackson,203,13.0,11-15,9.0,,14.0,Oregon
+Jefferson,58,33.0,25-43,34.0,,22.0,Oregon
+Josephine,128,21.0,17-24,,,,Oregon
+Klamath,116,24.0,20-28,18.0,,25.0,Oregon
+Lake,18,32.0,19-50,,,,Oregon
+Lane,349,13.0,12-14,9.0,,14.0,Oregon
+Lincoln,69,20.0,15-25,,,,Oregon
+Linn,165,18.0,15-21,17.0,,19.0,Oregon
+Malheur,31,14.0,10-20,,,,Oregon
+Marion,347,14.0,13-16,14.0,,15.0,Oregon
+Morrow,13,16.0,8-27,,,,Oregon
+Multnomah,520,9.0,8-10,8.0,13.0,10.0,Oregon
+Polk,74,12.0,10-15,,,,Oregon
+Sherman,,,,,,,Oregon
+Tillamook,47,25.0,18-33,,,,Oregon
+Umatilla,75,14.0,11-17,17.0,,11.0,Oregon
+Union,28,15.0,10-22,,,,Oregon
+Wallowa,10,19.0,9-36,,,,Oregon
+Wasco,27,15.0,10-21,,,,Oregon
+Washington,261,6.0,5-7,8.0,,6.0,Oregon
+Wheeler,,,,,,,Oregon
+Yamhill,85,11.0,9-14,8.0,,13.0,Oregon
+Adams,80,11.0,9-14,,,,Pennsylvania
+Allegheny,552,6.0,6-7,,12.0,6.0,Pennsylvania
+Armstrong,51,11.0,8-15,,,,Pennsylvania
+Beaver,104,9.0,7-11,,,,Pennsylvania
+Bedford,57,17.0,13-22,,,,Pennsylvania
+Berks,319,11.0,10-12,9.0,11.0,11.0,Pennsylvania
+Blair,89,10.0,8-13,,,,Pennsylvania
+Bradford,67,16.0,12-20,,,,Pennsylvania
+Bucks,366,8.0,7-9,5.0,11.0,9.0,Pennsylvania
+Butler,125,9.0,8-11,,,,Pennsylvania
+Cambria,100,11.0,9-13,,,,Pennsylvania
+Cameron,,,,,,,Pennsylvania
+Carbon,60,13.0,10-17,,,,Pennsylvania
+Centre,82,7.0,6-9,,,,Pennsylvania
+Chester,237,6.0,6-7,6.0,13.0,6.0,Pennsylvania
+Clarion,44,17.0,12-22,,,,Pennsylvania
+Clearfield,85,15.0,12-19,,,,Pennsylvania
+Clinton,32,12.0,8-17,,,,Pennsylvania
+Columbia,50,11.0,8-14,,,,Pennsylvania
+Crawford,85,14.0,12-18,,,,Pennsylvania
+Cumberland,135,7.0,6-9,,,,Pennsylvania
+Dauphin,216,11.0,9-12,16.0,10.0,11.0,Pennsylvania
+Delaware,282,7.0,6-8,12.0,11.0,6.0,Pennsylvania
+Elk,25,12.0,8-17,,,,Pennsylvania
+Erie,185,10.0,8-11,,19.0,10.0,Pennsylvania
+Fayette,138,15.0,13-18,,,,Pennsylvania
+Forest,,,,,,,Pennsylvania
+Franklin,147,13.0,11-16,,,,Pennsylvania
+Fulton,21,21.0,13-32,,,,Pennsylvania
+Greene,39,16.0,11-21,,,,Pennsylvania
+Huntingdon,50,16.0,12-21,,,,Pennsylvania
+Indiana,74,13.0,10-16,,,,Pennsylvania
+Jefferson,36,12.0,8-16,,,,Pennsylvania
+Juniata,20,12.0,7-18,,,,Pennsylvania
+Lackawanna,165,11.0,9-13,,,,Pennsylvania
+Lancaster,403,10.0,9-11,9.0,16.0,11.0,Pennsylvania
+Lawrence,94,16.0,13-19,,,,Pennsylvania
+Lebanon,122,12.0,10-14,12.0,,12.0,Pennsylvania
+Lehigh,195,7.0,6-9,8.0,8.0,8.0,Pennsylvania
+Luzerne,223,10.0,9-11,7.0,,11.0,Pennsylvania
+Lycoming,94,12.0,10-14,,,,Pennsylvania
+McKean,35,12.0,9-17,,,,Pennsylvania
+Mercer,97,13.0,10-15,,,,Pennsylvania
+Mifflin,56,17.0,13-23,,,,Pennsylvania
+Monroe,134,11.0,9-13,10.0,11.0,12.0,Pennsylvania
+Montgomery,344,6.0,5-6,6.0,11.0,6.0,Pennsylvania
+Montour,10,8.0,4-15,,,,Pennsylvania
+Northampton,169,8.0,7-9,7.0,9.0,8.0,Pennsylvania
+Northumberland,75,12.0,9-15,,,,Pennsylvania
+Perry,54,17.0,13-22,,,,Pennsylvania
+Philadelphia,995,9.0,8-10,11.0,10.0,8.0,Pennsylvania
+Pike,68,17.0,13-21,,,,Pennsylvania
+Potter,21,18.0,11-28,,,,Pennsylvania
+Schuylkill,165,17.0,14-19,,,,Pennsylvania
+Snyder,44,16.0,11-21,,,,Pennsylvania
+Somerset,77,15.0,12-19,,,,Pennsylvania
+Sullivan,13,31.0,17-53,,,,Pennsylvania
+Susquehanna,38,14.0,10-19,,,,Pennsylvania
+Tioga,39,14.0,10-19,,,,Pennsylvania
+Union,22,7.0,5-11,,,,Pennsylvania
+Venango,55,16.0,12-20,,,,Pennsylvania
+Warren,35,13.0,9-18,,,,Pennsylvania
+Washington,165,11.0,10-13,,24.0,11.0,Pennsylvania
+Wayne,56,16.0,12-20,,,,Pennsylvania
+Westmoreland,232,9.0,8-11,,,,Pennsylvania
+Wyoming,36,19.0,14-27,,,,Pennsylvania
+York,281,9.0,8-10,8.0,6.0,9.0,Pennsylvania
+Bristol,12,3.0,2-6,,,,Rhode Island
+Kent,88,8.0,6-9,,,,Rhode Island
+Newport,27,5.0,3-7,,,,Rhode Island
+Providence,339,7.0,7-8,7.0,8.0,8.0,Rhode Island
+Washington,64,7.0,6-9,,,,Rhode Island
+Abbeville,50,29.0,22-38,,28.0,30.0,South Carolina
+Aiken,218,18.0,16-21,15.0,23.0,18.0,South Carolina
+Allendale,24,42.0,27-62,,,,South Carolina
+Anderson,310,22.0,19-24,,22.0,22.0,South Carolina
+Bamberg,29,30.0,20-44,,32.0,32.0,South Carolina
+Barnwell,37,25.0,18-35,,30.0,22.0,South Carolina
+Beaufort,177,13.0,11-15,11.0,23.0,11.0,South Carolina
+Berkeley,318,19.0,17-22,13.0,28.0,18.0,South Carolina
+Calhoun,42,42.0,30-56,,48.0,42.0,South Carolina
+Charleston,456,16.0,14-17,27.0,26.0,11.0,South Carolina
+Cherokee,109,27.0,22-33,,24.0,31.0,South Carolina
+Chester,77,34.0,27-43,,36.0,36.0,South Carolina
+Chesterfield,97,31.0,25-38,,35.0,30.0,South Carolina
+Clarendon,71,31.0,24-39,,32.0,32.0,South Carolina
+Colleton,127,48.0,39-56,98.0,55.0,41.0,South Carolina
+Darlington,146,32.0,27-37,,37.0,29.0,South Carolina
+Dillon,56,27.0,21-35,,28.0,28.0,South Carolina
+Dorchester,188,16.0,14-19,,23.0,15.0,South Carolina
+Edgefield,34,18.0,12-25,,22.0,15.0,South Carolina
+Fairfield,70,46.0,36-59,,58.0,36.0,South Carolina
+Florence,253,26.0,23-30,,27.0,26.0,South Carolina
+Georgetown,104,23.0,19-28,,34.0,20.0,South Carolina
+Greenville,640,17.0,16-19,17.0,22.0,17.0,South Carolina
+Greenwood,117,24.0,20-28,,30.0,22.0,South Carolina
+Hampton,53,41.0,30-53,,46.0,35.0,South Carolina
+Horry,481,19.0,17-21,16.0,28.0,18.0,South Carolina
+Jasper,77,36.0,28-45,49.0,41.0,29.0,South Carolina
+Kershaw,120,26.0,21-30,,25.0,28.0,South Carolina
+Lancaster,161,23.0,19-27,,31.0,21.0,South Carolina
+Laurens,140,30.0,25-34,,36.0,29.0,South Carolina
+Lee,50,43.0,32-57,,45.0,39.0,South Carolina
+Lexington,369,18.0,16-19,12.0,23.0,18.0,South Carolina
+Marion,63,30.0,23-39,,31.0,31.0,South Carolina
+Marlboro,66,36.0,28-46,,32.0,45.0,South Carolina
+McCormick,19,28.0,17-44,,,,South Carolina
+Newberry,60,22.0,17-29,,28.0,21.0,South Carolina
+Oconee,107,19.0,16-23,,,,South Carolina
+Orangeburg,238,40.0,35-45,,43.0,40.0,South Carolina
+Pickens,158,17.0,15-20,,18.0,18.0,South Carolina
+Richland,479,16.0,15-18,21.0,20.0,13.0,South Carolina
+Saluda,34,25.0,17-34,,37.0,21.0,South Carolina
+Spartanburg,465,20.0,18-22,15.0,24.0,20.0,South Carolina
+Sumter,193,26.0,22-30,,29.0,24.0,South Carolina
+Union,58,31.0,23-40,,34.0,30.0,South Carolina
+Williamsburg,81,38.0,30-47,,42.0,37.0,South Carolina
+York,281,14.0,12-16,9.0,18.0,14.0,South Carolina
+Aurora,,,,,,,South Dakota
+Beadle,16,12.0,7-20,,,,South Dakota
+Bennett,,,,,,,South Dakota
+Bon Homme,12,25.0,13-43,,,,South Dakota
+Brookings,17,7.0,4-11,,,,South Dakota
+Brown,24,9.0,6-13,,,,South Dakota
+Brule,,,,,,,South Dakota
+Buffalo,13,95.0,51-163,,,,South Dakota
+Butte,14,19.0,10-32,,,,South Dakota
+Campbell,,,,,,,South Dakota
+Charles Mix,20,31.0,19-48,,,,South Dakota
+Clark,,,,,,,South Dakota
+Clay,15,15.0,8-24,,,,South Dakota
+Codington,29,15.0,10-21,,,,South Dakota
+Corson,16,57.0,33-93,,,,South Dakota
+Custer,19,31.0,18-48,,,,South Dakota
+Davison,17,12.0,7-20,,,,South Dakota
+Day,,,,,,,South Dakota
+Deuel,,,,,,,South Dakota
+Dewey,27,69.0,46-101,,,,South Dakota
+Douglas,,,,,,,South Dakota
+Edmunds,,,,,,,South Dakota
+Fall River,13,27.0,14-46,,,,South Dakota
+Faulk,,,,,,,South Dakota
+Grant,15,30.0,17-49,,,,South Dakota
+Gregory,,,,,,,South Dakota
+Haakon,,,,,,,South Dakota
+Hamlin,,,,,,,South Dakota
+Hand,,,,,,,South Dakota
+Hanson,,,,,,,South Dakota
+Harding,,,,,,,South Dakota
+Hughes,18,15.0,9-23,,,,South Dakota
+Hutchinson,12,23.0,12-41,,,,South Dakota
+Hyde,,,,,,,South Dakota
+Jackson,18,83.0,49-131,,,,South Dakota
+Jerauld,,,,,,,South Dakota
+Jones,,,,,,,South Dakota
+Kingsbury,,,,,,,South Dakota
+Lake,,,,,,,South Dakota
+Lawrence,25,14.0,9-20,,,,South Dakota
+Lincoln,38,8.0,6-12,,,,South Dakota
+Lyman,,,,,,,South Dakota
+Marshall,,,,,,,South Dakota
+McCook,,,,,,,South Dakota
+McPherson,,,,,,,South Dakota
+Meade,28,14.0,9-20,,,,South Dakota
+Mellette,,,,,,,South Dakota
+Miner,,,,,,,South Dakota
+Minnehaha,157,11.0,10-13,,15.0,11.0,South Dakota
+Moody,,,,,,,South Dakota
+Oglala Lakota,82,84.0,67-104,,,,South Dakota
+Pennington,109,14.0,11-16,,,11.0,South Dakota
+Perkins,,,,,,,South Dakota
+Potter,,,,,,,South Dakota
+Roberts,26,36.0,24-53,,,,South Dakota
+Sanborn,,,,,,,South Dakota
+Spink,,,,,,,South Dakota
+Stanley,,,,,,,South Dakota
+Sully,,,,,,,South Dakota
+Todd,57,83.0,63-108,,,,South Dakota
+Tripp,,,,,,,South Dakota
+Turner,14,23.0,13-39,,,,South Dakota
+Union,,,,,,,South Dakota
+Walworth,11,29.0,15-52,,,,South Dakota
+Yankton,24,15.0,10-22,,,,South Dakota
+Ziebach,,,,,,,South Dakota
+Anderson,76,14.0,11-17,,,,Tennessee
+Bedford,64,18.0,14-23,21.0,,20.0,Tennessee
+Benton,37,33.0,23-45,,,,Tennessee
+Bledsoe,33,31.0,22-44,,,,Tennessee
+Blount,128,14.0,11-16,,,,Tennessee
+Bradley,102,13.0,11-16,,,,Tennessee
+Campbell,58,21.0,16-27,,,,Tennessee
+Cannon,32,31.0,21-44,,,,Tennessee
+Carroll,49,25.0,18-33,,,,Tennessee
+Carter,64,16.0,12-21,,,,Tennessee
+Cheatham,77,27.0,21-33,,,,Tennessee
+Chester,24,20.0,13-29,,,,Tennessee
+Claiborne,43,19.0,14-26,,,,Tennessee
+Clay,15,28.0,16-46,,,,Tennessee
+Cocke,65,26.0,20-33,,,,Tennessee
+Coffee,83,21.0,16-25,,,,Tennessee
+Crockett,34,34.0,24-48,,,,Tennessee
+Cumberland,86,20.0,16-25,,,,Tennessee
+Davidson,697,14.0,13-15,19.0,19.0,12.0,Tennessee
+Decatur,21,26.0,16-39,,,,Tennessee
+DeKalb,27,19.0,12-27,,,,Tennessee
+Dickson,67,18.0,14-22,,,,Tennessee
+Dyer,57,22.0,17-29,,,,Tennessee
+Fayette,63,21.0,16-27,,44.0,13.0,Tennessee
+Fentress,35,27.0,19-37,,,,Tennessee
+Franklin,52,17.0,13-23,,,,Tennessee
+Gibson,90,26.0,21-32,,27.0,27.0,Tennessee
+Giles,58,28.0,21-36,,,,Tennessee
+Grainger,44,27.0,19-36,,,,Tennessee
+Greene,118,24.0,20-28,,,,Tennessee
+Grundy,27,28.0,19-41,,,,Tennessee
+Hamblen,57,13.0,9-16,,,,Tennessee
+Hamilton,312,12.0,11-13,,17.0,12.0,Tennessee
+Hancock,14,30.0,16-50,,,,Tennessee
+Hardeman,55,31.0,23-40,,39.0,27.0,Tennessee
+Hardin,45,24.0,18-33,,,,Tennessee
+Hawkins,81,20.0,16-25,,,,Tennessee
+Haywood,35,29.0,20-40,,21.0,41.0,Tennessee
+Henderson,57,29.0,22-38,,,,Tennessee
+Henry,55,24.0,18-32,,,,Tennessee
+Hickman,60,34.0,26-44,,,,Tennessee
+Houston,14,24.0,13-41,,,,Tennessee
+Humphreys,36,27.0,19-38,,,,Tennessee
+Jackson,17,20.0,12-33,,,,Tennessee
+Jefferson,57,15.0,11-19,,,,Tennessee
+Johnson,36,29.0,20-40,,,,Tennessee
+Knox,436,13.0,12-14,15.0,19.0,13.0,Tennessee
+Lake,14,29.0,16-48,,,,Tennessee
+Lauderdale,46,26.0,19-35,,18.0,32.0,Tennessee
+Lawrence,48,15.0,11-20,,,,Tennessee
+Lewis,28,32.0,21-46,,,,Tennessee
+Lincoln,57,23.0,18-30,,,,Tennessee
+Loudon,56,14.0,11-19,,,,Tennessee
+Macon,43,24.0,18-33,,,,Tennessee
+Madison,107,16.0,13-18,,19.0,14.0,Tennessee
+Marion,68,34.0,26-43,,,,Tennessee
+Marshall,44,18.0,13-24,,,,Tennessee
+Maury,107,15.0,12-18,,20.0,14.0,Tennessee
+McMinn,92,24.0,20-30,,,,Tennessee
+McNairy,54,30.0,22-39,,,,Tennessee
+Meigs,36,40.0,28-56,,,,Tennessee
+Monroe,107,32.0,26-39,,,,Tennessee
+Montgomery,236,15.0,13-17,10.0,14.0,18.0,Tennessee
+Moore,10,22.0,10-40,,,,Tennessee
+Morgan,41,27.0,20-37,,,,Tennessee
+Obion,28,13.0,9-19,,,,Tennessee
+Overton,32,20.0,14-29,,,,Tennessee
+Perry,24,41.0,26-61,,,,Tennessee
+Pickett,,,,,,,Tennessee
+Polk,36,30.0,21-41,,,,Tennessee
+Putnam,96,17.0,14-21,,,,Tennessee
+Rhea,42,18.0,13-24,,,,Tennessee
+Roane,72,19.0,15-24,,,,Tennessee
+Robertson,93,18.0,15-22,27.0,26.0,17.0,Tennessee
+Rutherford,291,12.0,11-14,18.0,16.0,11.0,Tennessee
+Scott,46,30.0,22-40,,,,Tennessee
+Sequatchie,23,21.0,13-31,,,,Tennessee
+Sevier,110,16.0,13-19,,,,Tennessee
+Shelby,"1,505",23.0,22-24,22.0,30.0,14.0,Tennessee
+Smith,35,25.0,17-34,,,,Tennessee
+Stewart,19,20.0,12-31,,,,Tennessee
+Sullivan,169,15.0,13-17,,,,Tennessee
+Sumner,159,12.0,10-13,,15.0,12.0,Tennessee
+Tipton,101,23.0,19-28,,32.0,23.0,Tennessee
+Trousdale,10,12.0,6-23,,,,Tennessee
+Unicoi,19,15.0,9-24,,,,Tennessee
+Union,27,19.0,13-28,,,,Tennessee
+Van Buren,,,,,,,Tennessee
+Warren,67,23.0,18-29,,,,Tennessee
+Washington,106,11.0,9-14,,,,Tennessee
+Wayne,34,30.0,20-41,,,,Tennessee
+Weakley,45,19.0,14-26,,,,Tennessee
+White,33,17.0,12-24,,,,Tennessee
+Williamson,131,8.0,6-9,11.0,14.0,8.0,Tennessee
+Wilson,139,13.0,11-16,,,,Tennessee
+Anderson,95,23.0,19-29,21.0,15.0,27.0,Texas
+Andrews,35,27.0,19-38,24.0,,32.0,Texas
+Angelina,127,21.0,17-24,19.0,32.0,19.0,Texas
+Aransas,36,21.0,15-29,,,,Texas
+Archer,21,34.0,21-52,,,,Texas
+Armstrong,,,,,,,Texas
+Atascosa,66,19.0,14-24,17.0,,22.0,Texas
+Austin,48,23.0,17-30,18.0,,23.0,Texas
+Bailey,15,31.0,17-51,,,,Texas
+Bandera,36,23.0,16-31,,,,Texas
+Bastrop,196,29.0,25-33,36.0,,26.0,Texas
+Baylor,,,,,,,Texas
+Bee,38,17.0,12-23,14.0,,27.0,Texas
+Bell,370,14.0,13-16,10.0,17.0,17.0,Texas
+Bexar,"1,648",12.0,11-12,12.0,14.0,12.0,Texas
+Blanco,14,16.0,9-28,,,,Texas
+Borden,,,,,,,Texas
+Bosque,35,27.0,19-37,,,,Texas
+Bowie,127,19.0,16-23,,27.0,18.0,Texas
+Brazoria,336,13.0,11-14,10.0,10.0,17.0,Texas
+Brazos,148,9.0,8-11,12.0,10.0,8.0,Texas
+Brewster,10,15.0,7-28,,,,Texas
+Briscoe,,,,,,,Texas
+Brooks,11,22.0,11-40,,,,Texas
+Brown,60,22.0,17-29,21.0,,24.0,Texas
+Burleson,36,28.0,19-38,,,,Texas
+Burnet,81,23.0,18-29,21.0,,25.0,Texas
+Caldwell,84,26.0,21-33,26.0,,28.0,Texas
+Calhoun,36,25.0,17-34,29.0,,25.0,Texas
+Callahan,29,29.0,20-42,,,,Texas
+Cameron,304,10.0,9-11,10.0,,14.0,Texas
+Camp,33,37.0,25-51,,,,Texas
+Carson,14,34.0,19-57,,,,Texas
+Cass,62,30.0,23-39,,35.0,29.0,Texas
+Castro,17,32.0,19-52,,,,Texas
+Chambers,50,15.0,11-20,,,,Texas
+Cherokee,106,29.0,23-35,27.0,32.0,30.0,Texas
+Childress,,,,,,,Texas
+Clay,17,23.0,13-37,,,,Texas
+Cochran,,,,,,,Texas
+Coke,,,,,,,Texas
+Coleman,13,23.0,12-39,,,,Texas
+Collin,513,7.0,6-7,8.0,9.0,8.0,Texas
+Collingsworth,,,,,,,Texas
+Colorado,36,24.0,17-34,24.0,,26.0,Texas
+Comal,160,14.0,12-16,10.0,,16.0,Texas
+Comanche,36,37.0,26-52,47.0,,35.0,Texas
+Concho,,,,,,,Texas
+Cooke,66,23.0,17-29,20.0,,24.0,Texas
+Coryell,80,14.0,11-18,11.0,,18.0,Texas
+Cottle,,,,,,,Texas
+Crane,13,40.0,21-68,,,,Texas
+Crockett,11,48.0,24-86,,,,Texas
+Crosby,20,53.0,32-81,,,,Texas
+Culberson,,,,,,,Texas
+Dallam,17,34.0,20-54,,,,Texas
+Dallas,"2,309",13.0,12-13,12.0,18.0,11.0,Texas
+Dawson,29,33.0,22-48,33.0,,40.0,Texas
+Deaf Smith,22,17.0,11-26,,,,Texas
+Delta,,,,,,,Texas
+Denton,489,8.0,7-8,8.0,10.0,8.0,Texas
+DeWitt,31,22.0,15-31,,,,Texas
+Dickens,,,,,,,Texas
+Dimmit,15,23.0,13-38,,,,Texas
+Donley,,,,,,,Texas
+Duval,19,26.0,15-40,,,,Texas
+Eastland,40,31.0,22-43,,,,Texas
+Ector,362,32.0,28-35,30.0,28.0,38.0,Texas
+Edwards,,,,,,,Texas
+El Paso,722,12.0,11-13,12.0,21.0,13.0,Texas
+Ellis,207,15.0,13-17,11.0,9.0,19.0,Texas
+Erath,70,23.0,18-29,29.0,,22.0,Texas
+Falls,28,23.0,15-33,,,,Texas
+Fannin,83,33.0,26-41,,,,Texas
+Fayette,38,22.0,15-30,31.0,,17.0,Texas
+Fisher,,,,,,,Texas
+Floyd,,,,,,,Texas
+Foard,,,,,,,Texas
+Fort Bend,417,7.0,6-8,9.0,11.0,6.0,Texas
+Franklin,18,24.0,14-38,,,,Texas
+Freestone,42,30.0,22-41,,,,Texas
+Frio,23,17.0,11-26,,,,Texas
+Gaines,55,36.0,27-47,20.0,,50.0,Texas
+Galveston,324,13.0,12-15,10.0,19.0,14.0,Texas
+Garza,,,,,,,Texas
+Gillespie,33,17.0,12-24,,,,Texas
+Glasscock,,,,,,,Texas
+Goliad,13,25.0,13-43,,,,Texas
+Gonzales,31,22.0,15-31,20.0,,28.0,Texas
+Gray,31,21.0,14-29,,,,Texas
+Grayson,154,16.0,13-18,13.0,30.0,16.0,Texas
+Gregg,195,22.0,19-26,16.0,34.0,22.0,Texas
+Grimes,46,22.0,16-29,23.0,,22.0,Texas
+Guadalupe,167,14.0,12-16,12.0,,17.0,Texas
+Hale,42,18.0,13-25,19.0,,17.0,Texas
+Hall,,,,,,,Texas
+Hamilton,16,27.0,15-44,,,,Texas
+Hansford,,,,,,,Texas
+Hardeman,11,42.0,21-75,,,,Texas
+Hardin,91,23.0,18-28,,,,Texas
+Harris,"3,896",12.0,11-12,11.0,17.0,12.0,Texas
+Harrison,124,26.0,21-31,,34.0,28.0,Texas
+Hartley,14,37.0,20-62,,,,Texas
+Haskell,,,,,,,Texas
+Hays,200,12.0,10-13,9.0,24.0,13.0,Texas
+Hemphill,,,,,,,Texas
+Henderson,176,30.0,26-35,20.0,36.0,33.0,Texas
+Hidalgo,558,9.0,8-10,9.0,,15.0,Texas
+Hill,69,27.0,21-34,,,,Texas
+Hockley,40,26.0,18-35,21.0,,33.0,Texas
+Hood,81,18.0,15-23,,,,Texas
+Hopkins,97,37.0,30-45,49.0,,36.0,Texas
+Houston,58,37.0,28-47,,34.0,37.0,Texas
+Howard,63,26.0,20-33,20.0,,32.0,Texas
+Hudspeth,12,41.0,21-72,,,,Texas
+Hunt,181,25.0,22-29,13.0,30.0,29.0,Texas
+Hutchinson,46,32.0,23-42,,,,Texas
+Irion,,,,,,,Texas
+Jack,13,21.0,11-36,,,,Texas
+Jackson,17,16.0,9-26,,,,Texas
+Jasper,64,27.0,20-34,,26.0,27.0,Texas
+Jeff Davis,,,,,,,Texas
+Jefferson,315,18.0,16-20,13.0,21.0,19.0,Texas
+Jim Hogg,,,,,,,Texas
+Jim Wells,69,25.0,19-31,24.0,,30.0,Texas
+Johnson,232,18.0,16-20,18.0,,19.0,Texas
+Jones,31,22.0,15-31,,,,Texas
+Karnes,24,23.0,14-33,20.0,,27.0,Texas
+Kaufman,204,19.0,17-22,14.0,16.0,24.0,Texas
+Kendall,35,11.0,7-15,,,,Texas
+Kenedy,,,,,,,Texas
+Kent,,,,,,,Texas
+Kerr,62,17.0,13-21,14.0,,19.0,Texas
+Kimble,,,,,,,Texas
+King,,,,,,,Texas
+Kinney,,,,,,,Texas
+Kleberg,25,12.0,8-17,,,,Texas
+Knox,,,,,,,Texas
+La Salle,,,,,,,Texas
+Lamar,79,23.0,18-28,,,,Texas
+Lamb,24,27.0,17-40,,,,Texas
+Lampasas,30,20.0,13-28,,,,Texas
+Lavaca,33,23.0,16-33,,,,Texas
+Lee,42,34.0,25-46,49.0,,25.0,Texas
+Leon,51,43.0,32-57,60.0,,42.0,Texas
+Liberty,200,30.0,26-35,20.0,36.0,37.0,Texas
+Limestone,40,25.0,18-34,,,,Texas
+Lipscomb,,,,,,,Texas
+Live Oak,13,16.0,8-27,,,,Texas
+Llano,38,25.0,17-34,,,,Texas
+Loving,,,,,,,Texas
+Lubbock,382,17.0,16-19,18.0,24.0,17.0,Texas
+Lynn,13,32.0,17-54,,,,Texas
+Madison,34,35.0,24-48,,,,Texas
+Marion,22,32.0,20-49,,72.0,25.0,Texas
+Martin,12,31.0,16-54,,,,Texas
+Mason,,,,,,,Texas
+Matagorda,64,25.0,19-32,20.0,46.0,26.0,Texas
+Maverick,49,12.0,9-16,,,,Texas
+McCulloch,15,28.0,15-46,,,,Texas
+McLennan,279,15.0,14-17,13.0,20.0,16.0,Texas
+McMullen,,,,,,,Texas
+Medina,67,18.0,14-23,15.0,,25.0,Texas
+Menard,,,,,,,Texas
+Midland,268,22.0,20-25,22.0,18.0,24.0,Texas
+Milam,55,31.0,23-41,25.0,,30.0,Texas
+Mills,,,,,,,Texas
+Mitchell,14,23.0,13-39,,,,Texas
+Montague,37,26.0,18-36,,,,Texas
+Montgomery,526,12.0,11-13,11.0,15.0,13.0,Texas
+Moore,47,32.0,23-42,,,,Texas
+Morris,23,27.0,17-40,,,,Texas
+Motley,,,,,,,Texas
+Nacogdoches,119,26.0,21-31,19.0,29.0,28.0,Texas
+Navarro,83,23.0,18-28,25.0,,25.0,Texas
+Newton,38,42.0,30-57,,,,Texas
+Nolan,13,13.0,7-22,,,,Texas
+Nueces,340,14.0,12-15,11.0,18.0,19.0,Texas
+Ochiltree,15,22.0,12-36,,,,Texas
+Oldham,,,,,,,Texas
+Orange,143,24.0,20-28,19.0,,27.0,Texas
+Palo Pinto,52,26.0,19-33,,,,Texas
+Panola,59,37.0,28-47,,57.0,35.0,Texas
+Parker,188,18.0,15-20,7.0,,20.0,Texas
+Parmer,18,27.0,16-42,,,,Texas
+Pecos,30,28.0,19-40,25.0,,43.0,Texas
+Polk,104,29.0,23-34,,44.0,29.0,Texas
+Potter,168,20.0,17-24,21.0,22.0,21.0,Texas
+Presidio,11,24.0,12-44,,,,Texas
+Rains,29,33.0,22-48,,,,Texas
+Randall,135,14.0,11-16,10.0,,15.0,Texas
+Reagan,10,41.0,19-75,,,,Texas
+Real,,,,,,,Texas
+Red River,36,43.0,30-60,,,,Texas
+Reeves,28,27.0,18-40,,,,Texas
+Refugio,,,,,,,Texas
+Roberts,,,,,,,Texas
+Robertson,35,29.0,20-41,,,,Texas
+Rockwall,70,9.0,7-11,8.0,,10.0,Texas
+Runnels,25,35.0,23-52,,,,Texas
+Rusk,123,33.0,27-39,33.0,40.0,32.0,Texas
+Sabine,29,40.0,27-58,,,,Texas
+San Augustine,22,39.0,24-59,,,,Texas
+San Jacinto,45,22.0,16-30,,,,Texas
+San Patricio,87,18.0,15-22,16.0,,22.0,Texas
+San Saba,11,26.0,13-47,,,,Texas
+Schleicher,,,,,,,Texas
+Scurry,37,32.0,22-44,45.0,,23.0,Texas
+Shackelford,,,,,,,Texas
+Shelby,64,37.0,28-47,,41.0,45.0,Texas
+Sherman,,,,,,,Texas
+Smith,320,19.0,17-22,12.0,19.0,22.0,Texas
+Somervell,19,29.0,18-45,,,,Texas
+Starr,66,14.0,11-18,,,,Texas
+Stephens,16,24.0,14-40,,,,Texas
+Sterling,,,,,,,Texas
+Stonewall,,,,,,,Texas
+Sutton,,,,,,,Texas
+Swisher,15,30.0,17-49,,,,Texas
+Tarrant,"1,645",11.0,11-12,10.0,16.0,11.0,Texas
+Taylor,174,18.0,15-20,15.0,20.0,19.0,Texas
+Terrell,,,,,,,Texas
+Terry,19,23.0,14-35,,,,Texas
+Throckmorton,,,,,,,Texas
+Titus,48,21.0,16-28,10.0,49.0,28.0,Texas
+Tom Green,120,14.0,12-17,11.0,,17.0,Texas
+Travis,913,10.0,9-11,13.0,17.0,8.0,Texas
+Trinity,43,43.0,31-57,,,,Texas
+Tyler,46,31.0,23-42,,,,Texas
+Upshur,74,25.0,20-32,,,,Texas
+Upton,,,,,,,Texas
+Uvalde,40,22.0,16-30,21.0,,26.0,Texas
+Val Verde,43,13.0,9-17,,,,Texas
+Van Zandt,136,33.0,27-38,19.0,,36.0,Texas
+Victoria,106,17.0,13-20,17.0,,17.0,Texas
+Walker,79,15.0,12-19,10.0,10.0,19.0,Texas
+Waller,72,18.0,14-23,16.0,19.0,18.0,Texas
+Ward,31,39.0,26-55,38.0,,40.0,Texas
+Washington,49,20.0,14-26,,29.0,19.0,Texas
+Webb,169,9.0,8-10,,,,Texas
+Wharton,84,29.0,23-36,24.0,27.0,35.0,Texas
+Wheeler,12,34.0,18-60,,,,Texas
+Wichita,148,16.0,13-19,12.0,11.0,18.0,Texas
+Wilbarger,21,24.0,15-36,,,,Texas
+Willacy,28,19.0,13-28,,,,Texas
+Williamson,376,9.0,8-10,9.0,13.0,9.0,Texas
+Wilson,69,19.0,15-24,21.0,,18.0,Texas
+Winkler,31,58.0,39-83,51.0,,68.0,Texas
+Wise,123,25.0,20-29,15.0,,29.0,Texas
+Wood,96,30.0,24-36,,,,Texas
+Yoakum,22,39.0,24-58,,,,Texas
+Young,33,26.0,18-37,,,,Texas
+Zapata,14,14.0,8-24,,,,Texas
+Zavala,19,25.0,15-39,,,,Texas
+Addison,27.0,10.0,7-15,,,,Vermont
+Bennington,26.0,10.0,7-15,,,,Vermont
+Caledonia,27.0,13.0,8-19,,,,Vermont
+Chittenden,74.0,6.0,5-8,,,,Vermont
+Essex,,,,,,,Vermont
+Franklin,59.0,17.0,13-22,,,,Vermont
+Grand Isle,,,,,,,Vermont
+Lamoille,19.0,11.0,6-17,,,,Vermont
+Orange,27.0,13.0,9-19,,,,Vermont
+Orleans,42.0,22.0,16-30,,,,Vermont
+Rutland,39.0,9.0,7-13,,,,Vermont
+Washington,34.0,8.0,6-11,,,,Vermont
+Windham,41.0,13.0,10-18,,,,Vermont
+Windsor,44.0,11.0,8-15,,,,Vermont
+Accomack,50,22.0,16-29,,33.0,16.0,Virginia
+Albemarle,73,9.0,7-12,,15.0,9.0,Virginia
+Alexandria City,48,4.0,3-6,6.0,7.0,4.0,Virginia
+Alleghany,19,18.0,11-29,,,,Virginia
+Amelia,28,30.0,20-44,,,,Virginia
+Amherst,38,17.0,12-24,,24.0,16.0,Virginia
+Appomattox,26,23.0,15-34,,,,Virginia
+Arlington,45,3.0,2-4,8.0,,2.0,Virginia
+Augusta,98,18.0,15-22,,,,Virginia
+Bath,,,,,,,Virginia
+Bedford,80,14.0,11-18,,,,Virginia
+Bland,,,,,,,Virginia
+Botetourt,31,13.0,9-19,,,,Virginia
+Bristol City,,,,,,,Virginia
+Brunswick,39,35.0,25-47,,43.0,24.0,Virginia
+Buchanan,35,25.0,17-34,,,,Virginia
+Buckingham,41,34.0,25-47,,53.0,26.0,Virginia
+Buena Vista City,10,22.0,11-41,,,,Virginia
+Campbell,76,20.0,16-25,,30.0,18.0,Virginia
+Caroline,48,22.0,16-29,,28.0,23.0,Virginia
+Carroll,34,16.0,11-23,,,,Virginia
+Charles City,15,32.0,18-52,,,,Virginia
+Charlotte,32,39.0,27-55,,59.0,32.0,Virginia
+Charlottesville City,26,8.0,5-12,,,,Virginia
+Chesapeake City,136,8.0,7-9,,9.0,8.0,Virginia
+Chesterfield,262,10.0,9-12,11.0,12.0,10.0,Virginia
+Clarke,27,26.0,17-38,,,,Virginia
+Colonial Heights City,20,16.0,10-25,,,,Virginia
+Covington City,,,,,,,Virginia
+Craig,,,,,,,Virginia
+Culpeper,60,16.0,12-21,,,,Virginia
+Cumberland,18,26.0,16-41,,,,Virginia
+Danville City,65,23.0,17-29,,23.0,24.0,Virginia
+Dickenson,22,22.0,14-34,,,,Virginia
+Dinwiddie,41,21.0,15-28,,20.0,24.0,Virginia
+Emporia City,11,29.0,15-52,,,,Virginia
+Essex,23,30.0,19-46,,39.0,29.0,Virginia
+Fairfax,337,4.0,4-5,6.0,6.0,4.0,Virginia
+Fairfax City,11,6.0,3-12,,,,Virginia
+Falls Church City,,,,,,,Virginia
+Fauquier,66,13.0,10-17,,,,Virginia
+Floyd,17,15.0,9-25,,,,Virginia
+Fluvanna,35,18.0,13-25,,35.0,15.0,Virginia
+Franklin,68,17.0,14-22,,,,Virginia
+Franklin City,12,21.0,11-37,,,,Virginia
+Frederick,86,13.0,11-17,,,,Virginia
+Fredericksburg City,18,9.0,5-14,,,,Virginia
+Galax City,,,,,,,Virginia
+Giles,20,17.0,10-27,,,,Virginia
+Gloucester,36,13.0,9-19,,,,Virginia
+Goochland,26,15.0,10-22,,,,Virginia
+Grayson,21,19.0,12-30,,,,Virginia
+Greene,17,12.0,7-19,,,,Virginia
+Greensville,21,26.0,16-40,,,,Virginia
+Halifax,62,26.0,20-34,,33.0,24.0,Virginia
+Hampton City,112,12.0,10-14,,12.0,13.0,Virginia
+Hanover,98,13.0,10-16,,18.0,13.0,Virginia
+Harrisonburg City,25,7.0,4-10,,,,Virginia
+Henrico,196,8.0,7-10,8.0,11.0,9.0,Virginia
+Henry,89,25.0,20-31,,28.0,25.0,Virginia
+Highland,,,,,,,Virginia
+Hopewell City,21,13.0,8-20,,,,Virginia
+Isle of Wight,37,14.0,10-19,,16.0,14.0,Virginia
+James City,64,12.0,9-15,,22.0,10.0,Virginia
+King and Queen,20,42.0,25-64,,,,Virginia
+King George,28,15.0,10-21,,,,Virginia
+King William,33,27.0,18-37,,,,Virginia
+Lancaster,16,21.0,12-34,,,,Virginia
+Lee,29,18.0,12-26,,,,Virginia
+Lexington City,,,,,,,Virginia
+Loudoun,107,4.0,3-4,2.0,5.0,4.0,Virginia
+Louisa,67,25.0,19-32,,27.0,26.0,Virginia
+Lunenburg,26,31.0,20-45,,,,Virginia
+Lynchburg City,54,10.0,7-12,,15.0,8.0,Virginia
+Madison,24,25.0,16-38,,,,Virginia
+Manassas City,33,11.0,8-16,,,,Virginia
+Manassas Park City,,,,,,,Virginia
+Martinsville City,19,21.0,12-32,,,,Virginia
+Mathews,,,,,,,Virginia
+Mecklenburg,66,31.0,24-39,,43.0,26.0,Virginia
+Middlesex,20,27.0,16-41,,,,Virginia
+Montgomery,58,8.0,6-11,,,,Virginia
+Nelson,36,35.0,24-48,,,,Virginia
+New Kent,30,18.0,12-26,,,,Virginia
+Newport News City,142,11.0,9-13,8.0,13.0,10.0,Virginia
+Norfolk City,167,10.0,8-11,10.0,12.0,10.0,Virginia
+Northampton,23,28.0,18-42,,,,Virginia
+Northumberland,16,19.0,11-30,,,,Virginia
+Norton City,,,,,,,Virginia
+Nottoway,35,32.0,23-45,,44.0,29.0,Virginia
+Orange,60,23.0,18-30,,,,Virginia
+Page,32,19.0,13-27,,,,Virginia
+Patrick,32,26.0,18-37,,,,Virginia
+Petersburg City,50,22.0,16-29,,,,Virginia
+Pittsylvania,105,25.0,20-30,,34.0,23.0,Virginia
+Poquoson City,,,,,,,Virginia
+Portsmouth City,114,17.0,14-20,,20.0,16.0,Virginia
+Powhatan,32,15.0,10-21,,,,Virginia
+Prince Edward,33,21.0,14-29,,26.0,19.0,Virginia
+Prince George,30,11.0,7-15,,,,Virginia
+Prince William,251,8.0,7-8,7.0,11.0,7.0,Virginia
+Pulaski,35,15.0,10-21,,,,Virginia
+Radford City,,,,,,,Virginia
+Rappahannock,10,19.0,9-36,,,,Virginia
+Richmond,14,22.0,12-37,,,,Virginia
+Richmond City,194,12.0,10-14,20.0,15.0,8.0,Virginia
+Roanoke,58,9.0,7-11,,,,Virginia
+Roanoke City,99,14.0,12-17,,18.0,14.0,Virginia
+Rockbridge,28,18.0,12-26,,,,Virginia
+Rockingham,80,14.0,11-17,,,,Virginia
+Russell,39,21.0,15-29,,,,Virginia
+Salem City,12,7.0,3-12,,,,Virginia
+Scott,31,21.0,14-29,,,,Virginia
+Shenandoah,46,15.0,11-20,,,,Virginia
+Smyth,38,18.0,13-25,,,,Virginia
+Southampton,25,20.0,13-30,,,,Virginia
+Spotsylvania,134,14.0,11-16,9.0,17.0,15.0,Virginia
+Stafford,78,7.0,6-9,7.0,,7.0,Virginia
+Staunton City,18,10.0,6-16,,,,Virginia
+Suffolk City,58,9.0,7-11,,10.0,9.0,Virginia
+Surry,13,29.0,15-49,,,,Virginia
+Sussex,36,47.0,33-65,,50.0,46.0,Virginia
+Tazewell,50,18.0,13-23,,,,Virginia
+Virginia Beach City,228,7.0,6-8,8.0,11.0,7.0,Virginia
+Warren,34,12.0,8-17,,,,Virginia
+Washington,48,13.0,9-17,,,,Virginia
+Waynesboro City,15,9.0,5-16,,,,Virginia
+Westmoreland,35,27.0,19-38,,31.0,27.0,Virginia
+Williamsburg City,,,,,,,Virginia
+Winchester City,21,11.0,7-16,,,,Virginia
+Wise,34,13.0,9-18,,,,Virginia
+Wythe,32,16.0,11-23,,,,Virginia
+York,31,6.0,4-9,,,,Virginia
+Adams,37,26.0,18-36,,,,Washington
+Asotin,22,14.0,9-21,,,,Washington
+Benton,131,9.0,7-11,11.0,,8.0,Washington
+Chelan,52,9.0,7-12,7.0,,11.0,Washington
+Clallam,67,12.0,10-16,,,11.0,Washington
+Clark,311,9.0,8-10,10.0,,9.0,Washington
+Columbia,,,,,,,Washington
+Cowlitz,95,12.0,10-15,16.0,,12.0,Washington
+Douglas,22,7.0,5-11,,,,Washington
+Ferry,13,25.0,13-42,,,,Washington
+Franklin,63,9.0,7-12,9.0,,10.0,Washington
+Garfield,,,,,,,Washington
+Grant,141,20.0,17-24,26.0,,16.0,Washington
+Grays Harbor,82,16.0,12-19,25.0,,15.0,Washington
+Island,56,9.0,7-12,,,,Washington
+Jefferson,24,10.0,7-16,,,,Washington
+King,997,6.0,6-7,8.0,13.0,6.0,Washington
+Kitsap,148,8.0,6-9,6.0,,8.0,Washington
+Kittitas,32,10.0,7-14,,,,Washington
+Klickitat,27,17.0,11-25,,,,Washington
+Lewis,80,14.0,11-17,,,,Washington
+Lincoln,17,22.0,13-35,,,,Washington
+Mason,83,18.0,14-22,,,,Washington
+Okanogan,56,19.0,14-24,,,17.0,Washington
+Pacific,29,18.0,12-26,,,,Washington
+Pend Oreille,19,20.0,12-31,,,,Washington
+Pierce,654,10.0,9-11,9.0,14.0,10.0,Washington
+San Juan,,,,,,,Washington
+Skagit,91,10.0,8-12,6.0,,10.0,Washington
+Skamania,16,19.0,11-30,,,,Washington
+Snohomish,401,7.0,6-8,6.0,6.0,8.0,Washington
+Spokane,374,10.0,9-11,10.0,,10.0,Washington
+Stevens,65,20.0,15-25,,,18.0,Washington
+Thurston,186,9.0,8-10,10.0,,9.0,Washington
+Wahkiakum,,,,,,,Washington
+Walla Walla,41,10.0,7-13,13.0,,9.0,Washington
+Whatcom,128,8.0,7-9,12.0,,7.0,Washington
+Whitman,19,6.0,3-9,,,,Washington
+Yakima,338,19.0,17-21,17.0,,14.0,Washington
+Barbour,24,21.0,14-32,,,,West Virginia
+Berkeley,128,15.0,12-17,,20.0,16.0,West Virginia
+Boone,37,25.0,17-34,,,,West Virginia
+Braxton,20,22.0,13-33,,,,West Virginia
+Brooke,13,8.0,5-14,,,,West Virginia
+Cabell,74,11.0,9-14,,,,West Virginia
+Calhoun,11,23.0,12-42,,,,West Virginia
+Clay,22,38.0,24-58,,,,West Virginia
+Doddridge,,,,,,,West Virginia
+Fayette,52,18.0,13-24,,,,West Virginia
+Gilmer,10,19.0,9-34,,,,West Virginia
+Grant,28,35.0,23-51,,,,West Virginia
+Greenbrier,38,16.0,11-22,,,,West Virginia
+Hampshire,46,28.0,21-38,,,,West Virginia
+Hancock,20,10.0,6-15,,,,West Virginia
+Hardy,24,25.0,16-37,,,,West Virginia
+Harrison,57,12.0,9-16,,,,West Virginia
+Jackson,36,18.0,13-25,,,,West Virginia
+Jefferson,51,13.0,9-17,,,,West Virginia
+Kanawha,186,15.0,13-17,,16.0,15.0,West Virginia
+Lewis,26,23.0,15-33,,,,West Virginia
+Lincoln,35,25.0,17-34,,,,West Virginia
+Logan,52,23.0,17-31,,,,West Virginia
+Marion,46,12.0,9-16,,,,West Virginia
+Marshall,19,9.0,5-14,,,,West Virginia
+Mason,35,19.0,13-27,,,,West Virginia
+McDowell,32,26.0,18-36,,,,West Virginia
+Mercer,70,17.0,13-21,,,,West Virginia
+Mineral,27,14.0,9-21,,,,West Virginia
+Mingo,40,25.0,18-34,,,,West Virginia
+Monongalia,47,6.0,5-8,,,,West Virginia
+Monroe,24,27.0,17-40,,,,West Virginia
+Morgan,30,24.0,16-35,,,,West Virginia
+Nicholas,50,29.0,22-38,,,,West Virginia
+Ohio,25,9.0,6-13,,,,West Virginia
+Pendleton,15,33.0,18-54,,,,West Virginia
+Pleasants,,,,,,,West Virginia
+Pocahontas,16,28.0,16-46,,,,West Virginia
+Preston,37,16.0,11-22,,,,West Virginia
+Putnam,51,13.0,10-17,,,,West Virginia
+Raleigh,79,15.0,12-19,,,,West Virginia
+Randolph,36,18.0,13-25,,,,West Virginia
+Ritchie,17,27.0,16-43,,,,West Virginia
+Roane,21,22.0,13-33,,,,West Virginia
+Summers,19,22.0,13-34,,,,West Virginia
+Taylor,16,14.0,8-22,,,,West Virginia
+Tucker,,,,,,,West Virginia
+Tyler,,,,,,,West Virginia
+Upshur,27,16.0,11-23,,,,West Virginia
+Wayne,62,23.0,17-29,,,,West Virginia
+Webster,16,28.0,16-45,,,,West Virginia
+Wetzel,23,22.0,14-34,,,,West Virginia
+Wirt,,,,,,,West Virginia
+Wood,73,12.0,10-16,,,,West Virginia
+Wyoming,19,13.0,8-21,,,,West Virginia
+Adams,29,20.0,13-29,,,,Wisconsin
+Ashland,15,14.0,8-22,,,,Wisconsin
+Barron,49,15.0,11-20,,,,Wisconsin
+Bayfield,18,16.0,10-26,,,,Wisconsin
+Brown,137,7.0,6-9,7.0,,8.0,Wisconsin
+Buffalo,13,14.0,7-24,,,,Wisconsin
+Burnett,31,28.0,19-39,,,,Wisconsin
+Calumet,28,8.0,5-11,,,,Wisconsin
+Chippewa,46,10.0,7-13,,,,Wisconsin
+Clark,47,19.0,14-26,,,,Wisconsin
+Columbia,55,14.0,10-18,,,,Wisconsin
+Crawford,11,10.0,5-17,,,,Wisconsin
+Dane,263,7.0,6-8,8.0,20.0,6.0,Wisconsin
+Dodge,93,15.0,12-18,,,,Wisconsin
+Door,25,12.0,8-18,,,,Wisconsin
+Douglas,39,13.0,9-17,,,,Wisconsin
+Dunn,41,13.0,9-18,,,,Wisconsin
+Eau Claire,64,9.0,7-11,,,,Wisconsin
+Florence,,,,,,,Wisconsin
+Fond du Lac,87,12.0,10-15,,,,Wisconsin
+Forest,11,17.0,9-31,,,,Wisconsin
+Grant,51,14.0,11-19,,,,Wisconsin
+Green,38,15.0,10-20,,,,Wisconsin
+Green Lake,15,11.0,6-19,,,,Wisconsin
+Iowa,30,18.0,12-26,,,,Wisconsin
+Iron,,,,,,,Wisconsin
+Jackson,21,14.0,9-22,,,,Wisconsin
+Jefferson,69,12.0,9-15,,,,Wisconsin
+Juneau,33,18.0,12-25,,,,Wisconsin
+Kenosha,107,9.0,7-11,8.0,,10.0,Wisconsin
+Kewaunee,14,10.0,5-16,,,,Wisconsin
+La Crosse,58,7.0,5-9,,,,Wisconsin
+Lafayette,23,20.0,12-29,,,,Wisconsin
+Langlade,17,13.0,7-20,,,,Wisconsin
+Lincoln,36,18.0,13-25,,,,Wisconsin
+Manitowoc,63,11.0,9-14,,,,Wisconsin
+Marathon,88,9.0,7-11,,,,Wisconsin
+Marinette,43,15.0,11-20,,,,Wisconsin
+Marquette,22,20.0,13-30,,,,Wisconsin
+Menominee,11,35.0,18-63,,,,Wisconsin
+Milwaukee,748,11.0,11-12,9.0,22.0,8.0,Wisconsin
+Monroe,31,10.0,7-14,,,,Wisconsin
+Oconto,38,14.0,10-19,,,,Wisconsin
+Oneida,24,9.0,6-14,,,,Wisconsin
+Outagamie,112,8.0,7-10,,,,Wisconsin
+Ozaukee,36,6.0,4-8,,,,Wisconsin
+Pepin,,,,,,,Wisconsin
+Pierce,34,11.0,8-16,,,,Wisconsin
+Polk,74,24.0,19-30,,,,Wisconsin
+Portage,41,8.0,6-11,,,,Wisconsin
+Price,11,11.0,6-21,,,,Wisconsin
+Racine,142,10.0,9-12,10.0,15.0,10.0,Wisconsin
+Richland,25,21.0,13-31,,,,Wisconsin
+Rock,157,14.0,12-16,10.0,,15.0,Wisconsin
+Rusk,28,28.0,19-41,,,,Wisconsin
+Sauk,50,11.0,8-15,,,,Wisconsin
+Sawyer,18,15.0,9-23,,,,Wisconsin
+Shawano,40,14.0,10-19,,,,Wisconsin
+Sheboygan,68,8.0,6-11,,,,Wisconsin
+St. Croix,66,10.0,8-13,,,,Wisconsin
+Taylor,28,20.0,13-29,,,,Wisconsin
+Trempealeau,35,17.0,12-23,,,,Wisconsin
+Vernon,26,12.0,8-18,,,,Wisconsin
+Vilas,24,15.0,10-22,,,,Wisconsin
+Walworth,76,10.0,8-13,,,,Wisconsin
+Washburn,11,10.0,5-17,,,,Wisconsin
+Washington,69,7.0,6-9,,,,Wisconsin
+Waukesha,167,6.0,5-7,,,,Wisconsin
+Waupaca,60,17.0,13-22,,,,Wisconsin
+Waushara,33,19.0,13-27,,,,Wisconsin
+Winnebago,91,8.0,6-9,,,,Wisconsin
+Wood,63,12.0,9-16,,,,Wisconsin
+Albany,24.0,9.0,6-13,,,,Wyoming
+Big Horn,22.0,27.0,17-40,,,,Wyoming
+Campbell,53.0,16.0,12-21,,,,Wyoming
+Carbon,24.0,23.0,15-35,,,,Wyoming
+Converse,14.0,15.0,8-24,,,,Wyoming
+Crook,16.0,31.0,17-50,,,,Wyoming
+Fremont,84.0,30.0,24-38,,,16.0,Wyoming
+Goshen,23.0,25.0,16-38,,,,Wyoming
+Hot Springs,,,,,,,Wyoming
+Johnson,,,,,,,Wyoming
+Laramie,94.0,13.0,11-16,12.0,,14.0,Wyoming
+Lincoln,32.0,23.0,16-32,,,,Wyoming
+Natrona,92.0,16.0,13-20,,,,Wyoming
+Niobrara,,,,,,,Wyoming
+Park,36.0,17.0,12-24,,,,Wyoming
+Platte,18.0,30.0,18-47,,,,Wyoming
+Sheridan,25.0,11.0,7-17,,,,Wyoming
+Sublette,16.0,24.0,14-40,,,,Wyoming
+Sweetwater,46.0,16.0,11-21,,,,Wyoming
+Teton,,,,,,,Wyoming
+Uinta,20.0,14.0,9-22,,,,Wyoming
+Washakie,,,,,,,Wyoming
+Weston,,,,,,,Wyoming
