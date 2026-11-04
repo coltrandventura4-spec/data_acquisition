@@ -1,0 +1,58 @@
+---
+title: "Combining State Crash-Death Datasets"
+author: "Coltran Ventura"
+date: "2026-11-03"
+categories: [Python, Data Acquisition]
+description: "How I combined state-level CSV exports into one dataset."
+---
+
+## Project overview
+This blog details the process of combining cleaning and analyzing crash-death data for all continental US counties. 
+
+
+## Preparing the data
+
+I added a State column to each dataset, removed the state-total row,
+and combined the remaining county rows. I collected country-wide county-level motor-vehicle crash-death data and combined the state CSV exports into one dataset.
+
+```{python}
+from pathlib import Path
+import pandas as pd
+```
+
+```{python}
+# create the state column and combine all the state csv files
+def combine_state_data(folder):
+    csv_files = sorted(Path(folder).rglob("*sort.csv"))
+    if not csv_files:
+        raise FileNotFoundError(f"No CSV files found in: {folder}")
+
+    dataframes = []
+
+    for file in csv_files:
+        df = pd.read_csv(file)
+        df["State"] = df.iloc[0,0]
+        df = df.iloc[1:].copy()
+        dataframes.append(df)
+
+    return pd.concat(dataframes, ignore_index=True)
+```
+
+```{python}
+# create the combined state data
+all_states = combine_state_data("state_crash_data")
+# remove columns that don't have data 
+all_states = all_states.iloc[:, :8]
+all_states.to_csv("combined_data/all_states.csv", index=False)
+
+
+```
+
+## Data analysis
+For the data analysis I first looked at the top 5 crash-death counties 
+```{python}
+all_states.sort_values(
+    by="# Motor Vehicle Deaths",
+    ascending=False
+).head(5)
+```

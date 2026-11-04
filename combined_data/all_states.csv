@@ -73,10 +73,10 @@ Gila,113,30.0,24-35,18.0,,25.0,Arizona
 Graham,67,25.0,19-31,20.0,,22.0,Arizona
 Greenlee,14,21.0,12-36,,,,Arizona
 La Paz,61,46.0,35-59,,,49.0,Arizona
-Maricopa,"4,108",13.0,13-13,14.0,18.0,12.0,Arizona
+Maricopa,4108,13.0,13-13,14.0,18.0,12.0,Arizona
 Mohave,335,22.0,20-25,18.0,,22.0,Arizona
 Navajo,326,42.0,38-47,28.0,,24.0,Arizona
-Pima,"1,113",15.0,14-16,14.0,19.0,14.0,Arizona
+Pima,1113,15.0,14-16,14.0,19.0,14.0,Arizona
 Pinal,523,16.0,15-18,15.0,13.0,16.0,Arizona
 Santa Cruz,38,11.0,8-16,9.0,,24.0,Arizona
 Yavapai,278,17.0,15-19,11.0,,17.0,Arizona
@@ -165,16 +165,16 @@ Colusa,42,28.0,20-37,28.0,,20.0,California
 Contra Costa,742,9.0,9-10,10.0,20.0,8.0,California
 Del Norte,35,18.0,13-25,,,14.0,California
 El Dorado,185,14.0,12-16,15.0,,14.0,California
-Fresno,"1,265",18.0,17-19,19.0,23.0,17.0,California
+Fresno,1265,18.0,17-19,19.0,23.0,17.0,California
 Glenn,34,17.0,12-24,13.0,,22.0,California
 Humboldt,184,19.0,17-22,16.0,,19.0,California
 Imperial,160,13.0,11-15,12.0,,21.0,California
 Inyo,15,12.0,7-19,,,,California
-Kern,"1,278",20.0,19-21,18.0,30.0,23.0,California
+Kern,1278,20.0,19-21,18.0,30.0,23.0,California
 Kings,175,16.0,14-19,18.0,,14.0,California
 Lake,132,29.0,24-33,23.0,,29.0,California
 Lassen,43,20.0,15-27,,,,California
-Los Angeles,"6,701",10.0,9-10,10.0,20.0,9.0,California
+Los Angeles,6701,10.0,9-10,10.0,20.0,9.0,California
 Madera,228,21.0,18-23,18.0,,24.0,California
 Marin,104,6.0,5-7,9.0,,5.0,California
 Mariposa,28,23.0,15-34,,,,California
@@ -185,14 +185,14 @@ Mono,,,,,,,California
 Monterey,364,12.0,11-13,12.0,15.0,12.0,California
 Napa,78,8.0,6-10,7.0,,10.0,California
 Nevada,103,15.0,12-17,,,,California
-Orange,"1,707",8.0,7-8,9.0,11.0,8.0,California
+Orange,1707,8.0,7-8,9.0,11.0,8.0,California
 Placer,238,8.0,7-9,9.0,,9.0,California
 Plumas,26,19.0,13-28,,,,California
-Riverside,"2,384",14.0,13-14,13.0,20.0,15.0,California
-Sacramento,"1,405",13.0,12-14,12.0,23.0,14.0,California
+Riverside,2384,14.0,13-14,13.0,20.0,15.0,California
+Sacramento,1405,13.0,12-14,12.0,23.0,14.0,California
 San Benito,76,17.0,13-21,15.0,,21.0,California
-San Bernardino,"2,534",17.0,16-17,15.0,25.0,19.0,California
-San Diego,"2,010",9.0,8-9,9.0,14.0,9.0,California
+San Bernardino,2534,17.0,16-17,15.0,25.0,19.0,California
+San Diego,2010,9.0,8-9,9.0,14.0,9.0,California
 San Francisco,288,5.0,4-5,6.0,18.0,4.0,California
 San Joaquin,937,17.0,16-18,16.0,33.0,18.0,California
 San Luis Obispo,184,9.0,8-11,9.0,,10.0,California
@@ -278,15 +278,15 @@ Teller,19,11.0,7-17,,,,Colorado
 Washington,13,38.0,20-65,,,,Colorado
 Weld,369,16.0,14-17,18.0,,16.0,Colorado
 Yuma,15,21.0,12-35,,,,Colorado
-Kent,208,16.0,14-18,15.0,19.0,16.0,Delaware
-New Castle,460,12.0,11-13,10.0,15.0,11.0,Delaware
-Sussex,269,16.0,14-18,20.0,31.0,13.0,Delaware
+Kent,,16.0,14-18,15.0,19.0,16.0,Delaware
+New Castle,,12.0,11-13,10.0,15.0,11.0,Delaware
+Sussex,,16.0,14-18,20.0,31.0,13.0,Delaware
 Alachua,272,14.0,12-16,14.0,20.0,14.0,Florida
 Baker,43,21.0,16-29,,,,Florida
 Bay,238,19.0,16-21,,21.0,20.0,Florida
 Bradford,64,33.0,25-42,,,,Florida
 Brevard,667,16.0,14-17,14.0,18.0,16.0,Florida
-Broward,"1,921",14.0,13-15,12.0,17.0,15.0,Florida
+Broward,1921,14.0,13-15,12.0,17.0,15.0,Florida
 Calhoun,26,27.0,17-39,,,,Florida
 Charlotte,226,17.0,15-19,12.0,16.0,17.0,Florida
 Citrus,262,24.0,21-27,21.0,38.0,24.0,Florida
@@ -295,7 +295,7 @@ Collier,295,11.0,10-12,13.0,12.0,9.0,Florida
 Columbia,131,26.0,22-31,,28.0,28.0,Florida
 DeSoto,84,33.0,26-41,25.0,46.0,35.0,Florida
 Dixie,39,33.0,23-45,,,,Florida
-Duval,"1,159",17.0,16-18,15.0,19.0,18.0,Florida
+Duval,1159,17.0,16-18,15.0,19.0,18.0,Florida
 Escambia,427,19.0,17-21,16.0,22.0,20.0,Florida
 Flagler,132,16.0,13-19,15.0,21.0,15.0,Florida
 Franklin,19,22.0,13-35,,,,Florida
@@ -308,7 +308,7 @@ Hardee,75,40.0,32-51,46.0,,41.0,Florida
 Hendry,89,31.0,25-38,28.0,,34.0,Florida
 Hernando,301,22.0,19-24,14.0,27.0,23.0,Florida
 Highlands,198,27.0,23-31,19.0,28.0,30.0,Florida
-Hillsborough,"1,485",14.0,14-15,15.0,15.0,14.0,Florida
+Hillsborough,1485,14.0,14-15,15.0,15.0,14.0,Florida
 Holmes,47,34.0,25-45,,,,Florida
 Indian River,162,14.0,12-16,13.0,15.0,14.0,Florida
 Jackson,109,33.0,27-39,,31.0,35.0,Florida
@@ -323,17 +323,17 @@ Madison,26,20.0,13-29,,,,Florida
 Manatee,432,15.0,14-16,17.0,21.0,14.0,Florida
 Marion,674,25.0,24-27,25.0,30.0,26.0,Florida
 Martin,136,12.0,10-14,15.0,,12.0,Florida
-Miami-Dade,"2,371",13.0,12-13,11.0,20.0,10.0,Florida
+Miami-Dade,2371,13.0,12-13,11.0,20.0,10.0,Florida
 Monroe,87,16.0,13-20,17.0,,16.0,Florida
 Nassau,120,19.0,15-22,,,,Florida
 Okaloosa,230,16.0,14-18,13.0,12.0,17.0,Florida
 Okeechobee,113,39.0,32-46,42.0,,39.0,Florida
-Orange,"1,264",13.0,12-14,13.0,18.0,11.0,Florida
+Orange,1264,13.0,12-14,13.0,18.0,11.0,Florida
 Osceola,396,14.0,13-16,14.0,15.0,16.0,Florida
-Palm Beach,"1,415",13.0,13-14,15.0,16.0,13.0,Florida
+Palm Beach,1415,13.0,13-14,15.0,16.0,13.0,Florida
 Pasco,754,19.0,17-20,12.0,20.0,21.0,Florida
 Pinellas,931,14.0,13-15,10.0,18.0,14.0,Florida
-Polk,"1,034",20.0,19-21,16.0,23.0,22.0,Florida
+Polk,1034,20.0,19-21,16.0,23.0,22.0,Florida
 Putnam,226,43.0,38-49,38.0,42.0,45.0,Florida
 Santa Rosa,175,13.0,11-15,,14.0,14.0,Florida
 Sarasota,402,13.0,12-14,12.0,22.0,13.0,Florida
@@ -566,7 +566,7 @@ Clark,21,20.0,12-30,,,,Illinois
 Clay,16,17.0,10-28,,,,Illinois
 Clinton,45,17.0,13-23,,,,Illinois
 Coles,50,15.0,11-19,,,,Illinois
-Cook,"2,939",8.0,8-8,7.0,15.0,6.0,Illinois
+Cook,2939,8.0,8-8,7.0,15.0,6.0,Illinois
 Crawford,19,15.0,9-23,,,,Illinois
 Cumberland,12,16.0,8-28,,,,Illinois
 De Witt,11,10.0,5-18,,,,Illinois
@@ -1268,7 +1268,7 @@ St. Joseph,91,21.0,17-26,,,,Michigan
 Tuscola,68,18.0,14-23,,,,Michigan
 Van Buren,85,16.0,13-20,,,,Michigan
 Washtenaw,166,6.0,5-7,,12.0,7.0,Michigan
-Wayne,"1,428",12.0,11-12,8.0,17.0,9.0,Michigan
+Wayne,1428,12.0,11-12,8.0,17.0,9.0,Michigan
 Wexford,32,14.0,9-19,,,,Michigan
 Aitkin,21,19.0,12-29,,,,Minnesota
 Anoka,181,7.0,6-8,,6.0,8.0,Minnesota
@@ -1705,7 +1705,7 @@ Wheeler,,,,,,,Nebraska
 York,18,18.0,11-29,,,,Nebraska
 Carson City,60,15.0,12-19,13.0,,18.0,Nevada
 Churchill,52,29.0,22-39,,,,Nevada
-Clark,"1,715",11.0,10-11,9.0,15.0,12.0,Nevada
+Clark,1715,11.0,10-11,9.0,15.0,12.0,Nevada
 Douglas,34,10.0,7-14,,,,Nevada
 Elko,66,18.0,14-23,18.0,,15.0,Nevada
 Esmeralda,,,,,,,Nevada
@@ -1720,16 +1720,16 @@ Pershing,10,22.0,10-40,,,,Nevada
 Storey,,,,,,,Nevada
 Washoe,394,12.0,11-13,9.0,,13.0,Nevada
 White Pine,10,15.0,7-28,,,,Nevada
-Belknap,47,11.0,8-14,,,,New Hampshire
-Carroll,52,15.0,11-19,,,,New Hampshire
-Cheshire,66,12.0,10-16,,,,New Hampshire
-Coos,40,18.0,13-25,,,,New Hampshire
-Grafton,63,10.0,8-13,,,,New Hampshire
-Hillsborough,229,8.0,7-9,5.0,,8.0,New Hampshire
-Merrimack,101,9.0,8-11,,,,New Hampshire
-Rockingham,153,7.0,6-8,,,,New Hampshire
-Strafford,78,8.0,7-11,,,,New Hampshire
-Sullivan,40,13.0,9-18,,,,New Hampshire
+Belknap,,11.0,8-14,,,,New Hampshire
+Carroll,,15.0,11-19,,,,New Hampshire
+Cheshire,,12.0,10-16,,,,New Hampshire
+Coos,,18.0,13-25,,,,New Hampshire
+Grafton,,10.0,8-13,,,,New Hampshire
+Hillsborough,,8.0,7-9,5.0,,8.0,New Hampshire
+Merrimack,,9.0,8-11,,,,New Hampshire
+Rockingham,,7.0,6-8,,,,New Hampshire
+Strafford,,8.0,7-11,,,,New Hampshire
+Sullivan,,13.0,9-18,,,,New Hampshire
 Atlantic,247,13.0,11-15,13.0,19.0,12.0,New Jersey
 Bergen,298,5.0,4-5,5.0,7.0,5.0,New Jersey
 Burlington,261,8.0,7-9,7.0,11.0,8.0,New Jersey
@@ -1948,13 +1948,13 @@ Yadkin,66,25.0,19-32,,,,North Carolina
 Yancey,22,17.0,11-26,,,,North Carolina
 Adams,,,,,,,North Dakota
 Barnes,,,,,,,North Dakota
-Benson,24.0,54.0,34-80,,,,North Dakota
+Benson,,54.0,34-80,,,,North Dakota
 Billings,,,,,,,North Dakota
 Bottineau,,,,,,,North Dakota
 Bowman,,,,,,,North Dakota
 Burke,,,,,,,North Dakota
-Burleigh,53.0,8.0,6-10,,,,North Dakota
-Cass,82.0,6.0,5-8,,,,North Dakota
+Burleigh,,8.0,6-10,,,,North Dakota
+Cass,,6.0,5-8,,,,North Dakota
 Cavalier,,,,,,,North Dakota
 Dickey,,,,,,,North Dakota
 Divide,,,,,,,North Dakota
@@ -1963,42 +1963,42 @@ Eddy,,,,,,,North Dakota
 Emmons,,,,,,,North Dakota
 Foster,,,,,,,North Dakota
 Golden Valley,,,,,,,North Dakota
-Grand Forks,57.0,11.0,9-15,,,,North Dakota
+Grand Forks,,11.0,9-15,,,,North Dakota
 Grant,,,,,,,North Dakota
 Griggs,,,,,,,North Dakota
 Hettinger,,,,,,,North Dakota
 Kidder,,,,,,,North Dakota
 LaMoure,,,,,,,North Dakota
 Logan,,,,,,,North Dakota
-McHenry,11.0,28.0,14-51,,,,North Dakota
+McHenry,,28.0,14-51,,,,North Dakota
 McIntosh,,,,,,,North Dakota
-McKenzie,30.0,30.0,21-43,,,,North Dakota
-McLean,15.0,22.0,12-37,,,,North Dakota
-Mercer,12.0,21.0,11-36,,,,North Dakota
-Morton,25.0,11.0,7-16,,,,North Dakota
-Mountrail,38.0,54.0,39-75,,,52.0,North Dakota
+McKenzie,,30.0,21-43,,,,North Dakota
+McLean,,22.0,12-37,,,,North Dakota
+Mercer,,21.0,11-36,,,,North Dakota
+Morton,,11.0,7-16,,,,North Dakota
+Mountrail,,54.0,39-75,,,52.0,North Dakota
 Nelson,,,,,,,North Dakota
 Oliver,,,,,,,North Dakota
-Pembina,12.0,25.0,13-44,,,,North Dakota
+Pembina,,25.0,13-44,,,,North Dakota
 Pierce,,,,,,,North Dakota
-Ramsey,15.0,19.0,10-31,,,,North Dakota
+Ramsey,,19.0,10-31,,,,North Dakota
 Ransom,,,,,,,North Dakota
 Renville,,,,,,,North Dakota
-Richland,20.0,17.0,11-27,,,,North Dakota
-Rolette,45.0,48.0,35-65,,,,North Dakota
+Richland,,17.0,11-27,,,,North Dakota
+Rolette,,48.0,35-65,,,,North Dakota
 Sargent,,,,,,,North Dakota
 Sheridan,,,,,,,North Dakota
-Sioux,10.0,35.0,17-65,,,,North Dakota
+Sioux,,35.0,17-65,,,,North Dakota
 Slope,,,,,,,North Dakota
-Stark,33.0,15.0,10-21,,,,North Dakota
+Stark,,15.0,10-21,,,,North Dakota
 Steele,,,,,,,North Dakota
-Stutsman,17.0,12.0,7-18,,,,North Dakota
+Stutsman,,12.0,7-18,,,,North Dakota
 Towner,,,,,,,North Dakota
 Traill,,,,,,,North Dakota
-Walsh,13.0,18.0,9-30,,,,North Dakota
-Ward,53.0,11.0,8-14,,,,North Dakota
+Walsh,,18.0,9-30,,,,North Dakota
+Ward,,11.0,8-14,,,,North Dakota
 Wells,,,,,,,North Dakota
-Williams,49.0,19.0,14-25,,,,North Dakota
+Williams,,19.0,14-25,,,,North Dakota
 Adams,31,16.0,11-23,,,,Ohio
 Allen,85,12.0,10-15,,16.0,12.0,Ohio
 Ashland,54,15.0,11-19,,,,Ohio
@@ -2267,11 +2267,11 @@ Wayne,56,16.0,12-20,,,,Pennsylvania
 Westmoreland,232,9.0,8-11,,,,Pennsylvania
 Wyoming,36,19.0,14-27,,,,Pennsylvania
 York,281,9.0,8-10,8.0,6.0,9.0,Pennsylvania
-Bristol,12,3.0,2-6,,,,Rhode Island
-Kent,88,8.0,6-9,,,,Rhode Island
-Newport,27,5.0,3-7,,,,Rhode Island
-Providence,339,7.0,7-8,7.0,8.0,8.0,Rhode Island
-Washington,64,7.0,6-9,,,,Rhode Island
+Bristol,,3.0,2-6,,,,Rhode Island
+Kent,,8.0,6-9,,,,Rhode Island
+Newport,,5.0,3-7,,,,Rhode Island
+Providence,,7.0,7-8,7.0,8.0,8.0,Rhode Island
+Washington,,7.0,6-9,,,,Rhode Island
 Abbeville,50,29.0,22-38,,28.0,30.0,South Carolina
 Aiken,218,18.0,16-21,15.0,23.0,18.0,South Carolina
 Allendale,24,42.0,27-62,,,,South Carolina
@@ -2462,7 +2462,7 @@ Rutherford,291,12.0,11-14,18.0,16.0,11.0,Tennessee
 Scott,46,30.0,22-40,,,,Tennessee
 Sequatchie,23,21.0,13-31,,,,Tennessee
 Sevier,110,16.0,13-19,,,,Tennessee
-Shelby,"1,505",23.0,22-24,22.0,30.0,14.0,Tennessee
+Shelby,1505,23.0,22-24,22.0,30.0,14.0,Tennessee
 Smith,35,25.0,17-34,,,,Tennessee
 Stewart,19,20.0,12-31,,,,Tennessee
 Sullivan,169,15.0,13-17,,,,Tennessee
@@ -2493,7 +2493,7 @@ Bastrop,196,29.0,25-33,36.0,,26.0,Texas
 Baylor,,,,,,,Texas
 Bee,38,17.0,12-23,14.0,,27.0,Texas
 Bell,370,14.0,13-16,10.0,17.0,17.0,Texas
-Bexar,"1,648",12.0,11-12,12.0,14.0,12.0,Texas
+Bexar,1648,12.0,11-12,12.0,14.0,12.0,Texas
 Blanco,14,16.0,9-28,,,,Texas
 Borden,,,,,,,Texas
 Bosque,35,27.0,19-37,,,,Texas
@@ -2535,7 +2535,7 @@ Crockett,11,48.0,24-86,,,,Texas
 Crosby,20,53.0,32-81,,,,Texas
 Culberson,,,,,,,Texas
 Dallam,17,34.0,20-54,,,,Texas
-Dallas,"2,309",13.0,12-13,12.0,18.0,11.0,Texas
+Dallas,2309,13.0,12-13,12.0,18.0,11.0,Texas
 Dawson,29,33.0,22-48,33.0,,40.0,Texas
 Deaf Smith,22,17.0,11-26,,,,Texas
 Delta,,,,,,,Texas
@@ -2579,7 +2579,7 @@ Hamilton,16,27.0,15-44,,,,Texas
 Hansford,,,,,,,Texas
 Hardeman,11,42.0,21-75,,,,Texas
 Hardin,91,23.0,18-28,,,,Texas
-Harris,"3,896",12.0,11-12,11.0,17.0,12.0,Texas
+Harris,3896,12.0,11-12,11.0,17.0,12.0,Texas
 Harrison,124,26.0,21-31,,34.0,28.0,Texas
 Hartley,14,37.0,20-62,,,,Texas
 Haskell,,,,,,,Texas
@@ -2698,7 +2698,7 @@ Sterling,,,,,,,Texas
 Stonewall,,,,,,,Texas
 Sutton,,,,,,,Texas
 Swisher,15,30.0,17-49,,,,Texas
-Tarrant,"1,645",11.0,11-12,10.0,16.0,11.0,Texas
+Tarrant,1645,11.0,11-12,10.0,16.0,11.0,Texas
 Taylor,174,18.0,15-20,15.0,20.0,19.0,Texas
 Terrell,,,,,,,Texas
 Terry,19,23.0,14-35,,,,Texas
@@ -2733,20 +2733,20 @@ Yoakum,22,39.0,24-58,,,,Texas
 Young,33,26.0,18-37,,,,Texas
 Zapata,14,14.0,8-24,,,,Texas
 Zavala,19,25.0,15-39,,,,Texas
-Addison,27.0,10.0,7-15,,,,Vermont
-Bennington,26.0,10.0,7-15,,,,Vermont
-Caledonia,27.0,13.0,8-19,,,,Vermont
-Chittenden,74.0,6.0,5-8,,,,Vermont
+Addison,,10.0,7-15,,,,Vermont
+Bennington,,10.0,7-15,,,,Vermont
+Caledonia,,13.0,8-19,,,,Vermont
+Chittenden,,6.0,5-8,,,,Vermont
 Essex,,,,,,,Vermont
-Franklin,59.0,17.0,13-22,,,,Vermont
+Franklin,,17.0,13-22,,,,Vermont
 Grand Isle,,,,,,,Vermont
-Lamoille,19.0,11.0,6-17,,,,Vermont
-Orange,27.0,13.0,9-19,,,,Vermont
-Orleans,42.0,22.0,16-30,,,,Vermont
-Rutland,39.0,9.0,7-13,,,,Vermont
-Washington,34.0,8.0,6-11,,,,Vermont
-Windham,41.0,13.0,10-18,,,,Vermont
-Windsor,44.0,11.0,8-15,,,,Vermont
+Lamoille,,11.0,6-17,,,,Vermont
+Orange,,13.0,9-19,,,,Vermont
+Orleans,,22.0,16-30,,,,Vermont
+Rutland,,9.0,7-13,,,,Vermont
+Washington,,8.0,6-11,,,,Vermont
+Windham,,13.0,10-18,,,,Vermont
+Windsor,,11.0,8-15,,,,Vermont
 Accomack,50,22.0,16-29,,33.0,16.0,Virginia
 Albemarle,73,9.0,7-12,,15.0,9.0,Virginia
 Alexandria City,48,4.0,3-6,6.0,7.0,4.0,Virginia
@@ -3046,26 +3046,26 @@ Waupaca,60,17.0,13-22,,,,Wisconsin
 Waushara,33,19.0,13-27,,,,Wisconsin
 Winnebago,91,8.0,6-9,,,,Wisconsin
 Wood,63,12.0,9-16,,,,Wisconsin
-Albany,24.0,9.0,6-13,,,,Wyoming
-Big Horn,22.0,27.0,17-40,,,,Wyoming
-Campbell,53.0,16.0,12-21,,,,Wyoming
-Carbon,24.0,23.0,15-35,,,,Wyoming
-Converse,14.0,15.0,8-24,,,,Wyoming
-Crook,16.0,31.0,17-50,,,,Wyoming
-Fremont,84.0,30.0,24-38,,,16.0,Wyoming
-Goshen,23.0,25.0,16-38,,,,Wyoming
+Albany,,9.0,6-13,,,,Wyoming
+Big Horn,,27.0,17-40,,,,Wyoming
+Campbell,,16.0,12-21,,,,Wyoming
+Carbon,,23.0,15-35,,,,Wyoming
+Converse,,15.0,8-24,,,,Wyoming
+Crook,,31.0,17-50,,,,Wyoming
+Fremont,,30.0,24-38,,,16.0,Wyoming
+Goshen,,25.0,16-38,,,,Wyoming
 Hot Springs,,,,,,,Wyoming
 Johnson,,,,,,,Wyoming
-Laramie,94.0,13.0,11-16,12.0,,14.0,Wyoming
-Lincoln,32.0,23.0,16-32,,,,Wyoming
-Natrona,92.0,16.0,13-20,,,,Wyoming
+Laramie,,13.0,11-16,12.0,,14.0,Wyoming
+Lincoln,,23.0,16-32,,,,Wyoming
+Natrona,,16.0,13-20,,,,Wyoming
 Niobrara,,,,,,,Wyoming
-Park,36.0,17.0,12-24,,,,Wyoming
-Platte,18.0,30.0,18-47,,,,Wyoming
-Sheridan,25.0,11.0,7-17,,,,Wyoming
-Sublette,16.0,24.0,14-40,,,,Wyoming
-Sweetwater,46.0,16.0,11-21,,,,Wyoming
+Park,,17.0,12-24,,,,Wyoming
+Platte,,30.0,18-47,,,,Wyoming
+Sheridan,,11.0,7-17,,,,Wyoming
+Sublette,,24.0,14-40,,,,Wyoming
+Sweetwater,,16.0,11-21,,,,Wyoming
 Teton,,,,,,,Wyoming
-Uinta,20.0,14.0,9-22,,,,Wyoming
+Uinta,,14.0,9-22,,,,Wyoming
 Washakie,,,,,,,Wyoming
 Weston,,,,,,,Wyoming
