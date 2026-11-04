@@ -1,0 +1,16 @@
+County,# Motor Vehicle Deaths,County Value**,Error Margin,Hispanic (all races),Non-Hispanic Asian,Non-Hispanic Black,Non-Hispanic White
+"Massachusetts","2,880","6","6-6",,,,
+"Barnstable","120","8","6-9",,,,
+"Berkshire","84","9","8-12",,,,
+"Bristol","341","9","8-9","8",,"11","9"
+"Dukes",,,,,,,
+"Essex","276","5","4-6","5",,,"5"
+"Franklin","39","8","6-11",,,,
+"Hampden","340","10","9-12","12",,"10","10"
+"Hampshire","60","5","4-7",,,,
+"Middlesex","450","4","4-4","4","2","5","4"
+"Nantucket",,,,,,,
+"Norfolk","253","5","4-6","5","3","7","5"
+"Plymouth","286","8","7-9","9",,"7","8"
+"Suffolk","226","4","4-5","5",,"6","4"
+"Worcester","393","7","6-7","6",,"6","7"

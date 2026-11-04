@@ -1,0 +1,19 @@
+County,# Motor Vehicle Deaths,County Value**,Error Margin,Hispanic (all races),Non-Hispanic AIAN,Non-Hispanic Asian,Non-Hispanic Black,Non-Hispanic Native Hawaiian and Other Pacific Islander,Non-Hispanic White
+"Nevada","2,573","12","11-12",,,,,,
+"Carson City","60","15","12-19","13",,,,,"18"
+"Churchill","52","29","22-39",,,,,,
+"Clark","1,715","11","10-11","9","19","5","15","11","12"
+"Douglas","34","10","7-14",,,,,,
+"Elko","66","18","14-23","18",,,,,"15"
+"Esmeralda",,,,,,,,,
+"Eureka",,,,,,,,,
+"Humboldt","23","19","12-29",,,,,,
+"Lander",,,,,,,,,
+"Lincoln",,,,,,,,,
+"Lyon","90","22","18-27","21",,,,,"23"
+"Mineral","16","51","29-82",,,,,,
+"Nye","76","22","17-27",,,,,,
+"Pershing","10","22","10-40",,,,,,
+"Storey",,,,,,,,,
+"Washoe","394","12","11-13","9","25","8",,,"13"
+"White Pine","10","15","7-28",,,,,,
