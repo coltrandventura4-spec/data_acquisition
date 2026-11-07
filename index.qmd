@@ -3,7 +3,7 @@ title: "Combining State Crash-Death Datasets"
 author: "Coltran Ventura"
 date: "2026-11-03"
 categories: [Python, Data Acquisition]
-description: "How I combined state-level CSV exports into one dataset."
+description: "How I combined state-level CSV county exports into one dataset."
 ---
 
 ## Project overview
@@ -46,13 +46,22 @@ all_states = combine_state_data("state_crash_data")
 # remove columns that don't have data 
 all_states = all_states.iloc[:, :8]
 all_states.to_csv("combined_data/all_states.csv", index=False)
+original_deaths = all_states["# Motor Vehicle Deaths"].copy()
 
+# Remove thousands separators and convert to numbers.
+all_states["# Motor Vehicle Deaths"] = pd.to_numeric(
+    original_deaths
+        .astype("string")
+        .str.replace(",", "", regex=False)
+        .str.strip(),
+    errors="coerce"
+)
 
 ```
 
 ## Preparing population data for merge 
 ```{python}
-population = pd.read_excel("co_est2025-pop.xlsx") # make sure that co_est2025-pop.xlsx is in the same working directory as the file you're using to prep the combine_state_data
+population = pd.read_excel("population_data/co-est2025-pop.xlsx") # make sure that co_est2025-pop.xlsx is in the same working directory as the file you're using to prep the combine_state_data
 
 ```
 
