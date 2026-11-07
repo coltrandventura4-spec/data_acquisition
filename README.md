@@ -1,11 +1,19 @@
 # data_acquisition
 
-Step 1: Clone repository
+### Contents
 
-Step 2: Clean and organize all_states dataset
+#### state_crash_data
 
-step 3: Save all_states data set in a new folder named combined_data
+-state_crash_data is the the starting uncombined crash data for all counties across the continental United States.
 
-run mkdir combined_data in the terminal. Then run all_states.to_csv("combined_data/all_states.csv", index=False) in a python shell.
+#### combined_data
 
-step 4:
+-combined_data is a large all-county merged data set
+
+#### data_scraping.ipynb
+
+-data_scraping.ipynb is the jupyter notebook documenting all the code I used to clean and obtain the data.
+
+#### index.qmd
+
+index.qmd the quarto document containing the steps and process of obtaining the data and performing an analysis.

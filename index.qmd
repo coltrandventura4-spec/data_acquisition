@@ -18,6 +18,7 @@ and combined the remaining county rows. I collected country-wide county-level mo
 ```{python}
 from pathlib import Path
 import pandas as pd
+import matplotlib.pyplot as plt
 ```
 
 ```{python}
@@ -38,6 +39,7 @@ def combine_state_data(folder):
     return pd.concat(dataframes, ignore_index=True)
 ```
 
+Using the function above we create a combined csv called all_states. Now we almost have the data set we want. Using the .head() function we can see that there are some unhelpful columns that don't contain data. We can go ahead and get rid of those columns. 
 ```{python}
 # create the combined state data
 all_states = combine_state_data("state_crash_data")
@@ -48,11 +50,100 @@ all_states.to_csv("combined_data/all_states.csv", index=False)
 
 ```
 
+## Preparing population data for merge 
+```{python}
+population = pd.read_excel("co_est2025-pop.xlsx") # make sure that co_est2025-pop.xlsx is in the same working directory as the file you're using to prep the combine_state_data
+
+```
+
 ## Data analysis
-For the data analysis I first looked at the top 5 crash-death counties 
+For the data analysis I first looked at the top 5 counties in crash deaths. These counties are Los Angeles county California, Maricopa County Arizona, Harris County Texas, Cook County Illinois, and San Bernadino County California
 ```{python}
 all_states.sort_values(
     by="# Motor Vehicle Deaths",
     ascending=False
 ).head(5)
+```
+
+This code allows us to see a scatterplot of total deaths against deaths per 100,000 people
+```{python}
+plt.scatter(all_states["County Value**"], all_states["# Motor Vehicle Deaths"])
+plt.xlabel("Motor Vehicle Deaths per 100,000")
+plt.ylabel("Motor Vehicle Deaths")
+plt.title("Total Deaths Compared to Deaths per 100,000")
+plt.show()
+```
+
+What would be interesting to see is how do deaths compare with the total county population. We can download the data her "https://www.census.gov/data/datasets/time-series/demo/popest/2020s-counties-total.html". Now we can extract the most recent estimate to merge with our previous data. 
+```{python}
+population = pd.read_excel("/Users/Tyrannosaurus/Desktop/School/STAT_386/data_acquisition/population_data/co-est2025-pop.xlsx")
+
+name_column = (
+    "table with row headers in column A and column headers "
+    "in rows 3 through 4 (leading dots indicate sub-parts)"
+)
+
+# Extract everything after the comma into a state column
+population["State"] = (
+    population[name_column]
+    .str.extract(r",\s*(.+)$", expand=False)
+    .str.strip()
+)
+
+# Clean the county name
+population["County"] = (
+    population[name_column]
+    .str.replace(r"^\.", "", regex=True)
+    .str.replace(r",.*$", "", regex=True)
+    .str.replace(r"\s+County$", "", regex=True)
+    .str.strip()
+)
+
+# Remove the unwanted rows
+population = population.drop([0, 1, 2, 3], axis=0)
+
+#keep only the most recent population estimate and the county
+population = population.drop(
+    ['table with row headers in column A and column headers in rows 3 through 4 (leading dots indicate sub-parts)',
+       'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4',
+       'Unnamed: 5', 'Unnamed: 6'], 
+    axis = 1
+    )
+population = population.rename(
+    columns={"Unnamed: 7": "2025 population estimates"}
+)
+
+from posixpath import join
+# final data merge add the population data to the combined crash data
+
+combined_data = all_states.merge(
+    population[["County", "State", "2025 population estimates"]],
+    on=["County", "State"],
+    how="left",
+    validate="many_to_one",
+    indicator=True
+)
+```
+
+Now let's look at plot of the total deaths by population total and see if we can pick out any differences or trends compared to total deaths by deaths per 100,000. This gives us a more linear trend and relationship.
+```{python}
+plt.scatter(combined_data["2025 population estimates"], combined_data["# Motor Vehicle Deaths"])
+plt.xlabel("2025 County Population Estimate")
+plt.ylabel("Motor Vehicle Deaths")
+plt.title("Total Crash Deaths Compared to Total Population")
+plt.show()
+
+
+```
+
+It looks like there's a somewhat positive correlation between population and total crashes.
+One last thing to look at, how does deaths per 100,000 compare to total overall deaths
+
+```{python}
+plt.scatter(combined_data["County Value**"], combined_data["2025 population estimates"])
+plt.xlabel("Deaths per 100,000")
+plt.ylabel("County population totals")
+plt.title("Total Deaths Compared to Deaths Per 100,000 Compared to Population Totals")
+plt.show()
+
 ```
